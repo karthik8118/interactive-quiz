@@ -1,9 +1,18 @@
+:root {
+  --primary-color: #044DC7;
+  --highlight-color: #3073e0;
+  --secondary-color: #282A2C;
+  --correct-color: #49ff79;
+  --wrong-color: #ea4335;
+  --text-color: #a2a9b0;
+  --background-color: #1B1C1D;
+}
+
 body {
   margin: 0;
   padding: 0;
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  background-color: #1B1C1D;
-  color: #a2a9b0;
+  background-color: var(--background-color);
+  color: var(--text-color);
   font-family: "Google Sans", "Helvetica Neue", sans-serif;
 }
 
@@ -11,7 +20,7 @@ body {
   max-width: 900px;
   margin: 40px auto;
   padding: 20px 25px;
-  background-color: #282A2C;
+  background-color: var(--secondary-color);
   border-radius: 16px;
 }
 
@@ -22,7 +31,7 @@ h2 {
 
 h2 .question-number {
   font-size: 0.5em;
-  color: #a2a9b0;
+  color: var(--text-color);
   padding-left: 5px;
 }
 
@@ -41,7 +50,7 @@ label {
 button {
   margin-top: 10px;
   cursor: pointer;
-  background-color: #1a72ff;
+  background-color: var(--primary-color);
   border: none;
   color: #fff;
   padding: 8px 18px;
@@ -50,23 +59,23 @@ button {
 }
 
 button:hover {
-  background-color: #3073e0;
+  background-color: var(--highlight-color);
 }
 
 button:disabled {
-  background-color: #a2a9b0;
+  background-color: var(--text-color);
   cursor: not-allowed;
 }
 
 input[type="radio"] {
   appearance: none;
-  background-color: #282A2C;
+  background-color: var(--secondary-color);
   margin: 0 10px 0 0;
   font: inherit;
-  color: #a2a9b0;
+  color: var(--text-color);
   width: 1.15em;
   height: 1.15em;
-  border: 0.15em solid #a2a9b0;
+  border: 0.15em solid var(--text-color);
   border-radius: 50%;
   display: grid;
   place-content: center;
@@ -79,7 +88,7 @@ input[type="radio"]::before {
   height: 0.65em;
   border-radius: 50%;
   transition: transform 0.2s ease-in-out;
-  box-shadow: inset 1em 1em #1a72ff;
+  box-shadow: inset 1em 1em var(--highlight-color);
   transform: scale(0);
 }
 
@@ -97,9 +106,8 @@ input[type="radio"]:disabled {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-color: #1a72ff;
+  background-color: var(--primary-color);
   padding: 10px 20px;
-  border-bottom: 1px solid #3073e0;
   margin: 0;
 }
 
@@ -117,7 +125,6 @@ input[type="radio"]:disabled {
 }
 
 #scoreBox {
-  background-color: #3073e0;
   padding: 6px 12px;
   border: none;
   background: none;
@@ -130,7 +137,6 @@ input[type="radio"]:disabled {
 }
 
 #textBox {
-  background-color: #3073e0;
   padding: 6px 12px;
   border: none;
   background: none;
@@ -143,21 +149,23 @@ input[type="radio"]:disabled {
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(66, 1fr);
-  grid-template-rows: repeat(5, 1fr);
-  gap: 2px;
+  grid-template-columns: repeat(auto-fit, minmax(15px, 1fr));
+  gap: 4px;
 }
 
 .dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  border: 1px solid #a2a9b0;
+  width: 15px;
+  height: 15px;
+  /* padding-top: 100%; */
+  border-radius: 30%;
+  border: 2px solid #7391c4;
+  box-sizing: border-box;
+  padding: 3px;
 }
 
 #printBtn {
-  background-color: #282A2C;
-  border: 2px solid #a2a9b0;
+  background-color: var(--secondary-color);
+  border: 2px solid var(--text-color);
   color: #fff;
   margin-top: 0;
   border-radius: 5px;
@@ -166,7 +174,7 @@ input[type="radio"]:disabled {
 
 @keyframes flashCorrect {
   0% {
-    background-color: #282A2C;
+    background-color: var(--secondary-color);
     transform: scale(1);
   }
 
@@ -186,14 +194,14 @@ input[type="radio"]:disabled {
   }
 
   100% {
-    background-color: #282A2C;
+    background-color: var(--secondary-color);
     transform: scale(1);
   }
 }
 
 @keyframes flashWrong {
   0% {
-    background-color: #282A2C;
+    background-color: var(--secondary-color);
     transform: scale(1);
   }
 
@@ -213,7 +221,7 @@ input[type="radio"]:disabled {
   }
 
   100% {
-    background-color: #282A2C;
+    background-color: var(--secondary-color);
     transform: scale(1);
   }
 }

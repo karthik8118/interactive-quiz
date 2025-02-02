@@ -1,5 +1,3 @@
-let changesMade = false;
-
 function setCookie(name, value, days) {
     /**
      * Set a cookie with the given name, value and expiration date
@@ -23,7 +21,7 @@ function getCookie(name) {
 
     // Decode the cookie string
     const decodedCookie = decodeURIComponent(document.cookie);
-    
+
     // Split the cookie string into an array of cookies
     const ca = decodedCookie.split(';');
 
@@ -78,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const q = questions[index];
 
         // Shuffle the answers and keep track of the correct answer
-        correct_answer = q.Answers[q.Correct];
+        const correct_answer = q.Answers[q.Correct];
         q.Answers = q.Answers.sort(() => Math.random() - 0.5);
         q.Correct = q.Answers.indexOf(correct_answer);
 
@@ -129,11 +127,11 @@ document.addEventListener('DOMContentLoaded', () => {
         scoreBox.innerHTML = `
             <div class="grid-container">
                 ${questions.map((q, i) => {
-            let color = '#3073e0';
+            let color = 'var(--primary-color);';
             if (correct.includes(i)) {
-                color = '#00FF04';
+                color = 'var(--correct-color);';
             } else if (wrong.includes(i)) {
-                color = '#ea4335';
+                color = 'var(--wrong-color);';
             }
             return `<div class="dot" style="background-color: ${color};"></div>`;
         }).join('')}
@@ -194,7 +192,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {// Proceed to next question
 
             // Render the next question or end the quiz
-            if (currentIndex !== undefined) {
+            if (currentIndex !== undefined && currentIndex !== -1) {
                 renderQuestion(currentIndex);
             } else {
                 container.innerHTML = "<h2>Quiz Completed</h2>";
@@ -230,32 +228,34 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('printBtn').addEventListener('click', () => {
         // Build the summary
         const printDiv = document.getElementById('printContainer');
-        printDiv.innerHTML = ''; // clear old content
+        let content = ''; // Build the content string
 
         const buildList = (indices, color) => {
             indices.forEach(idx => {
                 const q = questions[idx];
                 // Basic question info
-                printDiv.innerHTML += `
-                <div style="color: #000000; margin: 10px 0;">
-                <b style="color: ${color}">Question ${idx + 1}:</b> ${q.Question}
-                <ul>
-            ${q.Answers.map((ans, i) => {
+                content += `
+                    <div style="color: black; margin: 10px 0;">
+                    <b style="color: ${color}">Question ${idx + 1}:</b> ${q.Question}
+                    <ul>
+                ${q.Answers.map((ans, i) => {
                     const isCorrect = i === q.Correct;
                     return `
-                <li>${isCorrect ? '<b>' + ans + '</b>' : ans}</li>
-                `;
+                    <li>${isCorrect ? '<b>' + ans + '</b>' : ans}</li>
+                    `;
                 }).join('')}
-            </ul>
-                </div>
-                `;
+                </ul>
+                    </div>
+                    `;
             });
         };
 
-        printDiv.innerHTML += '<h2 style="color: #34a853;">Correct Answers</h2>';
-        buildList(correct, '#34a853');
-        printDiv.innerHTML += '<h2 style="color: #ea4335;">Wrong Answers</h2>';
-        buildList(wrong, '#ea4335');
+        content += '<h2 style="color: var(--correct-color);">Correct Answers</h2>';
+        buildList(correct, 'var(--correct-color)');
+        content += '<h2 style="color: var(--wrong-color);">Wrong Answers</h2>';
+        buildList(wrong, 'var(--wrong-color)');
+
+        printDiv.innerHTML = content; // Set the content once
 
         // Print the summary
         window.print();
