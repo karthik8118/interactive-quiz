@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Render the question in the quiz-container
         container.innerHTML = `
-      <h2>Question ${index + 1}</h2>
+      <h2>Question<span class="question-number">#${String(index + 1).padStart(3, '0')}</span></h2>
       <p>${q.Question}</p>
       ${q.Answers.map((ans, i) => `
         <label name="answer_label">
@@ -53,8 +53,10 @@ document.addEventListener('DOMContentLoaded', () => {
     `;
 
         // Display how many questions (including current) remain
-        document.getElementById('remainingBox').textContent =
-            `Remaining ${order.length + 1}/${questions.length}`;
+        document.getElementById('textBox').textContent =
+            `You have completed ${correct.length + wrong.length} out of ${questions.length} with ${correct.length} correct.`;
+
+        updateScoreBox();
 
         // Get the action button, add an event listener and disable it
         const actionBtn = document.getElementById('actionBtn');
@@ -68,6 +70,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 actionBtn.disabled = false;
             });
         });
+    }
+
+    function updateScoreBox() {
+        const scoreBox = document.getElementById('scoreBox');
+        scoreBox.innerHTML = `
+            <div class="grid-container">
+                ${questions.map((q, i) => {
+                    let color = '#3073e0';
+                    if (correct.includes(i)) {
+                        color = '#00FF04';
+                    } else if (wrong.includes(i)) {
+                        color = '#ea4335';
+                    }
+                    return `<div class="dot" style="background-color: ${color};"></div>`;
+                }).join('')}
+            </div>
+        `;
     }
 
     function actionBtnClick() {
@@ -103,7 +122,8 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // Update score display
-            document.getElementById('scoreBox').textContent = `Correct ${correct.length}/${correct.length + wrong.length}`;
+            // document.getElementById('scoreBox').textContent = `You have completed ${correct.length + wrong.length} out of ${questions.length} with ${correct.length} correct.`;
+            updateScoreBox();
 
             // Switch to "next" mode
             actionBtn.textContent = "Next";

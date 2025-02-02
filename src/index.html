@@ -2,15 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Single Question Quiz</title>
+  <title>Psychology Quiz</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <nav id="topnav">
-    <h1>Psychology Quiz</h1>
-    <div id="scoreBox">Correct 0/0</div>
-    <div id="remainingBox">Remaining 0/0</div>
-    <button id="printBtn">Export/Print</button>
+    <div class="top-row">
+      <h1>Psychology Quiz</h1>
+      <div id="textBox"></div>
+      <button id="printBtn">Export/Print</button>
+    </div>
+    <div id="scoreBox"></div>
   </nav>
   <!-- Hidden container for printable summary -->
   <div id="printContainer" style="display: none;"></div>
