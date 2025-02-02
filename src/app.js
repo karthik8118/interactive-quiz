@@ -1,14 +1,44 @@
 let changesMade = false;
 
-window.onload = function() {
-    window.addEventListener("beforeunload", function (e) {
-        if (changesMade) {
-            var confirmationMessage = 'If you leave this page your progress is lost and cannot be recovered!';
-            (e || window.event).returnValue = confirmationMessage; // Gecko + IE
-            return confirmationMessage; // Gecko + Webkit, Safari, Chrome etc.
+function setCookie(name, value, days) {
+    /**
+     * Set a cookie with the given name, value and expiration date
+     * @param {string} name - The name of the cookie
+     * @param {string} value - The value of the cookie
+     * @param {number} days - The number of days until the cookie expires
+     * @returns {void}
+    */
+    const d = new Date();
+    d.setTime(d.getTime() + (days * 24 * 60 * 60 * 1000));
+    const expires = "expires=" + d.toUTCString();
+    document.cookie = `${name}=${value};${expires};path=/`;
+}
+
+function getCookie(name) {
+    /**
+     * Get the value of a cookie with the given name
+     * @param {string} name - The name of the cookie
+     * @returns {string} - The value of the cookie
+    */
+
+    // Decode the cookie string
+    const decodedCookie = decodeURIComponent(document.cookie);
+    
+    // Split the cookie string into an array of cookies
+    const ca = decodedCookie.split(';');
+
+    // Find the cookie with the given name
+    const prefix = name + "=";
+    for (let c of ca) {
+        while (c.charAt(0) === ' ') c = c.substring(1);
+        if (c.indexOf(prefix) === 0) {
+            return c.substring(prefix.length, c.length);
         }
-    });
-};
+    }
+
+    // Return an empty string if the cookie is not found
+    return "";
+}
 
 document.addEventListener('DOMContentLoaded', () => {
     // Create variables
@@ -23,6 +53,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Get the quiz container
     const container = document.getElementById('quiz-container');
+
+    let savedProgress = getCookie('quizProgress');
+    if (savedProgress) {
+        try {
+            const parsed = JSON.parse(savedProgress);
+            correct = parsed.correct || [];
+            wrong = parsed.wrong || [];
+            order = parsed.order || [];
+            currentIndex = parsed.currentIndex ?? -1;
+        } catch (e) {
+            console.error("Failed to parse progress:", e);
+        }
+    }
 
     function renderQuestion(index) {
         /**
@@ -52,10 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <button id="actionBtn">Submit</button>
     `;
 
-        // Display how many questions (including current) remain
-        document.getElementById('textBox').textContent =
-            `You have completed ${correct.length + wrong.length} out of ${questions.length} with ${correct.length} correct.`;
-
+        // Update the score display
         updateScoreBox();
 
         // Get the action button, add an event listener and disable it
@@ -73,18 +113,30 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function updateScoreBox() {
+        /**
+         * Update the score display
+         * @returns {void}
+         */
+
+        // Display how many questions (including current) remain
+        document.getElementById('textBox').textContent =
+            `You have completed ${correct.length + wrong.length} out of ${questions.length} with ${correct.length} correct.`;
+
+        // Get the score box
         const scoreBox = document.getElementById('scoreBox');
+
+        // Color the dots based on the correctness of the answers
         scoreBox.innerHTML = `
             <div class="grid-container">
                 ${questions.map((q, i) => {
-                    let color = '#3073e0';
-                    if (correct.includes(i)) {
-                        color = '#00FF04';
-                    } else if (wrong.includes(i)) {
-                        color = '#ea4335';
-                    }
-                    return `<div class="dot" style="background-color: ${color};"></div>`;
-                }).join('')}
+            let color = '#3073e0';
+            if (correct.includes(i)) {
+                color = '#00FF04';
+            } else if (wrong.includes(i)) {
+                color = '#ea4335';
+            }
+            return `<div class="dot" style="background-color: ${color};"></div>`;
+        }).join('')}
             </div>
         `;
     }
@@ -122,39 +174,35 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // Update score display
-            // document.getElementById('scoreBox').textContent = `You have completed ${correct.length + wrong.length} out of ${questions.length} with ${correct.length} correct.`;
             updateScoreBox();
 
             // Switch to "next" mode
             actionBtn.textContent = "Next";
             mode = 'next';
 
-            // Exit the function
-            return;
-        } else {
-            // Proceed to next question
-            nextQuestion();
+            // Get the next question index
+            currentIndex = order.pop();
+
+            // Save the progress
+            setCookie('quizProgress', JSON.stringify({
+                correct,
+                wrong,
+                order,
+                currentIndex
+            }), 7);
+
+        } else {// Proceed to next question
+
+            // Render the next question or end the quiz
+            if (currentIndex !== undefined) {
+                renderQuestion(currentIndex);
+            } else {
+                container.innerHTML = "<h2>Quiz Completed</h2>";
+            }
 
             // Switch back to "submit" mode
             actionBtn.textContent = "Submit";
             mode = 'submit';
-        }
-    }
-
-    function nextQuestion() {
-        /**
-         * Move to the next question
-         * @returns {void}
-         */
-
-        // Get the next question index
-        currentIndex = order.pop();
-
-        // Render the next question or end the quiz
-        if (currentIndex !== undefined) {
-            renderQuestion(currentIndex);
-        } else {
-            container.innerHTML = "<h2>Quiz Completed</h2>";
         }
     }
 
@@ -167,14 +215,17 @@ document.addEventListener('DOMContentLoaded', () => {
             questions = data;
 
             // Create a random order of questions
-            order = Array.from({ length: questions.length }, (_, i) => i).sort(() => Math.random() - 0.5);
+            if (order.length === 0) {
+                order = Array.from({ length: questions.length }, (_, i) => i).sort(() => Math.random() - 0.5);
 
-            // Select the first question
-            currentIndex = order.pop();
+                // Select the first question
+                currentIndex = order.pop();
+            }
 
             // Render the first question
             renderQuestion(currentIndex);
         });
+
 
     document.getElementById('printBtn').addEventListener('click', () => {
         // Build the summary
