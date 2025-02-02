@@ -1013,9 +1013,9 @@
         "Question": "Which attribution type is most likely to foster academic resilience?",
         "Answers": [
             "Internal, stable, and uncontrollable",
-            "External, unstable, and controllable",
+            "External, unstable, and uncontrollable",
             "Internal, unstable, and controllable",
-            "Internal, stable, and controllable"
+            "Internal, stable, and uncontrollable"
         ],
         "Correct": 3
     },
