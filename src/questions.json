@@ -1040,14 +1040,14 @@
         "Correct": 2
     },
     {
-        "Question": "In Scherer's (1993) definition, emotions involve temporal synchronization across subsystems EXCEPT:",
-        "Answers": [
-            "Physiological regulation",
-            "Motor expression",
-            "Genetic predisposition",
-            "Subjective feeling"
-        ],
-        "Correct": 2
+      "question": "The term 'Norman Door' is used in instructional design to illustrate which of the following design failures?",
+      "options": [
+        "A door that automatically adjusts to the user's actions",
+        "A door whose design provides ambiguous cues, leading to user confusion",
+        "A door that incorporates excessive feedback for each action",
+        "A door designed primarily for aesthetic appeal rather than functionality"
+      ],
+      "answer_index": 1
     },
     {
         "Question": "Which emotion is NOT part of Paul Ekman's universally recognized basic emotions?",
@@ -1240,14 +1240,14 @@
         "Correct": 1
     },
     {
-        "Question": "Which theory posits that gamification influences learning outcomes through mediating variables like motivation?",
-        "Answers": [
-            "Flow Theory",
-            "Theory of Gamified Learning (Landers)",
-            "Cognitive Load Theory",
-            "Dual Coding Theory"
-        ],
-        "Correct": 1
+      "question": "Wilhelm Wundt is best known for establishing the first experimental laboratory in psychology. Which method did he primarily use to study internal experiences?",
+      "options": [
+        "Operant Conditioning",
+        "Introspection",
+        "Direct Observation",
+        "Behavioral Analysis"
+      ],
+      "answer_index": 1
     },
     {
         "Question": "A medical training simulator that replicates real-world scenarios is an example of:",

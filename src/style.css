@@ -138,7 +138,6 @@ input[type="radio"]:disabled {
   font-weight: bold;
   font-size: 1rem;
   margin-top: 10px;
-  width: 100%;
   text-align: center;
 }
 
