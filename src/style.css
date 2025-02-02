@@ -121,7 +121,7 @@ input[type="radio"]:disabled {
 #topnav h1 {
   margin: 0;
   color: #fff;
-  font-size: 1.8rem;
+  font-size: 4vw;
 }
 
 #scoreBox {
