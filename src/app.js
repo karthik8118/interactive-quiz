@@ -1,3 +1,15 @@
+let changesMade = false;
+
+window.onload = function() {
+    window.addEventListener("beforeunload", function (e) {
+        if (changesMade) {
+            var confirmationMessage = 'If you leave this page your progress is lost and cannot be recovered!';
+            (e || window.event).returnValue = confirmationMessage; // Gecko + IE
+            return confirmationMessage; // Gecko + Webkit, Safari, Chrome etc.
+        }
+    });
+};
+
 document.addEventListener('DOMContentLoaded', () => {
     // Create variables
     let questions = [];
@@ -42,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Display how many questions (including current) remain
         document.getElementById('remainingBox').textContent =
-            `Remaining ${order.length + 1}`;
+            `Remaining ${order.length + 1}/${questions.length}`;
 
         // Get the action button, add an event listener and disable it
         const actionBtn = document.getElementById('actionBtn');
@@ -63,6 +75,9 @@ document.addEventListener('DOMContentLoaded', () => {
          * Handle the action button click event
          * @returns {void}
          */
+
+        // Set the flag to indicate changes
+        changesMade = true;
 
         // Get the radio buttons
         const radios = container.querySelectorAll('input[name="answer_radio"]');

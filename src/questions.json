@@ -1,6 +1,6 @@
 [
     {
-        "Question": "Which of the following is NOT one of the components in Baddeley\u2019s model of working memory?",
+        "Question": "Which of the following is NOT one of the components in Baddeley's model of working memory?",
         "Answers": [
             "Semantic Processor",
             "Phonological Loop",
@@ -294,7 +294,7 @@
         "Answers": [
             "A focus on external rewards for success",
             "A measure of intrinsic motivation",
-            "A belief in one\u2019s ability to perform tasks successfully",
+            "A belief in one's ability to perform tasks successfully",
             "A generalized feeling of self-worth"
         ],
         "Correct": 2
@@ -310,7 +310,7 @@
         "Correct": 0
     },
     {
-        "Question": "According to Mayer\u2019s Cognitive Model of Multimedia Learning, what is the \"coherence principle\"?",
+        "Question": "According to Mayer's Cognitive Model of Multimedia Learning, what is the \"coherence principle\"?",
         "Answers": [
             "Highlighting key points to focus learners' attention",
             "Presenting audio and visual materials together for better understanding",
@@ -330,7 +330,7 @@
         "Correct": 1
     },
     {
-        "Question": "Which of the following is NOT one of Ekman\u2019s six basic emotions?",
+        "Question": "Which of the following is NOT one of Ekman's six basic emotions?",
         "Answers": [
             "fear",
             "surprise",
@@ -345,7 +345,7 @@
             "\"The exam questions were unfair.\"",
             "\"I lack intelligence.\"",
             "\"I am exhausted.\"",
-            "\"I didn\u2019t study enough.\""
+            "\"I didn't study enough.\""
         ],
         "Correct": 0
     },
@@ -780,7 +780,7 @@
         "Correct": 2
     },
     {
-        "Question": "In Zimmerman\u2019s Cyclical Model of SRL, which phase involves the implementation of learning strategies and self-monitoring of progress?",
+        "Question": "In Zimmerman's Cyclical Model of SRL, which phase involves the implementation of learning strategies and self-monitoring of progress?",
         "Answers": [
             "Forethought",
             "Performance",
@@ -790,7 +790,7 @@
         "Correct": 1
     },
     {
-        "Question": "According to Winne and Hadwin\u2019s Model of SRL, what is the primary focus of the \"Monitoring\" stage?",
+        "Question": "According to Winne and Hadwin's Model of SRL, what is the primary focus of the \"Monitoring\" stage?",
         "Answers": [
             "Setting long-term academic goals",
             "Generating internal feedback to adjust learning tactics",
@@ -800,7 +800,7 @@
         "Correct": 1
     },
     {
-        "Question": "Which pathway in Boekaerts\u2019 Dual Processing Model of SRL is activated when a learner perceives a task as too challenging or threatening?",
+        "Question": "Which pathway in Boekaerts' Dual Processing Model of SRL is activated when a learner perceives a task as too challenging or threatening?",
         "Answers": [
             "Mastery Pathway",
             "Growth Pathway",
@@ -810,17 +810,17 @@
         "Correct": 2
     },
     {
-        "Question": "What is the main difference between Zimmerman\u2019s Model and Winne and Hadwin\u2019s Model of SRL?",
+        "Question": "What is the main difference between Zimmerman's Model and Winne and Hadwin's Model of SRL?",
         "Answers": [
-            "Zimmerman\u2019s Model focuses on emotional regulation, while Winne and Hadwin\u2019s Model focuses on cognitive strategies.",
-            "Zimmerman\u2019s Model is cyclical, while Winne and Hadwin\u2019s Model is linear.",
-            "Zimmerman\u2019s Model emphasizes behavioral and motivational aspects, while Winne and Hadwin\u2019s Model is strongly metacognitive.",
-            "Zimmerman\u2019s Model includes only two phases, while Winne and Hadwin\u2019s Model includes four."
+            "Zimmerman's Model focuses on emotional regulation, while Winne and Hadwin's Model focuses on cognitive strategies.",
+            "Zimmerman's Model is cyclical, while Winne and Hadwin's Model is linear.",
+            "Zimmerman's Model emphasizes behavioral and motivational aspects, while Winne and Hadwin's Model is strongly metacognitive.",
+            "Zimmerman's Model includes only two phases, while Winne and Hadwin's Model includes four."
         ],
         "Correct": 2
     },
     {
-        "Question": "Which of the following is NOT a key dimension of SRL\u2019s impact on cognitive outcomes?",
+        "Question": "Which of the following is NOT a key dimension of SRL's impact on cognitive outcomes?",
         "Answers": [
             "Improved problem-solving abilities through metacognitive strategies",
             "Enhanced surface learning through rote memorization",
@@ -830,7 +830,7 @@
         "Correct": 1
     },
     {
-        "Question": "In the context of SRL, what does the \"Regulation of Processing Modes\" (inner layer) in Boekaerts\u2019 Three Layers of Regulation primarily involve?",
+        "Question": "In the context of SRL, what does the \"Regulation of Processing Modes\" (inner layer) in Boekaerts' Three Layers of Regulation primarily involve?",
         "Answers": [
             "Setting personal goals and managing motivation",
             "Choosing effective cognitive strategies like summarization and elaboration",
@@ -880,7 +880,7 @@
         "Correct": 1
     },
     {
-        "Question": "What is the primary focus of the \"Mastery Pathway\" in Boekaerts\u2019 Dual Processing Model of SRL?",
+        "Question": "What is the primary focus of the \"Mastery Pathway\" in Boekaerts' Dual Processing Model of SRL?",
         "Answers": [
             "Protecting emotional health during challenging tasks",
             "Maximizing learning and academic achievement",
@@ -910,7 +910,7 @@
         "Correct": 2
     },
     {
-        "Question": "In the context of SRL, what is the primary purpose of the \"Self-reflection\" phase in Zimmerman\u2019s Cyclical Model?",
+        "Question": "In the context of SRL, what is the primary purpose of the \"Self-reflection\" phase in Zimmerman's Cyclical Model?",
         "Answers": [
             "To set new learning goals based on past performance",
             "To evaluate performance and adjust strategies for future tasks",
@@ -960,7 +960,7 @@
         "Correct": 2
     },
     {
-        "Question": "Which characteristic is NOT part of Cs\u00edkszentmih\u00e1lyi's \"flow\" state?",
+        "Question": "Which characteristic is NOT part of Csikszentmihalyi's  \"flow\" state?",
         "Answers": [
             "Loss of self-consciousness",
             "External reward anticipation",
@@ -1130,7 +1130,7 @@
         "Correct": 1
     },
     {
-        "Question": "Which of the following is NOT a type of constraint in Norman\u2019s interaction design principles?",
+        "Question": "Which of the following is NOT a type of constraint in Norman's interaction design principles?",
         "Answers": [
             "Semantic",
             "Logical",
@@ -1140,7 +1140,7 @@
         "Correct": 2
     },
     {
-        "Question": "In Mayer\u2019s Cognitive Model of Multimedia Learning, what principle dictates removing extraneous material to avoid distraction?",
+        "Question": "In Mayer's Cognitive Model of Multimedia Learning, what principle dictates removing extraneous material to avoid distraction?",
         "Answers": [
             "Spatial Contiguity",
             "Coherence",
@@ -1180,7 +1180,7 @@
         "Correct": 1
     },
     {
-        "Question": "According to Mayer\u2019s model, presenting text and visuals simultaneously to enhance understanding leverages:",
+        "Question": "According to Mayer's model, presenting text and visuals simultaneously to enhance understanding leverages:",
         "Answers": [
             "Spatial Contiguity",
             "Dual Coding",
@@ -1220,7 +1220,7 @@
         "Correct": 1
     },
     {
-        "Question": "The \"Piano Stairs\" experiment primarily demonstrates gamification\u2019s ability to:",
+        "Question": "The \"Piano Stairs\" experiment primarily demonstrates gamification's ability to:",
         "Answers": [
             "Enhance procedural knowledge through repetition",
             "Increase engagement by transforming mundane tasks",
@@ -1260,7 +1260,7 @@
         "Correct": 2
     },
     {
-        "Question": "According to Li et al. (2023), gamification\u2019s effectiveness is highest in which educational discipline?",
+        "Question": "According to Li et al. (2023), gamification's effectiveness is highest in which educational discipline?",
         "Answers": [
             "Business",
             "Social Science",
@@ -2650,7 +2650,7 @@
         "Correct": 2
     },
     {
-        "Question": "What is the primary function of the phonological loop in Baddeley\u00e2\u20ac\u2122s working memory model?",
+        "Question": "What is the primary function of the phonological loop in Baddeley's working memory model?",
         "Answers": [
             "Processing verbal and auditory information",
             "Managing visual-spatial data",
@@ -2670,7 +2670,7 @@
         "Correct": 1
     },
     {
-        "Question": "What does the coherence principle in Mayer\u00e2\u20ac\u2122s Cognitive Model of Multimedia Learning suggest?",
+        "Question": "What does the coherence principle in Mayer's Cognitive Model of Multimedia Learning suggest?",
         "Answers": [
             "Information should be presented with redundancy for reinforcement",
             "Removing unnecessary details improves learning",
@@ -2705,7 +2705,7 @@
             "A child learns to solve math problems by repetition",
             "A dog salivates at the sound of a bell after repeated pairings with food",
             "A student receives a reward for completing a task",
-            "A child mimics a teacher\u00e2\u20ac\u2122s behavior after observing them"
+            "A child mimics a teacher's behavior after observing them"
         ],
         "Correct": 1
     },
@@ -2720,7 +2720,7 @@
         "Correct": 2
     },
     {
-        "Question": "According to Atkinson & Shiffrin\u00e2\u20ac\u2122s Multi-Store Model, which store has the shortest duration?",
+        "Question": "According to Atkinson & Shiffrin's Multi-Store Model, which store has the shortest duration?",
         "Answers": [
             "Sensory memory",
             "Short-term memory",
