@@ -1015,9 +1015,9 @@
             "Internal, stable, and uncontrollable",
             "External, unstable, and uncontrollable",
             "Internal, unstable, and controllable",
-            "Internal, stable, and uncontrollable"
+            "External, stable, and uncontrollable"
         ],
-        "Correct": 3
+        "Correct": 2
     },
     {
         "Question": "According to the Still Face Experiment by Edward Tronick, what critical function of emotions does the infant's reaction to the caregiver's unresponsiveness demonstrate?",
@@ -1902,7 +1902,7 @@
     {
         "Question": "Which strategy mitigates the Hawthorne Effect?",
         "Answers": [
-            "Double-blind design",
+            "Ethical compliance",
             "Informed consent",
             "Single-blind design",
             "Debriefing sessions"
