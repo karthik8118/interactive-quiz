@@ -145,9 +145,6 @@ document.addEventListener('DOMContentLoaded', () => {
          * @returns {void}
          */
 
-        // Set the flag to indicate changes
-        changesMade = true;
-
         // Get the radio buttons
         const radios = container.querySelectorAll('input[name="answer_radio"]');
 
@@ -219,6 +216,36 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Select the first question
                 currentIndex = order.pop();
             }
+
+            // Add an event listener to the document to listen for the Enter key
+            document.addEventListener('keydown', function(event) {
+                const actionBtn = document.getElementById('actionBtn');
+                if (event.key === 'Enter') {
+                    if (!actionBtn.disabled) {
+                        actionBtnClick();
+                    }
+                }
+                if (event.key === '1') {
+                    const radios = container.querySelectorAll('input[name="answer_radio"]');
+                    radios[0].checked = true;
+                    actionBtn.disabled = false;
+                }
+                if (event.key === '2') {
+                    const radios = container.querySelectorAll('input[name="answer_radio"]');
+                    radios[1].checked = true;
+                    actionBtn.disabled = false;
+                }
+                if (event.key === '3') {
+                    const radios = container.querySelectorAll('input[name="answer_radio"]');
+                    radios[2].checked = true;
+                    actionBtn.disabled = false;
+                }
+                if (event.key === '4') {
+                    const radios = container.querySelectorAll('input[name="answer_radio"]');
+                    radios[3].checked = true;
+                    actionBtn.disabled = false;
+                }
+            });
 
             // Render the first question
             renderQuestion(currentIndex);
