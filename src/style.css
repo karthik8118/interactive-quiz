@@ -257,3 +257,52 @@ input[type="radio"]:disabled {
       margin: 20px 0 20px auto; /* Align the button to the right on mobile */
   }
 }
+
+#printContainer {
+  display: block !important;
+}
+
+.action-btn {
+  width: 140px; /* Button size Select/Next */
+  height: 40px;
+  font-size: 16px;
+  display: block;
+  margin: 20px auto;
+}
+
+@media (max-width: 500px) {
+  .action-btn {
+      margin: 20px 0 20px auto; /* Align the button to the right on mobile */
+  }
+}
+
+.dot {
+  position: relative;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.dot.answered .question-answer {
+  visibility: hidden;
+  width: 200px;
+  background-color: #f9f9f9;
+  color: #000;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Position the tooltip above the text */
+  left: 50%;
+  margin-left: -100px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.dot.answered:hover .question-answer {
+  visibility: visible;
+  opacity: 1;
+}
