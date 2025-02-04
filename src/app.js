@@ -44,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Get the quiz container
     const container = document.getElementById('quiz-container');
 
+    // Load saved progress from cookies
     let savedProgress = getCookie('quizProgress');
     if (savedProgress) {
         try {
