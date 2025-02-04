@@ -243,3 +243,8 @@ input[type="radio"]:disabled {
     display: block !important;
   }
 }
+
+.action-btn {
+  width: 140px; /* Button size Select/Next */
+  height: 60px; 
+}

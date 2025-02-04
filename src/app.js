@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ${ans}
         </label><br/>
       `).join('')}
-      <button id="actionBtn">Submit</button>
+      <button id="actionBtn" class="action-btn">Submit</button>
     `;
 
         // Update the score display
@@ -173,6 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Switch to "next" mode
             actionBtn.textContent = "Next";
+            actionBtn.classList.add('action-btn');
             mode = 'next';
 
             // Get the next question index
@@ -197,6 +198,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Switch back to "submit" mode
             actionBtn.textContent = "Submit";
+            actionBtn.classList.add('action-btn');
             mode = 'submit';
         }
     }
