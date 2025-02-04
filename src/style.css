@@ -246,5 +246,6 @@ input[type="radio"]:disabled {
 
 .action-btn {
   width: 140px; /* Button size Select/Next */
-  height: 60px; 
+  height: 40px;
+  font-size: 16px; 
 }
