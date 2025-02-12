@@ -1,7 +1,7 @@
 /* Define color variables for consistency */
 :root {
-  --primary-color: #7391c4;
-  --secondary-color: #4a69bd;
+  --primary-color: #3070b3;
+  --secondary-color: #072140;
   --correct-color: #34a853;
   --wrong-color: #ea4335;
   --text-color: #ffffff;
@@ -76,14 +76,14 @@ body {
 .question-container .question-answer {
   visibility: hidden;
   width: 200px;
-  background-color: #f9f9f9;
+  background-color: rgba(249, 249, 249, 0.75); /* 75% transparency */
   color: #000;
   text-align: center;
   border-radius: 6px;
   padding: 8px 0;
   position: absolute;
   z-index: 1;
-  bottom: 125%; /* Position the tooltip above the text */
+  top: 125%; /* Position the tooltip below the text */
   left: 50%;
   margin-left: -100px;
   opacity: 0;
@@ -106,24 +106,24 @@ body {
 .dot {
   width: 15px;
   height: 15px;
-  border-radius: 50%;
-  border: 2px solid var(--primary-color);
+  border: 2px solid var(--text-color); /* White border */
   box-sizing: border-box;
   padding: 3px;
   position: relative;
+  background-color: var(--primary-color);
 }
 
 .dot.answered .question-answer {
   visibility: hidden;
   width: 200px;
-  background-color: #f9f9f9;
+  background-color: rgba(249, 249, 249, 0.75); /* 75% transparency */
   color: #000;
   text-align: center;
   border-radius: 6px;
   padding: 8px 0;
   position: absolute;
   z-index: 1;
-  bottom: 125%; /* Position the tooltip above the text */
+  top: 125%; /* Position the tooltip below the text */
   left: 50%;
   margin-left: -100px;
   opacity: 0;
