@@ -210,6 +210,9 @@
                     if (text.startsWith('Session')) {
                         continue;
                     }
+                    if (depth > 4) {
+                        continue;
+                    }
                     const li = document.createElement('li');
                     const a = document.createElement('a');
                     a.href = `#${id}`;
