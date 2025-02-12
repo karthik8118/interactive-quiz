@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Base</title>
+    <style>
+        html {
+            scroll-padding-top: 80px;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background: #fff;
+            padding: 1rem;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            max-width: 1200px;
+            /* margin: 20px auto; */
+            padding: 0 1rem;
+        }
+
+        nav {
+            flex: 1;
+            margin-right: 20px;
+            /* Calculate nav height based on the viewport height minus header height.
+            Adjust 80px to match your header's total height */
+            position: sticky;
+            top: 80px;
+            height: calc(100vh - 90px);
+            overflow-y: auto;
+        }
+
+        main {
+            flex: 3;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        nav input[type="text"] {
+            width: 90%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav li {
+            margin: 5px 0;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+        nav a.h2-link {
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main h1,
+        main h2,
+        main h3,
+        main h4,
+        main h5,
+        main h6 {
+            color: #007BFF;
+        }
+
+        main a {
+            color: #007BFF;
+            text-decoration: none;
+            position: relative;
+        }
+
+        main a:hover {
+            text-decoration: underline;
+        }
+
+        .peek {
+            display: none;
+            position: absolute;
+            background: #fff;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            z-index: 100;
+            max-width: 400px;
+            top: 100%;
+            left: 0;
+            margin-top: 5px;
+            font-weight: normal;
+        }
+
+        main a:hover+.peek {
+            display: block;
+        }
+
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+
+        @keyframes flash-highlight {
+            0% {
+                color: #007BFF;
+            }
+
+            50% {
+                color: #d4d4d4;
+            }
+
+            100% {
+                color: #007BFF;
+            }
+        }
+
+        .flash {
+            animation: flash-highlight 0.3s ease-in-out 2;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Knowledge Base</h1>
+    </header>
+    <div class="container">
+        <nav>
+            <input type="text" id="searchBar" placeholder="Search definitions..." oninput="filterDefinitions()">
+            <ul id="definitionsList"></ul>
+        </nav>
+        <main id="content"></main>
+    </div>
+
+    <script>
+        fetch('AI in and for Society.md')
+            .then(response => response.text())
+            .then(markdownContent => {
+                const contentDiv = document.getElementById('content');
+                const definitionsList = document.getElementById('definitionsList');
+
+                // Create a new renderer using the token API
+                const renderer = new marked.Renderer();
+                const linkMap = {};
+
+                renderer.link = (token) => {
+                    const { href, title, text } = token;
+                    if (typeof href === 'string' && href.startsWith('#')) {
+                        const sectionId = href.slice(1);
+                        return `<a href="${href}" onmouseover="showPeek('${sectionId}', this)" onmouseout="hidePeek()">${text}</a><div id="peek-${sectionId}" class="peek"></div>`;
+                    }
+                    return `<a href="${href}" title="${title || ''}">${text}</a>`;
+                };
+
+                renderer.heading = (token) => {
+                    const { depth, text } = token;
+                    const id = String(text)
+                        .toLowerCase()
+                        .trim()
+                        .replace(/\s+/g, '-')
+                        .replace(/[^\w-]/g, '');
+                    linkMap[id] = [text, depth];
+                    return `<h${depth} id="${id}">${text}</h${depth}>`;
+                };
+
+                marked.use({ renderer });
+                contentDiv.innerHTML = marked.parse(markdownContent);
+
+                // Populate definitions list
+                for (const [id, value] of Object.entries(linkMap)) {
+                    const [text, depth] = value;
+                    // Skip headings that start with "Session"
+                    if (text.startsWith('Session')) {
+                        continue;
+                    }
+                    const li = document.createElement('li');
+                    const a = document.createElement('a');
+                    a.href = `#${id}`;
+                    a.textContent = text;
+                    // If heading is an h2, add a class for styling
+                    if (depth === 2) {
+                        a.classList.add('h2-link');
+                    }
+                    li.appendChild(a);
+                    definitionsList.appendChild(li);
+                }
+            })
+            .catch(error => console.error('Error loading markdown file:', error));
+
+        function showPeek(sectionId, element) {
+            const peekDiv = document.getElementById(`peek-${sectionId}`);
+            if (peekDiv) {
+                const targetElement = document.getElementById(sectionId);
+                if (targetElement) {
+                    const nextElem = targetElement.nextElementSibling;
+                    if (nextElem && nextElem.tagName.toLowerCase() === 'ul') {
+                        peekDiv.innerHTML = "";
+                        peekDiv.appendChild(nextElem.cloneNode(true));
+                    } else {
+                        peekDiv.innerHTML = ''; // Fallback if no <ul> found
+                    }
+                    peekDiv.style.display = 'block';
+                    const rect = element.getBoundingClientRect();
+                    peekDiv.style.top = `${rect.bottom + window.scrollY}px`;
+                    peekDiv.style.left = `${rect.left + window.scrollX}px`;
+                }
+            }
+        }
+
+        function hidePeek() {
+            const peeks = document.querySelectorAll('.peek');
+            peeks.forEach(peek => { peek.style.display = 'none'; });
+        }
+
+        window.filterDefinitions = () => {
+            const query = document.getElementById('searchBar').value.toLowerCase();
+            const items = document.getElementById('definitionsList').getElementsByTagName('li');
+            Array.from(items).forEach(item => {
+                const text = item.textContent.toLowerCase();
+                item.style.display = text.includes(query) ? '' : 'none';
+            });
+        };
+
+        function flashHeading(id) {
+            const element = document.getElementById(id);
+            if (element) {
+                element.classList.add('flash');
+                element.addEventListener('animationend', () => {
+                    element.classList.remove('flash');
+                }, { once: true });
+            }
+        }
+
+        window.addEventListener('hashchange', () => {
+            flashHeading(window.location.hash.substring(1));
+        });
+
+        // Also flash heading on initial page load if a hash exists
+        window.addEventListener('DOMContentLoaded', () => {
+            const hash = window.location.hash;
+            if (hash) {
+                flashHeading(hash.substring(1));
+            }
+        });
+    </script>
+</body>
+
+</html>
