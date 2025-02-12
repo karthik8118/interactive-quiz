@@ -1,3302 +1,1392 @@
 [
-    {
-        "Question": "Which of the following is NOT one of the components in Baddeley's model of working memory?",
-        "Answers": [
-            "Semantic Processor",
-            "Phonological Loop",
-            "Visuo-Spatial Sketchpad",
-            "Central Executive"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What is the primary function of the sensory memory?",
-        "Answers": [
-            "To hold sensory input for a very brief period",
-            "To process verbal and auditory information",
-            "To store information permanently",
-            "To integrate information from different subsystems"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Who proposed the \"magical number 7, plus or minus 2\" as the capacity of short-term memory?",
-        "Answers": [
-            "George Miller",
-            "William James",
-            "Donald Hebb",
-            "Alan Baddeley"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What does the Central Executive component of working memory do?",
-        "Answers": [
-            "Stores long-term memories",
-            "Stores verbal and auditory information",
-            "Processes visual and spatial information",
-            "Directs attention and coordinates other subsystems"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "In the Multi-Store Model, what happens to information in short-term memory if it is not actively rehearsed?",
-        "Answers": [
-            "It is lost",
-            "It remains indefinitely",
-            "It is encoded into long-term memory",
-            "It is consolidated"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "In the partial report method by Sperling, what is the main advantage over the full report method?",
-        "Answers": [
-            "It consolidates memories faster.",
-            "It increases retrieval accuracy by focusing on specific information.",
-            "It ensures all sensory information is transferred to short-term memory.",
-            "It reduces memory load by using rehearsal."
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which component of Baddeley and Hitch's working memory model processes visual and spatial data?",
-        "Answers": [
-            "Episodic Buffer",
-            "Central Executive",
-            "Phonological Loop",
-            "Visuo-Spatial Sketchpad"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What term describes the process of transforming sensory input into a form that can be stored in memory?",
-        "Answers": [
-            "Consolidation",
-            "Rehearsal",
-            "Encoding",
-            "Retrieval"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is chunking, in the context of working memory?",
-        "Answers": [
-            "Integrating information across sensory inputs",
-            "Transferring information from long-term memory",
-            "Grouping elements into familiar units to increase memory span",
-            "Repeating information to remember it longer"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What does the Episodic Buffer in Baddeley and Hitch's model do?",
-        "Answers": [
-            "It integrates information from other subsystems and memory.",
-            "It acts as a control center for memory.",
-            "It processes visual and spatial data.",
-            "It processes auditory information."
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to the Multi-Store Model of Memory, which process increases the chances of information transfer to long-term memory?",
-        "Answers": [
-            "Active rehearsal",
-            "Short-term encoding",
-            "Sensory processing",
-            "Immediate retrieval"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Which of the following is NOT one of Ekman's six basic emotions?",
-        "Answers": [
-            "surprise",
-            "disgust",
-            "love <3",
-            "fear"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What does the \"Still Face Experiment\" demonstrate about emotions?",
-        "Answers": [
-            "Emotional disruptions do not impact interactions",
-            "Emotions are only internal experiences",
-            "Emotional development is purely innate",
-            "Emotions are deeply social processes"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is one effect of a positive mood on learning?",
-        "Answers": [
-            "It improves the accuracy of processing stimuli",
-            "It increases motivation and engagement",
-            "It enhances test anxiety for better focus",
-            "It reduces the number of stimuli processed"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What brain structure is primarily associated with control through basic needs?",
-        "Answers": [
-            "Limbic system",
-            "Hippocampus",
-            "Brainstem",
-            "Neocortex"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is an example of a conditioned emotional response?",
-        "Answers": [
-            "Becoming happy when praised for good work",
-            "Experiencing surprise during unexpected events",
-            "Feeling calm after meditation",
-            "Feeling anxious after hearing a barking dog due to a past negative experience"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is an example of emotional regulation through suppression?",
-        "Answers": [
-            "Ignoring feelings of anger in a professional setting",
-            "Seeking comfort from a friend",
-            "Reassessing the cause of the emotion",
-            "Dwelling on negative emotions"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What is a key benefit of moderate stress on learning?",
-        "Answers": [
-            "It increases attentional focus",
-            "It decreases emotional intelligence",
-            "It hinders knowledge acquisition",
-            "It promotes boredom for creativity"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What are the four key components of goal-directed behavior as defined by Heckhausen & Heckhausen (2006)?",
-        "Answers": [
-            "Focus, strategy, planning, execution",
-            "Motivation, challenge, resilience, effort",
-            "Initiation, direction, persistence, intensity",
-            "Engagement, success, reflection, growth"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to Expectancy-Value Theory (EVT), motivation depends on which two factors?",
-        "Answers": [
-            "Persistence and resilience",
-            "Ability and effort",
-            "Expectancy of success and task value",
-            "Intrinsic and extrinsic rewards"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is a characteristic of intrinsic motivation?",
-        "Answers": [
-            "Motivation driven by external rewards",
-            "The task itself is inherently interesting",
-            "Social approval is the main driver",
-            "Incentive is outside the task"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is one example of an external attribution for failure?",
-        "Answers": [
-            "\"The exam questions were unfair.\"",
-            "\"I am exhausted.\"",
-            "\"I didn't study enough.\"",
-            "\"I lack intelligence.\""
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Which is NOT a basic psychological need according to Self-Determination Theory?",
-        "Answers": [
-            "Competence",
-            "Financial security",
-            "Autonomy",
-            "Social connectedness"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In the Four-Phase Model of Interest Development, what describes \"situational interest\"?",
-        "Answers": [
-            "A natural predisposition toward specific content",
-            "An externally triggered engagement",
-            "A lifelong fascination with a subject",
-            "A deeply ingrained personal interest"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does \"introjected regulation\" mean in the context of extrinsic motivation?",
-        "Answers": [
-            "Engagement for intrinsic enjoyment",
-            "Motivation driven by personal values",
-            "Actions to avoid guilt or seek approval",
-            "Behavior for material gain"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is a defining feature of self-efficacy according to Bandura?",
-        "Answers": [
-            "A measure of intrinsic motivation",
-            "A belief in one's ability to perform tasks successfully",
-            "A generalized feeling of self-worth",
-            "A focus on external rewards for success"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary purpose of including control variables in an experiment? WARNING: This question might be wrong!",
-        "Answers": [
-            "To increase the complexity of the research design",
-            "To manipulate the independent variable more effectively",
-            "To prevent extraneous variables from influencing the dependent variable",
-            "To eliminate the need for randomization"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Expectancy-Value Theory (EVT), motivation depends on which two factors?",
-        "Answers": [
-            "Ability and effort",
-            "Expectancy of success and task value",
-            "Intrinsic and extrinsic rewards",
-            "Persistence and resilience"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What are the four key components of goal-directed behavior as defined by Heckhausen & Heckhausen (2006)?",
-        "Answers": [
-            "Engagement, success, reflection, growth",
-            "Initiation, direction, persistence, intensity",
-            "Motivation, challenge, resilience, effort",
-            "Focus, strategy, planning, execution"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a defining feature of self-efficacy according to Bandura?",
-        "Answers": [
-            "A focus on external rewards for success",
-            "A measure of intrinsic motivation",
-            "A belief in one's ability to perform tasks successfully",
-            "A generalized feeling of self-worth"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which type of knowledge is best supported by gamification techniques like storytelling and feedback loops? WARNING: This question might be wrong!",
-        "Answers": [
-            "Procedural knowledge",
-            "Declarative knowledge",
-            "Soft skills",
-            "Conceptual knowledge"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to Mayer's Cognitive Model of Multimedia Learning, what is the \"coherence principle\"?",
-        "Answers": [
-            "Highlighting key points to focus learners' attention",
-            "Presenting audio and visual materials together for better understanding",
-            "Breaking content into small, manageable chunks",
-            "Removing unnecessary information to avoid distracting learners"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is a key benefit of moderate stress on learning?",
-        "Answers": [
-            "It promotes boredom for creativity",
-            "It increases attentional focus",
-            "It hinders knowledge acquisition",
-            "It decreases emotional intelligence"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which of the following is NOT one of Ekman's six basic emotions?",
-        "Answers": [
-            "fear",
-            "surprise",
-            "disgust",
-            "love <3"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is one example of an external attribution for failure?",
-        "Answers": [
-            "\"The exam questions were unfair.\"",
-            "\"I lack intelligence.\"",
-            "\"I am exhausted.\"",
-            "\"I didn't study enough.\""
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to the Circumplex Model by Russell (1980), which two axes describe emotions?",
-        "Answers": [
-            "Intensity and duration",
-            "Valence and arousal",
-            "Positivity and negativity",
-            "Control and flexibility"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does \"introjected regulation\" mean in the context of extrinsic motivation?",
-        "Answers": [
-            "Behavior for material gain",
-            "Motivation driven by personal values",
-            "Actions to avoid guilt or seek approval",
-            "Engagement for intrinsic enjoyment"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In the Four-Phase Model of Interest Development, what describes \"situational interest\"?",
-        "Answers": [
-            "A natural predisposition toward specific content",
-            "A deeply ingrained personal interest",
-            "An externally triggered engagement",
-            "A lifelong fascination with a subject"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which is NOT a basic psychological need according to Self-Determination Theory?",
-        "Answers": [
-            "Competence",
-            "Social connectedness",
-            "Financial security",
-            "Autonomy"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is one effect of a positive mood on learning?",
-        "Answers": [
-            "It reduces the number of stimuli processed",
-            "It improves the accuracy of processing stimuli",
-            "It enhances test anxiety for better focus",
-            "It increases motivation and engagement"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What does the \"Still Face Experiment\" demonstrate about emotions?",
-        "Answers": [
-            "Emotions are only internal experiences",
-            "Emotional disruptions do not impact interactions",
-            "Emotional development is purely innate",
-            "Emotions are deeply social processes"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "When should a between-subjects design be used over a within-subjects design?",
-        "Answers": [
-            "When carryover effects are likely to influence results",
-            "When reducing individual differences is critical",
-            "When participants can complete all conditions without fatigue",
-            "When sample sizes are limited"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What is an example of emotional regulation through suppression?",
-        "Answers": [
-            "Seeking comfort from a friend",
-            "Dwelling on negative emotions",
-            "Reassessing the cause of the emotion",
-            "Ignoring feelings of anger in a professional setting"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What brain structure is primarily associated with control through basic needs?",
-        "Answers": [
-            "Hippocampus",
-            "Neocortex",
-            "Limbic system",
-            "Brainstem"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is an example of a conditioned emotional response?",
-        "Answers": [
-            "Becoming happy when praised for good work",
-            "Experiencing surprise during unexpected events",
-            "Feeling calm after meditation",
-            "Feeling anxious after hearing a barking dog due to a past negative experience"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is a characteristic of intrinsic motivation?",
-        "Answers": [
-            "Incentive is outside the task",
-            "The task itself is inherently interesting",
-            "Motivation driven by external rewards",
-            "Social approval is the main driver"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Attribution Theory, which type of attribution is most likely to foster motivation? WARNING: This question might be wrong!",
-        "Answers": [
-            "External, unstable, and uncontrollable",
-            "Internal, unstable, and controllable",
-            "Internal, stable, and uncontrollable",
-            "External, stable, and controllable"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Plato, where does all knowledge originate?",
-        "Answers": [
-            "From external forces",
-            "Through social interactions",
-            "Innate at birth",
-            "From practical experiences"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What did John Locke believe the mind was at birth?",
-        "Answers": [
-            "A complex network",
-            "A developing organism",
-            "A blank wax tablet (tabula rasa)",
-            "A storehouse of innate ideas"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which of the following is a key idea from John Locke?",
-        "Answers": [
-            "Knowledge is innate and unfolds naturally",
-            "People learn primarily from external forces",
-            "Learning is most effective through abstract thought",
-            "All knowledge is derived from introspection"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "John Comenius is recognised for what key idea about children's learning?",
-        "Answers": [
-            "Children learn best when they are passive observers",
-            "Children learn in the same way regardless of their age",
-            "Children learn more effectively when involved with experiences they can assimilate",
-            "Children learn best through structured memorization"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Who was one of the first to explicitly connect psychology with education?",
-        "Answers": [
-            "Wilhelm Wundt",
-            "Johann Friedrich Herbart",
-            "Lev Vygotsky",
-            "Jean Piaget"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the \"Herbartian Five Steps\" primarily related to?",
-        "Answers": [
-            "Child development stages",
-            "A structured method for instruction",
-            "Theories of motivation",
-            "Experimental psychology methods"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What did Herbart emphasize to maintain motivation in learning?",
-        "Answers": [
-            "Punishment for incorrect answers",
-            "Rote learning and memorization",
-            "Developing students' interest",
-            "Strict adherence to a curriculum"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What concept of Herbart's suggests that learners process new information by relating it to prior knowledge?",
-        "Answers": [
-            "Introspection",
-            "Empiricism",
-            "Apperception",
-            "Tabula rasa"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Who is regarded as the father of modern psychology and founded the first experimental psychology lab?",
-        "Answers": [
-            "Lev Vygotsky",
-            "Jean Piaget",
-            "Wilhelm Wundt",
-            "Johann Friedrich Herbart"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What method did Wundt use to study the human mind?",
-        "Answers": [
-            "Observation of external behaviours",
-            "Introspection",
-            "Analysis of social interactions",
-            "Cross-cultural studies"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does Vygotsky's concept of the Zone of Proximal Development (ZPD) refer to?",
-        "Answers": [
-            "The stages of cognitive development",
-            "The capacity of short-term memory",
-            "The range of tasks a learner can do independently",
-            "The range between what learners can do on their own and what they can do with help"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is the term for temporary support given to learners to help them achieve tasks within their ZPD?",
-        "Answers": [
-            "Assimilation",
-            "Apperception",
-            "Scaffolding",
-            "Introspection"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which of the following best describes educational psychology as an applied branch of psychology?",
-        "Answers": [
-            "It focuses on basic research in cognitive processes",
-            "It studies the neurological basis of learning",
-            "It applies general psychological knowledge to teaching and learning",
-            "It concentrates on behaviour modification techniques"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to the text, why have many Intelligent Tutoring Systems (ITS) struggled?",
-        "Answers": [
-            "Overemphasis on theoretical frameworks",
-            "Lack of a psychological framework to support long-term learning outcomes",
-            "Insufficient technological capabilities",
-            "Too much focus on social interaction"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "How can AI-based learning systems mimic Vygotsky's idea of adaptive support?",
-        "Answers": [
-            "By standardising all learning materials",
-            "By ignoring the learner's current ability",
-            "By identifying a learner's current level and providing tailored guidance within their ZPD",
-            "By giving unlimited access to resources without guidance"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which of the following is NOT a key term in memory processing?",
-        "Answers": [
-            "Encoding",
-            "Storage",
-            "Assimilation",
-            "Retrieval"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What does the term \"encoding\" refer to in the context of memory?",
-        "Answers": [
-            "Maintaining information over time",
-            "Accessing stored information",
-            "Transforming sensory input into a storable form",
-            "Focusing on relevant information"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to the Multi-Store Model of Memory, what is the function of the sensory register?",
-        "Answers": [
-            "To store information for an extended period",
-            "To manipulate information for cognitive tasks",
-            "To briefly hold sensory information",
-            "To transfer information to long term memory"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the generally agreed capacity of working memory, according to the text?",
-        "Answers": [
-            "Unlimited",
-            "Around 20 items",
-            "Seven, plus or minus two items",
-            "Five, plus or minus three items"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Baddeley and Hitch's working memory model, what is the role of the Central Executive?",
-        "Answers": [
-            "To process visual and spatial data",
-            "To store long-term memories",
-            "To act as a control centre and direct attention",
-            "To process verbal and auditory information"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which component of Baddeley's working memory model is responsible for processing verbal and auditory information?",
-        "Answers": [
-            "Visuo-Spatial Sketchpad",
-            "Central Executive",
-            "Phonological Loop",
-            "Episodic Buffer"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the function of the Episodic Buffer in Baddeley's model of working memory?",
-        "Answers": [
-            "To manage visual and spatial data",
-            "To process auditory information",
-            "To act as the control centre for memory",
-            "To integrate information from all subsystems and memory"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What is the main focus of Cognitive Load Theory?",
-        "Answers": [
-            "The capacity of long-term memory",
-            "The amount of mental effort required to process information",
-            "The stages of cognitive development",
-            "The different types of sensory memory"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Cognitive Load Theory, what is \"extraneous load\"?",
-        "Answers": [
-            "The mental effort invested in understanding the material",
-            "The load caused by poorly designed materials or distractions",
-            "The inherent difficulty of the material",
-            "The capacity of working memory"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the goal regarding \"extraneous load\" in instructional design?",
-        "Answers": [
-            "To minimize it through effective instructional design",
-            "To ignore it, as it's unavoidable",
-            "To increase it to challenge learners",
-            "To balance it with intrinsic load"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What process is described as establishing a broad range of connections and network structures to transfer information to long-term memory?",
-        "Answers": [
-            "Organisation",
-            "Summary",
-            "Chunking",
-            "Elaboration"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "Which type of learning is described as learning through association, where a neutral stimulus is paired with an unconditioned stimulus?",
-        "Answers": [
-            "Operant conditioning",
-            "Observational learning",
-            "Classical conditioning",
-            "Cognitive learning"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In operant conditioning, what is a \"variable-ratio schedule\" of reinforcement?",
-        "Answers": [
-            "Reinforcement after a variable number of responses",
-            "Reinforcement after a set number of responses",
-            "Reinforcement after a set amount of time",
-            "Reinforcement is given after a variable amount of time"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What is a key feature of observational learning, according to social-cognitive theory?",
-        "Answers": [
-            "Learning only through direct personal experience",
-            "Learning only through punishment",
-            "Learning through observing the behaviour of others",
-            "Learning that is separate from cognitive processes"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is meant by the term \"reciprocal determinism\" in the context of social-cognitive theory?",
-        "Answers": [
-            "The idea that a persons behavior affects their surrounding",
-            "Learning only by direct instruction",
-            "The idea that behaviour influences and is influenced by personal factors and the environment",
-            "The idea that all behaviour is innate and unchangeable"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which of the following is NOT a key element of Self-Regulated Learning (SRL) according to the definition provided in the session?",
-        "Answers": [
-            "Setting personal goals and monitoring progress",
-            "Actively managing cognitive, emotional, and environmental factors",
-            "Relying solely on external feedback for learning adjustments",
-            "Using metacognitive strategies like planning and reflection"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Zimmerman's Cyclical Model of SRL, which phase involves the implementation of learning strategies and self-monitoring of progress?",
-        "Answers": [
-            "Forethought",
-            "Performance",
-            "Self-reflection",
-            "Adaptation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Winne and Hadwin's Model of SRL, what is the primary focus of the \"Monitoring\" stage?",
-        "Answers": [
-            "Setting long-term academic goals",
-            "Generating internal feedback to adjust learning tactics",
-            "Minimizing emotional stress during learning",
-            "Integrating information from multiple sensory inputs"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which pathway in Boekaerts' Dual Processing Model of SRL is activated when a learner perceives a task as too challenging or threatening?",
-        "Answers": [
-            "Mastery Pathway",
-            "Growth Pathway",
-            "Well-being Pathway",
-            "Cognitive Pathway"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the main difference between Zimmerman's Model and Winne and Hadwin's Model of SRL?",
-        "Answers": [
-            "Zimmerman's Model focuses on emotional regulation, while Winne and Hadwin's Model focuses on cognitive strategies.",
-            "Zimmerman's Model is cyclical, while Winne and Hadwin's Model is linear.",
-            "Zimmerman's Model emphasizes behavioral and motivational aspects, while Winne and Hadwin's Model is strongly metacognitive.",
-            "Zimmerman's Model includes only two phases, while Winne and Hadwin's Model includes four."
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which of the following is NOT a key dimension of SRL's impact on cognitive outcomes?",
-        "Answers": [
-            "Improved problem-solving abilities through metacognitive strategies",
-            "Enhanced surface learning through rote memorization",
-            "Deeper retention of knowledge through elaboration strategies",
-            "Better comprehension through self-monitoring"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In the context of SRL, what does the \"Regulation of Processing Modes\" (inner layer) in Boekaerts' Three Layers of Regulation primarily involve?",
-        "Answers": [
-            "Setting personal goals and managing motivation",
-            "Choosing effective cognitive strategies like summarization and elaboration",
-            "Monitoring progress and adjusting strategies to reach learning goals",
-            "Balancing emotional well-being with academic achievement"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to the meta-analysis on SRL training programs, which of the following strategies had the highest effect size (g) in improving academic performance?",
-        "Answers": [
-            "Rehearsal strategies",
-            "Metacognitive strategies",
-            "Motivational strategies",
-            "Time management strategies"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which of the following is a potential negative impact of over-reliance on AI tools in the context of SRL?",
-        "Answers": [
-            "Increased metacognitive engagement",
-            "Enhanced goal-setting skills",
-            "Weakening of active knowledge retrieval",
-            "Improved long-term retention of information"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In the context of AI tools and SRL, what is a key concern regarding the use of AI for goal setting?",
-        "Answers": [
-            "AI tools may set goals that are too challenging for learners.",
-            "Learners may not develop goal-setting skills themselves.",
-            "AI tools prioritize emotional well-being over academic achievement.",
-            "AI tools discourage the use of metacognitive strategies."
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which of the following best describes the role of the Episodic Buffer in Baddeley and Hitch's working memory model?",
-        "Answers": [
-            "It processes visual and spatial data.",
-            "It integrates information from other subsystems and long-term memory.",
-            "It directs attention and coordinates other subsystems.",
-            "It stores verbal and auditory information."
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary focus of the \"Mastery Pathway\" in Boekaerts' Dual Processing Model of SRL?",
-        "Answers": [
-            "Protecting emotional health during challenging tasks",
-            "Maximizing learning and academic achievement",
-            "Minimizing cognitive load through surface learning",
-            "Balancing effort to ensure emotional well-being"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which of the following is NOT a key learning strategy in Self-Regulated Learning (SRL)?",
-        "Answers": [
-            "Cognitive strategies (e.g., rehearsal, elaboration)",
-            "Metacognitive strategies (e.g., self-monitoring, planning)",
-            "Emotional regulation strategies (e.g., managing stress)",
-            "Environmental strategies (e.g., minimizing distractions)"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to the session, what is a major risk of using AI tools like chatbots in education?",
-        "Answers": [
-            "Increased metacognitive reflection",
-            "Promotion of deep learning through active engagement",
-            "Fostering mental laziness and surface-level learning",
-            "Enhanced self-monitoring and goal-setting skills"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In the context of SRL, what is the primary purpose of the \"Self-reflection\" phase in Zimmerman's Cyclical Model?",
-        "Answers": [
-            "To set new learning goals based on past performance",
-            "To evaluate performance and adjust strategies for future tasks",
-            "To implement learning strategies and monitor progress",
-            "To integrate information from multiple cognitive subsystems"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Heckhausen (2008), what distinguishes \"motive\" from \"motivation\"?",
-        "Answers": [
-            "Motive is a temporary emotional state, while motivation is a stable personality trait.",
-            "Motive refers to situational goals, while motivation encompasses long-term aspirations.",
-            "Motive is an enduring disposition, while motivation is a dynamic situational state.",
-            "Motive involves external incentives, while motivation is purely intrinsic."
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Eccles' Expectancy-Value Theory, which combination is necessary for high motivation?",
-        "Answers": [
-            "High expectancy of success and moderate task value",
-            "Moderate expectancy of success and high task value",
-            "Both expectancy and value must independently exceed a threshold",
-            "The product of expectancy and value must exceed a critical threshold"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "Which attributional dimension in Weiner's theory directly influences future expectations of success?",
-        "Answers": [
-            "Locus of causality",
-            "Controllability",
-            "Stability",
-            "Generalization"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which of the following is NOT one of the basic psychological needs in Self-Determination Theory?",
-        "Answers": [
-            "Competence",
-            "Autonomy",
-            "Affiliation",
-            "Social connectedness"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which characteristic is NOT part of Csikszentmihalyi's  \"flow\" state?",
-        "Answers": [
-            "Loss of self-consciousness",
-            "External reward anticipation",
-            "Merging of action and awareness",
-            "Distorted sense of time"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Bandura, self-efficacy primarily influences motivation through which mechanism?",
-        "Answers": [
-            "Enhancing intrinsic value of tasks",
-            "Increasing the perceived controllability of outcomes",
-            "Strengthening beliefs about task-specific capabilities",
-            "Reducing the stability of negative attributions"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In the Four-Phase Model of Interest Development, which phase follows \"triggered situational interest\"?",
-        "Answers": [
-            "Emerging individual interest",
-            "Maintained situational interest",
-            "Well-developed individual interest",
-            "Internalized regulation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "McClelland's \"Achievement Motive\" is best characterized by a focus on:",
-        "Answers": [
-            "Building intimate relationships",
-            "Gaining influence over others",
-            "Mastering challenges and improving efficiency",
-            "Avoiding negative evaluations"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Heckhausen's Action-Theoretical Model, what initiates goal-directed behavior?",
-        "Answers": [
-            "External incentives alone",
-            "Interaction between personal motives and situational opportunities",
-            "Stable attributions of past successes",
-            "High self-esteem"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which attribution type is most likely to foster academic resilience?",
-        "Answers": [
-            "Internal, stable, and uncontrollable",
-            "External, unstable, and uncontrollable",
-            "Internal, unstable, and controllable",
-            "External, stable, and uncontrollable"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to the Still Face Experiment by Edward Tronick, what critical function of emotions does the infant's reaction to the caregiver's unresponsiveness demonstrate?",
-        "Answers": [
-            "Physiological regulation of hunger and sleep",
-            "Social bonding through emotional reciprocity",
-            "Cognitive evaluation of future goals",
-            "Innate expression of universal basic emotions"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which brain structure is primarily associated with future-oriented control and cognitively represented goals in emotional regulation?",
-        "Answers": [
-            "Brainstem",
-            "Limbic System",
-            "Neocortex",
-            "Hypothalamus"
-        ],
-        "Correct": 2
-    },
-    {
-      "Question": "The term 'Norman Door' is used in instructional design to illustrate which of the following design failures?",
-      "Answers": [
-        "A door that automatically adjusts to the user's actions",
-        "A door whose design provides ambiguous cues, leading to user confusion",
-        "A door that incorporates excessive feedback for each action",
-        "A door designed primarily for aesthetic appeal rather than functionality"
-      ],
-      "Correct": 1
-    },
-    {
-        "Question": "Which emotion is NOT part of Paul Ekman's universally recognized basic emotions?",
-        "Answers": [
-            "Disgust",
-            "Surprise",
-            "Love",
-            "Fear"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Russell's Circumplex Model, which two dimensions are used to classify emotions?",
-        "Answers": [
-            "Valence and Controllability",
-            "Arousal and Stability",
-            "Valence and Arousal",
-            "Intensity and Generalization"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "A person with high neuroticism is most likely to exhibit which emotional response pattern?",
-        "Answers": [
-            "Intense positive reactions to social interactions",
-            "Reduced sensitivity to stressful stimuli",
-            "Heightened anxiety and fear in challenging situations",
-            "Stable emotional regulation across contexts"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Alice's fear of barking dogs due to a childhood bite exemplifies which mechanism of emotional learning?",
-        "Answers": [
-            "Cognitive schema development",
-            "Conditioned emotional response",
-            "Optimism bias reinforcement",
-            "Stimulus-driven processing"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which statement best describes the impact of positive mood on cognitive processing, according to emotion research?",
-        "Answers": [
-            "Enhances accuracy but reduces the number of stimuli processed",
-            "Increases automatic processing and broadens attention",
-            "Promotes rigid, linear problem-solving strategies",
-            "Reduces motivation and task persistence"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Under negative mood conditions, knowledge activation during learning tends to be:",
-        "Answers": [
-            "More knowledge-driven and playful",
-            "Focused on existing schemas and open-ended",
-            "Stimulus-driven and problem-focused",
-            "Aligned with long-term behavioral intentions"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which factor is NOT identified as a mediator variable influencing the effects of mood on academic learning?",
-        "Answers": [
-            "Task relevance",
-            "Emotional intensity of content",
-            "Genetic temperament",
-            "Success on tasks"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to Don Norman, what principle emphasizes making actions possible and understandable through intuitive cues?",
-        "Answers": [
-            "Constraints",
-            "Signifiers",
-            "Feedback",
-            "Mappings"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which of the following is NOT a type of constraint in Norman's interaction design principles?",
-        "Answers": [
-            "Semantic",
-            "Logical",
-            "Aesthetic",
-            "Cultural"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Mayer's Cognitive Model of Multimedia Learning, what principle dictates removing extraneous material to avoid distraction?",
-        "Answers": [
-            "Spatial Contiguity",
-            "Coherence",
-            "Segmenting",
-            "Dual Coding"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "A stove knob layout that mirrors the burner arrangement exemplifies which design principle?",
-        "Answers": [
-            "Affordances",
-            "Mappings",
-            "Discoverability",
-            "Feedback"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which component of Cognitive Load Theory (CLT) focuses on simplifying material to align with brain processing limits?",
-        "Answers": [
-            "Intrinsic load reduction",
-            "Germane load maximization",
-            "Extraneous load elimination",
-            "Dual-channel optimization"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "The \"Norman Door\" primarily illustrates a failure in which design principle?",
-        "Answers": [
-            "Feedback",
-            "Signifiers",
-            "Constraints",
-            "Affordances"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Mayer's model, presenting text and visuals simultaneously to enhance understanding leverages:",
-        "Answers": [
-            "Spatial Contiguity",
-            "Dual Coding",
-            "Signaling",
-            "Segmenting"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which principle ensures learners immediately understand the function of interactive elements like \"Start Quiz\" buttons?",
-        "Answers": [
-            "Discoverability",
-            "Understanding",
-            "Feedback",
-            "Affordances"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In Cognitive Load Theory, which type of load refers to the mental effort required to integrate new information with prior knowledge?",
-        "Answers": [
-            "Intrinsic",
-            "Extraneous",
-            "Germane",
-            "Redundant"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to Kapp (2012), which type of gamification adds game elements without altering the learning content?  ",
-        "Answers": [
-            "Content gamification",
-            "Structural gamification",
-            "Behavioral gamification",
-            "Hybrid gamification"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "The \"Piano Stairs\" experiment primarily demonstrates gamification's ability to:",
-        "Answers": [
-            "Enhance procedural knowledge through repetition",
-            "Increase engagement by transforming mundane tasks",
-            "Leverage cultural constraints for behavioral change",
-            "Reduce cognitive load via spatial contiguity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which Self-Determination Theory (SDT) need is satisfied when learners choose their own learning paths in Duolingo?",
-        "Answers": [
-            "Competence",
-            "Autonomy",
-            "Relatedness",
-            "Feedback"
-        ],
-        "Correct": 1
-    },
-    {
-      "Question": "Wilhelm Wundt is best known for establishing the first experimental laboratory in psychology. Which method did he primarily use to study internal experiences?",
-      "Answers": [
-        "Operant Conditioning",
-        "Introspection",
-        "Direct Observation",
-        "Behavioral Analysis"
-      ],
-      "Correct": 1
-    },
-    {
-        "Question": "A medical training simulator that replicates real-world scenarios is an example of:",
-        "Answers": [
-            "Structural gamification",
-            "Content gamification",
-            "A serious game",
-            "Overjustification effect"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to Li et al. (2023), gamification's effectiveness is highest in which educational discipline?",
-        "Answers": [
-            "Business",
-            "Social Science",
-            "Science",
-            "Engineering"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which risk is associated with excessive use of points and badges in gamification?",
-        "Answers": [
-            "Increased germane cognitive load",
-            "Overjustification effect",
-            "Reduced spatial contiguity",
-            "Semantic constraint violation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In Flow Theory, optimal engagement occurs when:",
-        "Answers": [
-            "Challenge exceeds skill level",
-            "Skill level exceeds challenge",
-            "Challenge and skill are balanced",
-            "External rewards are maximized"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which gamification element is most appropriate for teaching declarative knowledge?",
-        "Answers": [
-            "Leaderboards",
-            "Trivia quizzes",
-            "Role-playing simulations",
-            "Haptic feedback"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Hybrid learning environments (e.g., blending digital and face-to-face gamification) are found to:",
-        "Answers": [
-            "Reduce autonomy compared to online-only formats",
-            "Yield better learning outcomes than online-only formats",
-            "Prioritize procedural knowledge over conceptual knowledge",
-            "Increase extraneous cognitive load"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which SDT component is addressed by leaderboards and multiplayer modes?",
-        "Answers": [
-            "Competence",
-            "Autonomy",
-            "Relatedness",
-            "Feedback"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "A gamified app that gradually increases task difficulty to match user progress aligns with:",
-        "Answers": [
-            "Boekaerts' Dual Processing Model of SRL",
-            "The Coherence Principle",
-            "Competence in SDT",
-            "The Overjustification Effect"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which gamification strategy is least effective for teaching psychomotor skills?",
-        "Answers": [
-            "Virtual surgery simulators",
-            "Haptic device training",
-            "Trivia quizzes",
-            "Role-playing with physical props"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to Li et al. (2023), the effectiveness of gamification decreases most significantly in:",
-        "Answers": [
-            "Elementary school students",
-            "Higher education students",
-            "Hybrid learning environments",
-            "Science disciplines"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which element is critical to avoid in gamification design to prevent learner frustration?",
-        "Answers": [
-            "Clear feedback loops",
-            "Alignment with learning objectives",
-            "Overly complex reward systems",
-            "Progress indicators"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which term refers to tailoring instruction to meet learners' diverse needs by adjusting content and methods?",
-        "Answers": [
-            "Linear instruction",
-            "Adaptive learning",
-            "Scaffolding",
-            "Feedback loops"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In traditional teacher-centered classrooms, which challenge is most commonly observed?",
-        "Answers": [
-            "Over-reliance on formative assessments",
-            "Fixed content and pace ignoring learner diversity",
-            "Excessive use of scaffolding",
-            "High alignment with the zone of proximal development"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which adaptive learning type allows learners to unlock new content only after achieving mastery in prior assessments?",
-        "Answers": [
-            "Adaptive at the assessment level",
-            "Self-paced",
-            "Adaptive at both assessment and content levels",
-            "Adaptive with high granularity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Vygotsky's theory, scaffolding supports learners in which specific task area?",
-        "Answers": [
-            "Tasks they can complete unaided",
-            "Tasks they cannot complete even with guidance",
-            "Tasks within the zone of proximal development",
-            "Tasks requiring advanced critical thinking"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which feedback level provides information on \"how to improve next steps,\" according to Hattie & Timperley (2007)?",
-        "Answers": [
-            "Feed up",
-            "Feed back",
-            "Feed forward",
-            "Self-level feedback"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is a primary ethical challenge of adaptive learning systems?",
-        "Answers": [
-            "Limited integration with existing platforms",
-            "Overemphasis on formative assessments",
-            "Data privacy and security concerns",
-            "High development costs"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which mechanism helps learners reflect on their progress and plan future learning activities?",
-        "Answers": [
-            "Scaffolding",
-            "Guided reflection",
-            "Static adaptation",
-            "Summative assessments"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In adaptive systems, what does the \"learner model\" primarily track?",
-        "Answers": [
-            "Technical infrastructure requirements",
-            "Student's prior knowledge and progress",
-            "Teacher's instructional strategies",
-            "Alignment with cultural constraints"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which example illustrates adaptive learning at the content level?",
-        "Answers": [
-            "Unlocking new modules after passing a test",
-            "Providing tailored explanations for incorrect answers",
-            "Adjusting question difficulty in real-time",
-            "Offering optional hints during assessments"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a key limitation of large class sizes in implementing adaptive learning?",
-        "Answers": [
-            "Increased learner autonomy",
-            "Difficulty personalizing instruction for each student",
-            "Over-reliance on scaffolding",
-            "Enhanced feedback granularity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which element is not part of the core mechanisms of adaptive learning systems?",
-        "Answers": [
-            "Scaffolding",
-            "Static content delivery",
-            "Feedback",
-            "Guided reflection"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "The ALEKS system is designed to:",
-        "Answers": [
-            "Replace teacher-led instruction entirely",
-            "Personalize learning based on continuous assessment",
-            "Focus solely on summative evaluations",
-            "Prioritize entertainment over educational goals"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What risk arises from algorithmic bias in adaptive systems?",
-        "Answers": [
-            "Enhanced learner motivation",
-            "Reinforcement of existing data biases",
-            "Improved transparency in decision-making",
-            "Reduced cognitive load"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which term describes feedback that addresses the correctness of a solution?",
-        "Answers": [
-            "Process-level feedback",
-            "Product-level feedback",
-            "Self-regulation feedback",
-            "Feed-forward feedback"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In adaptive learning, \"gradual removal of scaffolding\" aims to:",
-        "Answers": [
-            "Increase dependency on teacher support",
-            "Encourage independent problem-solving",
-            "Simplify content permanently",
-            "Reduce the need for assessments"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which term refers to the consistency of test scores over repeated administrations?",
-        "Answers": [
-            "Validity",
-            "Reliability",
-            "Generalizability",
-            "Sensitivity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "A math test that primarily measures reading comprehension lacks which type of validity?",
-        "Answers": [
-            "Content validity",
-            "Criterion-related validity",
-            "Construct validity",
-            "Face validity"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which type of test is designed to identify specific learning gaps before instruction begins?",
-        "Answers": [
-            "Summative test",
-            "Diagnostic test",
-            "Aptitude test",
-            "Norm-referenced test"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In test construction, what does a \"blueprint\" primarily outline?",
-        "Answers": [
-            "Administrative logistics",
-            "Alignment of content areas and cognitive levels",
-            "Financial costs of test development",
-            "Student demographic data"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "The PISA assessment is an example of which type of testing?",
-        "Answers": [
-            "Formative",
-            "Summative",
-            "Diagnostic",
-            "Psychometric"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which AI application in educational assessment uses machine vision to detect cheating?",
-        "Answers": [
-            "Adaptive test assembly",
-            "Automated scoring",
-            "Proctoring systems",
-            "Feedback generation"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which principle ensures a test does not disadvantage groups based on irrelevant characteristics?",
-        "Answers": [
-            "Reliability",
-            "Fairness",
-            "Sensitivity",
-            "Robustness"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a key risk of over-reliance on AI in test construction?",
-        "Answers": [
-            "Increased reliability",
-            "Loss of nuanced human expertise",
-            "Enhanced validity",
-            "Reduced administrative workload"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which step in test construction involves peer review for clarity and bias?",
-        "Answers": [
-            "Defining objectives",
-            "Writing items",
-            "Developing a blueprint",
-            "Review and revise"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "The \"orchestra question\" confusion primarily highlights the importance of:",
-        "Answers": [
-            "Item difficulty",
-            "Question clarity",
-            "Cultural relevance",
-            "Cognitive load"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which AI capability allows tests to adjust difficulty in real-time based on student responses?",
-        "Answers": [
-            "Automated scoring",
-            "Adaptive assessments",
-            "Predictive analytics",
-            "Feedback generation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "A test comparing student performance to predefined standards (e.g., driving exams) is:",
-        "Answers": [
-            "Norm-referenced",
-            "Criterion-referenced",
-            "Diagnostic",
-            "Psychometric"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which term describes feedback that guides learners on \"how to improve next steps\"?",
-        "Answers": [
-            "Feed up",
-            "Feed back",
-            "Feed forward",
-            "Self-level feedback"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is a primary ethical concern in AI-driven educational assessments?",
-        "Answers": [
-            "High development costs",
-            "Algorithmic bias",
-            "Increased test duration",
-            "Overuse of multiple-choice items"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In an experiment testing the effect of AI-based tutoring on math scores, the tutoring method is manipulated by the researcher. What type of variable is the tutoring method?",
-        "Answers": [
-            "Dependent variable",
-            "Confounding variable",
-            "Independent variable",
-            "Control variable"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which term describes defining \"critical thinking skills\" as scores from a scenario-based reasoning test?",
-        "Answers": [
-            "Hypothesis formulation",
-            "Operationalization",
-            "Mediation analysis",
-            "Categorization"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "A hypothesis stating, \"Students using AI tutors will show higher engagement than those without,\" is an example of:",
-        "Answers": [
-            "A correlational hypothesis",
-            "A causal hypothesis",
-            "A null hypothesis",
-            "A descriptive hypothesis"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which experimental design is most appropriate to avoid carryover effects in a study comparing two teaching methods?",
-        "Answers": [
-            "Within-subjects design",
-            "Mixed-design",
-            "Between-subjects design",
-            "Longitudinal design"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In a double-blind study, who is unaware of group assignments?",
-        "Answers": [
-            "Only participants",
-            "Only researchers",
-            "Both participants and researchers",
-            "Both researchers and external evaluators"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which data collection method is best for systematically observing student interactions in a classroom?",
-        "Answers": [
-            "Survey",
-            "Observational study",
-            "Case study",
-            "Focus group"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Comparing final exam scores between three classrooms using different teaching methods requires which statistical test?",
-        "Answers": [
-            "Independent t-test",
-            "ANOVA",
-            "Chi-square test",
-            "Pearson correlation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Calculating the average test score for a class is an example of:",
-        "Answers": [
-            "Inferential statistics",
-            "Descriptive statistics",
-            "Effect size analysis",
-            "Hypothesis testing"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In a study on sleep and academic performance, socioeconomic status unintentionally varies with sleep duration. This is a:",
-        "Answers": [
-            "Control variable",
-            "Dependent variable",
-            "Confounding variable",
-            "Mediating variable"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Holding \"prior knowledge\" constant in a study on learning outcomes ensures it acts as a:",
-        "Answers": [
-            "Independent variable",
-            "Dependent variable",
-            "Control variable",
-            "Moderator variable"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Course grades (A, B, C) are an example of which measurement scale?",
-        "Answers": [
-            "Nominal",
-            "Ordinal",
-            "Discrete",
-            "Continuous"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Why is effect size critical in interpreting research results?",
-        "Answers": [
-            "It determines statistical significance",
-            "It quantifies the magnitude of an observed effect",
-            "It identifies confounding variables",
-            "It validates the measurement scale"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "If a study yields p=0.07, what should researchers conclude?",
-        "Answers": [
-            "The result is statistically significant",
-            "The result is not statistically significant",
-            "The effect size is large",
-            "The hypothesis is proven"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which ethical principle ensures participants are informed about study risks and benefits?",
-        "Answers": [
-            "Confidentiality",
-            "Informed consent",
-            "Debriefing",
-            "Anonymity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In the synthetic data demonstration comparing AI-based and traditional learning, what was the dependent variable?",
-        "Answers": [
-            "Type of learning method",
-            "Student motivation",
-            "Test scores",
-            "Classroom size"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which threat to internal validity occurs when pre-existing participant differences skew study outcomes?",
-        "Answers": [
-            "Hawthorne Effect",
-            "Selection Bias",
-            "Demand Characteristics",
-            "Measurement Error"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What strategy mitigates participant characteristic imbalances across experimental groups?",
-        "Answers": [
-            "Single-blind design",
-            "Random assignment",
-            "Deceptive instructions",
-            "Focus groups"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Lab-based AI study results failing to apply to real classrooms primarily reflects a threat to:",
-        "Answers": [
-            "Internal validity",
-            "Construct validity",
-            "External validity",
-            "Statistical validity"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which ethical practice ensures participants are aware of study risks and benefits?",
-        "Answers": [
-            "Debriefing",
-            "Informed consent",
-            "Confidentiality",
-            "Manipulation check"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "AI systems trained on biased data risk perpetuating:",
-        "Answers": [
-            "Technical limitations",
-            "Systematic bias",
-            "High costs",
-            "Measurement errors"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Adapting AI tools for use in diverse educational settings addresses:",
-        "Answers": [
-            "Scalability",
-            "Hawthorne Effect",
-            "Internal validity",
-            "Demand characteristics"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Applying cognitive load theory to design adaptive AI systems exemplifies:",
-        "Answers": [
-            "Vertical knowledge transfer",
-            "Horizontal knowledge transfer",
-            "Ethical transfer",
-            "Confounding variables"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "A key challenge in knowledge transfer is educators' reluctance to adopt new methods due to:",
-        "Answers": [
-            "High costs",
-            "Resistance to change",
-            "Lack of data",
-            "Technical complexity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Participants altering behavior because they know they are being observed is termed:",
-        "Answers": [
-            "Demand characteristics",
-            "Hawthorne Effect",
-            "Confounding bias",
-            "Selection bias"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Continuous refinement of AI systems based on real-world feedback ensures:",
-        "Answers": [
-            "Static design",
-            "Ethical compliance",
-            "Long-term effectiveness",
-            "Reduced scalability"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which strategy mitigates the Hawthorne Effect?",
-        "Answers": [
-            "Ethical compliance",
-            "Informed consent",
-            "Single-blind design",
-            "Debriefing sessions"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Adapting AI language tools from STEM to vocabulary training illustrates:",
-        "Answers": [
-            "Vertical transfer",
-            "Horizontal transfer",
-            "Ethical transfer",
-            "Measurement transfer"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "A study finding AI tools effective in controlled labs but not in noisy classrooms highlights:",
-        "Answers": [
-            "Internal validity",
-            "External validity",
-            "Construct validity",
-            "Statistical validity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Ensuring secure data storage primarily addresses which ethical concern?",
-        "Answers": [
-            "Informed consent",
-            "Participant privacy",
-            "Debriefing",
-            "Selection bias"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a critical step in translating research findings into classroom practice?",
-        "Answers": [
-            "Ignoring feedback",
-            "Knowledge transfer",
-            "Static implementation",
-            "Reducing scalability"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does the term \"Psyche\" mean in the context of psychology?",
-        "Answers": [
-            "Mind",
-            "Soul",
-            "Behavior",
-            "Emotion"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Who advanced the hypothesis that people learn primarily from external forces and introduced the concept of \"tabula rasa\"?",
-        "Answers": [
-            "Plato",
-            "John Locke",
-            "Wilhelm Wundt",
-            "Lev Vygotsky"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Plato, what is the primary aim of education?",
-        "Answers": [
-            "To develop individual creativity",
-            "To ensure societal welfare and individual well-being",
-            "To promote scientific discovery",
-            "To foster emotional intelligence"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which educational psychologist emphasized universal education and believed learning should involve all senses?",
-        "Answers": [
-            "Johann Friedrich Herbart",
-            "John Comenius",
-            "Wilhelm Wundt",
-            "Jean Piaget"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In Herbart's Five Steps of teaching, what is the final step?",
-        "Answers": [
-            "Preparation",
-            "Presentation",
-            "Application",
-            "Generalization"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What was Wilhelm Wundt's primary contribution to psychology?",
-        "Answers": [
-            "He introduced behaviorism",
-            "He founded the first experimental psychology lab",
-            "He developed social constructivism",
-            "He created the theory of operant conditioning"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Lev Vygotsky, what plays a crucial role in cognitive development?",
-        "Answers": [
-            "Individual exploration",
-            "Social interaction and culture",
-            "Reinforcement schedules",
-            "Classical conditioning"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary focus of Mayer's Cognitive Theory of Multimedia Learning?",
-        "Answers": [
-            "Emotional engagement",
-            "Dual-channel processing and limited capacity",
-            "Reinforcement schedules",
-            "Observational learning"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In classical conditioning, what is an unconditioned response?",
-        "Answers": [
-            "A natural, automatic response to a stimulus",
-            "A learned reaction to a stimulus",
-            "A response shaped by reinforcement",
-            "A response triggered by punishment"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What is the key principle of operant conditioning?",
-        "Answers": [
-            "Learning through association",
-            "Learning through consequences",
-            "Learning through observation",
-            "Learning through reflection"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which reinforcement schedule involves providing reinforcement after an unpredictable number of responses?",
-        "Answers": [
-            "Fixed-ratio",
-            "Variable-ratio",
-            "Fixed-interval",
-            "Variable-interval"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary goal of self-regulated learning (SRL)?",
-        "Answers": [
-            "To rely on external instruction",
-            "To take control of one's own learning process",
-            "To focus solely on metacognitive strategies",
-            "To eliminate the need for feedback"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Zimmerman's model of SRL, which phase involves evaluating performance and adjusting strategies?",
-        "Answers": [
-            "Forethought",
-            "Performance",
-            "Self-reflection",
-            "Adaptation"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Boekaerts' Dual Processing Model, what does the Mastery Pathway focus on?",
-        "Answers": [
-            "Protecting emotional health",
-            "Maximizing academic achievement",
-            "Reducing stress",
-            "Avoiding challenges"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary focus of Winne and Hadwin's model of SRL?",
-        "Answers": [
-            "Behavioral regulation",
-            "Social interaction",
-            "Emotional regulation",
-            "Cognitive and metacognitive monitoring"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "According to Expectancy-Value Theory, what two factors determine motivation?",
-        "Answers": [
-            "Ability and effort",
-            "Expectancy of success and task value",
-            "Intrinsic and extrinsic rewards",
-            "Persistence and resilience"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a characteristic of intrinsic motivation?",
-        "Answers": [
-            "Driven by external rewards",
-            "The task itself is inherently interesting",
-            "Social approval is the main driver",
-            "Incentive is outside the task"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which emotion is NOT one of Ekman's six basic emotions?",
-        "Answers": [
-            "Surprise",
-            "Love",
-            "Fear",
-            "Disgust"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary function of sensory memory?",
-        "Answers": [
-            "To hold sensory input for a very brief period",
-            "To process verbal and auditory information",
-            "To store information permanently",
-            "To integrate information from different subsystems"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "In Baddeley's working memory model, what is the role of the Central Executive?",
-        "Answers": [
-            "Stores long-term memories",
-            "Processes visual and spatial data",
-            "Directs attention and coordinates other subsystems",
-            "Encodes sensory input"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is chunking in the context of working memory?",
-        "Answers": [
-            "Integrating information across sensory inputs",
-            "Transferring information from long-term memory",
-            "Grouping elements into familiar units to increase memory span",
-            "Repeating information to remember it longer"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the primary purpose of Norman's principles of interaction design?",
-        "Answers": [
-            "To enhance usability and reduce errors",
-            "To prioritize aesthetics over functionality",
-            "To create visually appealing designs",
-            "To focus solely on user feedback"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to Cognitive Load Theory, what type of load should instructional design minimize?",
-        "Answers": [
-            "Intrinsic load",
-            "Extraneous load",
-            "Germane load",
-            "Essential load"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary benefit of gamification in education?",
-        "Answers": [
-            "To replace traditional teaching methods",
-            "To enhance motivation and engagement",
-            "To eliminate the need for feedback",
-            "To focus solely on competition"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary difference between structural and content gamification?",
-        "Answers": [
-            "Structural gamification alters content, while content gamification does not",
-            "Structural gamification adds game elements without altering content",
-            "Content gamification focuses on leaderboards, while structural gamification does not",
-            "Structural gamification is only used in digital contexts"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary challenge of adaptive learning in traditional classrooms?",
-        "Answers": [
-            "Lack of personalization",
-            "Over-reliance on AI tools",
-            "Difficulty in meeting diverse learner needs simultaneously",
-            "Excessive focus on summative assessments"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the primary purpose of scaffolding in adaptive learning?",
-        "Answers": [
-            "To provide permanent support",
-            "To gradually remove support as learners gain independence",
-            "To focus solely on assessment",
-            "To eliminate the need for feedback"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary goal of educational assessment?",
-        "Answers": [
-            "To assign grades",
-            "To systematically collect evidence about learner progress",
-            "To focus solely on standardized testing",
-            "To eliminate subjective judgment"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary advantage of AI in educational assessment?",
-        "Answers": [
-            "It eliminates the need for human oversight",
-            "It provides efficient and consistent scoring",
-            "It focuses solely on formative assessments",
-            "It replaces traditional teaching methods"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary focus of the Circumplex Model of emotions?",
-        "Answers": [
-            "Valence and arousal",
-            "Positivity and negativity",
-            "Intensity and duration",
-            "Control and flexibility"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Who proposed the \"magical number 7, plus or minus 2\" as the capacity of short-term memory?",
-        "Answers": [
-            "George Miller",
-            "William James",
-            "Donald Hebb",
-            "Alan Baddeley"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "In the Multi-Store Model, what happens to information in short-term memory if it is not actively rehearsed?",
-        "Answers": [
-            "It is lost",
-            "It remains indefinitely",
-            "It is encoded into long-term memory",
-            "It is consolidated"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "In the partial report method by Sperling, what is the main advantage over the full report method?",
-        "Answers": [
-            "It consolidates memories faster.",
-            "It increases retrieval accuracy by focusing on specific information.",
-            "It ensures all sensory information is transferred to short-term memory.",
-            "It reduces memory load by using rehearsal."
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which component of Baddeley and Hitch's working memory model processes visual and spatial data?",
-        "Answers": [
-            "Episodic Buffer",
-            "Central Executive",
-            "Phonological Loop",
-            "Visuo-Spatial Sketchpad"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "What term describes the process of transforming sensory input into a form that can be stored in memory?",
-        "Answers": [
-            "Consolidation",
-            "Rehearsal",
-            "Encoding",
-            "Retrieval"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is chunking, in the context of working memory?",
-        "Answers": [
-            "Integrating information across sensory inputs",
-            "Transferring information from long-term memory",
-            "Grouping elements into familiar units to increase memory span",
-            "Repeating information to remember it longer"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What does the Episodic Buffer in Baddeley and Hitch's model do?",
-        "Answers": [
-            "It integrates information from other subsystems and memory.",
-            "It acts as a control center for memory.",
-            "It processes visual and spatial data.",
-            "It processes auditory information."
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to the Multi-Store Model of Memory, which process increases the chances of information transfer to long-term memory?",
-        "Answers": [
-            "Active rehearsal",
-            "Short-term encoding",
-            "Sensory processing",
-            "Immediate retrieval"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to the Circumplex Model by Russell (1980), which two axes describe emotions?",
-        "Answers": [
-            "Valence and arousal",
-            "Positivity and negativity",
-            "Intensity and duration",
-            "Control and flexibility"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What brain structure is primarily associated with control through basic needs?",
-        "Answers": [
-            "Limbic system",
-            "Hippocampus",
-            "Brainstem",
-            "Neocortex"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Who founded the first experimental psychology lab, establishing psychology as a distinct scientific discipline?",
-        "Answers": [
-            "Wilhelm Wundt",
-            "Jean Piaget",
-            "Lev Vygotsky",
-            "John Locke"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Which component of Baddeley's Working Memory Model is responsible for integrating information across subsystems?",
-        "Answers": [
-            "Phonological Loop",
-            "Episodic Buffer",
-            "Visuo-Spatial Sketchpad",
-            "Central Executive"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Cognitive Load Theory, which type of load refers to the inherent complexity of the material?",
-        "Answers": [
-            "Germane Load",
-            "Extraneous Load",
-            "Intrinsic Load",
-            "Redundant Load"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which theorist emphasized the role of \"scaffolding\" in the Zone of Proximal Development (ZPD)?",
-        "Answers": [
-            "Albert Bandura",
-            "B.F. Skinner",
-            "Lev Vygotsky",
-            "Jean Piaget"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "The \"Still Face Experiment\" by Tronick demonstrates that:",
-        "Answers": [
-            "Infants lack emotional responsiveness",
-            "Emotions are purely internal experiences",
-            "Emotional disruptions impair social interactions",
-            "Innate reflexes dominate early development"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which of the following is NOT one of McClelland's basic motives?",
-        "Answers": [
-            "Affiliation",
-            "Power",
-            "Competence",
-            "Achievement"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Expectancy-Value Theory (EVT), motivation is determined by:",
-        "Answers": [
-            "Self-efficacy and task difficulty",
-            "Expectancy of success and task value",
-            "Intrinsic and extrinsic rewards",
-            "Cognitive and emotional engagement"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which principle of Norman's interaction design emphasizes the relationship between controls and their effects?",
-        "Answers": [
-            "Affordances",
-            "Mappings",
-            "Feedback",
-            "Discoverability"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "A key challenge of AI-driven educational tools is:",
-        "Answers": [
-            "Over-reliance on gamification",
-            "Lack of alignment with cognitive psychology principles",
-            "Excessive use of multimedia",
-            "Insufficient focus on declarative knowledge"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which brain structure is associated with controlling basic survival needs?",
-        "Answers": [
-            "Neocortex",
-            "Hippocampus",
-            "Brainstem",
-            "Limbic System"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Boekaerts' Dual Processing Model, the \"Well-being Pathway\" prioritizes:",
-        "Answers": [
-            "Academic mastery",
-            "Emotional health protection",
-            "Social collaboration",
-            "Cognitive overload reduction"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which statistical test is appropriate for comparing means across three independent groups?",
-        "Answers": [
-            "t-test",
-            "Chi-square",
-            "ANOVA",
-            "Pearson's correlation"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "The \"Piano Stairs\" experiment exemplifies which gamification concept?",
-        "Answers": [
-            "Structural gamification",
-            "Content gamification",
-            "Serious games",
-            "Adaptive learning"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "ALEKS, an adaptive learning system, primarily uses which method to tailor content?",
-        "Answers": [
-            "Real-time facial expression analysis",
-            "Knowledge space theory",
-            "Social constructivist scaffolding",
-            "Classical conditioning"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which of Ekman's basic emotions is most associated with threat avoidance?",
-        "Answers": [
-            "Joy",
-            "Surprise",
-            "Fear",
-            "Disgust"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In Zimmerman's SRL model, the \"Forethought\" phase includes:",
-        "Answers": [
-            "Goal setting and strategic planning",
-            "Emotional regulation",
-            "Peer collaboration",
-            "Task execution"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Mayer's Coherence Principle in multimedia learning emphasizes:",
-        "Answers": [
-            "Adding entertaining visuals",
-            "Removing extraneous material",
-            "Using dual coding for text and images",
-            "Increasing task complexity"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "A threat to internal validity where pre-existing group differences skew results is called:",
-        "Answers": [
-            "Selection bias",
-            "Hawthorne effect",
-            "Regression to the mean",
-            "Maturation"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Which assessment type focuses on monitoring learning progress during instruction?",
-        "Answers": [
-            "Summative",
-            "Diagnostic",
-            "Formative",
-            "Norm-referenced"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "The \"Four-Phase Model of Interest Development\" culminates in:",
-        "Answers": [
-            "Triggered situational interest",
-            "Maintained situational interest",
-            "Emerging individual interest",
-            "Well-developed individual interest"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "In Herbart's \"Five Formal Steps\" of teaching, which phase involves connecting new ideas to prior knowledge?",
-        "Answers": [
-            "Preparation",
-            "Presentation",
-            "Association",
-            "Generalization"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which cognitive process is not part of Mayer's Cognitive Theory of Multimedia Learning?",
-        "Answers": [
-            "Selecting",
-            "Organizing",
-            "Elaborating",
-            "Integrating"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "A key ethical concern in AI-driven assessment is:",
-        "Answers": [
-            "Overuse of gamification",
-            "Data privacy and security",
-            "Insufficient feedback loops",
-            "High cognitive load"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In the context of AI proctoring systems, which technology is used to detect unusual behaviors?",
-        "Answers": [
-            "Natural Language Processing",
-            "Machine vision",
-            "Reinforcement learning",
-            "Large Language Model"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Piaget, what is the process of integrating new information into existing cognitive structures?",
-        "Answers": [
-            "Assimilation",
-            "Accommodation",
-            "Equilibration",
-            "Reinforcement"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "Which of the following describes a variable-ratio reinforcement schedule?",
-        "Answers": [
-            "Receiving a paycheck every two weeks",
-            "A teacher randomly rewarding participation in class",
-            "A vending machine dispensing snacks after inserting money",
-            "A loyalty program that gives a free coffee after 10 purchases"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a key principle of constructivism in learning?",
-        "Answers": [
-            "Passive absorption of knowledge",
-            "Active engagement with materials to construct meaning",
-            "Repetition of tasks without exploration",
-            "Intelligence is fixed and unchangeable"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Self-Determination Theory, which of the following is NOT a basic psychological need?",
-        "Answers": [
-            "Competence",
-            "Autonomy",
-            "Financial security",
-            "Relatedness"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the primary purpose of scaffolding in education?",
-        "Answers": [
-            "To provide permanent support for struggling learners",
-            "To gradually reduce assistance as learners gain independence",
-            "To make learning easier by eliminating challenges",
-            "To allow students to avoid difficult tasks"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which type of memory is responsible for holding information for a brief period before processing?",
-        "Answers": [
-            "Long-term memory",
-            "Short-term memory",
-            "Sensory memory",
-            "Working memory"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the primary function of the phonological loop in Baddeley's working memory model?",
-        "Answers": [
-            "Processing verbal and auditory information",
-            "Managing visual-spatial data",
-            "Directing attention and coordinating cognitive processes",
-            "Integrating multiple types of information"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What does expectancy-value theory (EVT) propose as the two key factors of motivation?",
-        "Answers": [
-            "Intrinsic and extrinsic rewards",
-            "Expectancy of success and task value",
-            "Persistence and resilience",
-            "Emotional intelligence and cognitive ability"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does the coherence principle in Mayer's Cognitive Model of Multimedia Learning suggest?",
-        "Answers": [
-            "Information should be presented with redundancy for reinforcement",
-            "Removing unnecessary details improves learning",
-            "Learning should rely more on text than visuals",
-            "Complex topics should be taught in a single session"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Vygotsky, what is the Zone of Proximal Development (ZPD)?",
-        "Answers": [
-            "The stage of learning that occurs independently",
-            "The gap between what a learner can do alone and with assistance",
-            "The period where only intrinsic motivation is effective",
-            "A stage of memory consolidation in learning"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which learning theory suggests that behavior is shaped by rewards and punishments?",
-        "Answers": [
-            "Constructivism",
-            "Behaviorism",
-            "Cognitive Learning Theory",
-            "Experiential Learning Theory"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is an example of classical conditioning?",
-        "Answers": [
-            "A child learns to solve math problems by repetition",
-            "A dog salivates at the sound of a bell after repeated pairings with food",
-            "A student receives a reward for completing a task",
-            "A child mimics a teacher's behavior after observing them"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a feature of self-regulated learning (SRL)?",
-        "Answers": [
-            "Passive absorption of content",
-            "Teacher-controlled goal setting",
-            "The learner actively managing their own learning strategies",
-            "Learning only occurs in structured classroom settings"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to Atkinson & Shiffrin's Multi-Store Model, which store has the shortest duration?",
-        "Answers": [
-            "Sensory memory",
-            "Short-term memory",
-            "Long-term memory",
-            "Working memory"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What role does intrinsic load play in Cognitive Load Theory?",
-        "Answers": [
-            "It should always be reduced to improve learning",
-            "It is the inherent difficulty of the material being learned",
-            "It refers to distractions that impact learning",
-            "It is a type of motivation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a primary challenge of adaptive learning systems?",
-        "Answers": [
-            "They cannot be personalized to individual learners",
-            "Over-reliance on AI can weaken metacognitive skills",
-            "They are ineffective in improving learner performance",
-            "They require human instructors to function"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is an example of extraneous cognitive load?",
-        "Answers": [
-            "The natural difficulty of a complex topic",
-            "Irrelevant animations distracting from the core lesson",
-            "Meaningful problem-solving activities",
-            "Using prior knowledge to process new information"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What part of the brain is responsible for basic survival functions?",
-        "Answers": [
-            "Hippocampus",
-            "Brainstem",
-            "Neocortex",
-            "Amygdala"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In social cognitive theory, what influences learning the most?",
-        "Answers": [
-            "Reinforcement and punishment alone",
-            "Observational learning and modeling",
-            "Passive memorization of facts",
-            "Innate intelligence"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What describes situational interest in learning?",
-        "Answers": [
-            "A deeply ingrained, long-term interest in a subject",
-            "A temporary engagement triggered by external factors",
-            "An emotional response to failure",
-            "A personality trait associated with motivation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the goal of gamification in learning?",
-        "Answers": [
-            "To replace traditional learning methods entirely",
-            "To increase engagement and motivation using game-like elements",
-            "To create new theories of memory processing",
-            "To reduce student interaction with teachers"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which reinforcement schedule produces the most consistent responses over time?",
-        "Answers": [
-            "Fixed-interval",
-            "Variable-ratio",
-            "Fixed-ratio",
-            "Continuous"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a key benefit of self-efficacy in learning?",
-        "Answers": [
-            "It reduces the need for motivation",
-            "It increases persistence in the face of challenges",
-            "It eliminates the effects of stress",
-            "It replaces cognitive learning strategies"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to the Circumplex Model of Emotion, which two dimensions describe emotions?",
-        "Answers": [
-            "Valence and arousal",
-            "Positivity and negativity",
-            "Intensity and duration",
-            "Stability and flexibility"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "In experimental research, what is the dependent variable?",
-        "Answers": [
-            "The factor manipulated by the researcher",
-            "The measured outcome influenced by the independent variable",
-            "A random variable with no impact on the study",
-            "A control measure to eliminate bias"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a key characteristic of intrinsic motivation?",
-        "Answers": [
-            "Performing a task for external rewards",
-            "Engaging in an activity because it is inherently interesting",
-            "Avoiding punishment by completing an activity",
-            "Seeking approval from others"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to the Flow Theory, what is required for someone to enter a flow state?",
-        "Answers": [
-            "A high level of scaffolding",
-            "High challenge and high skill",
-            "High challenge and low skill",
-            "No challenge but high skill"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which principle of instructional design ensures that controls and functions align logically?",
-        "Answers": [
-            "Affordances",
-            "Feedback",
-            "Signifiers",
-            "Mapping"
-        ],
-        "Correct": 3
-    },
-    {
-        "Question": "Which type of motivation involves engaging in an activity due to external pressures or rewards?",
-        "Answers": [
-            "Intrinsic motivation",
-            "Extrinsic motivation",
-            "Amotivation",
-            "Self-determined motivation"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a potential disadvantage of gamification in learning?",
-        "Answers": [
-            "It reduces motivation in students",
-            "It can make learning too difficult",
-            "It may shift focus to extrinsic rewards rather than genuine learning",
-            "It replaces traditional classroom teaching"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "According to Cognitive Load Theory, which type of cognitive load should be maximized to improve learning?",
-        "Answers": [
-            "Intrinsic load",
-            "Extraneous load",
-            "Germane load",
-            "Working memory load"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What cognitive process involves connecting new information to existing knowledge?",
-        "Answers": [
-            "Attention",
-            "Elaboration",
-            "Storage",
-            "Retrieval"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which part of self-regulated learning (SRL) involves setting goals and planning learning strategies?",
-        "Answers": [
-            "Performance phase",
-            "Forethought phase",
-            "Self-reflection phase",
-            "Execution phase"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is an example of an adaptive learning system?",
-        "Answers": [
-            "A traditional classroom lecture",
-            "A standardized textbook with fixed content",
-            "An AI-driven tutoring system that adjusts content based on student progress",
-            "A memorization-based learning method"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is a defining feature of self-efficacy?",
-        "Answers": [
-            "Confidence in one's ability to perform a specific task",
-            "Generalized intelligence",
-            "Dependence on external validation",
-            "Avoidance of challenging tasks"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to the Circumplex Model of Emotion, what two factors define emotional experiences?",
-        "Answers": [
-            "Duration and intensity",
-            "Valence and arousal",
-            "Stability and flexibility",
-            "Positive and negative reinforcement"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What type of reinforcement schedule is used in slot machines, leading to addictive behaviors?",
-        "Answers": [
-            "Fixed-ratio",
-            "Fixed-interval",
-            "Variable-ratio",
-            "Continuous reinforcement"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which memory model suggests that information flows through a sequence of stores?",
-        "Answers": [
-            "Multi-Store Model",
-            "Parallel Distributed Processing Model",
-            "Working Memory Model",
-            "Dual-Process Theory"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "What is one risk of overusing artificial intelligence (AI) in education?",
-        "Answers": [
-            "Increased student independence",
-            "Reduced self-regulated learning skills",
-            "Improved memory retention",
-            "Better classroom interaction"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does the principle of scaffolding suggest about learning?",
-        "Answers": [
-            "Learners should always work independently",
-            "Temporary support should be provided until learners gain competence",
-            "The teacher should always provide direct answers",
-            "Learning should occur without guidance"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is an example of observational learning according to Bandura?",
-        "Answers": [
-            "A student memorizing a list of definitions",
-            "A child learning aggressive behavior by watching violent media",
-            "A person learning to drive by reading a manual",
-            "A baby crying due to hunger"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which research method is best for establishing a cause-and-effect relationship?",
-        "Answers": [
-            "Correlational study",
-            "Case study",
-            "Experimental study",
-            "Observational study"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the primary function of feedback in instructional design?",
-        "Answers": [
-            "To increase cognitive load",
-            "To communicate whether an action was successful",
-            "To reduce motivation",
-            "To introduce new learning material"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does the Attribution Theory suggest about failure?",
-        "Answers": [
-            "Failure is always caused by external factors",
-            "Internal, controllable attributions increase motivation",
-            "People learn best through rewards only",
-            "Effort has no impact on success"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is an example of cognitive dissonance?",
-        "Answers": [
-            "Feeling conflicted after acting against personal beliefs",
-            "Experiencing high confidence in one's abilities",
-            "Developing an intrinsic motivation for learning",
-            "Memorizing information for a test"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "According to Norman's principles of interaction design, what does the term 'discoverability' refer to?",
-        "Answers": [
-            "The ability to find out what actions are possible",
-            "The ease with which users can identify system errors",
-            "The process of mapping controls to their functions",
-            "The visual appeal of a design"
-        ],
-        "Correct": 0
-    },
-    {
-        "Question": "In the context of adaptive learning systems, what is the primary purpose of scaffolding?",
-        "Answers": [
-            "To provide permanent support for all learners",
-            "To reduce cognitive load by simplifying content",
-            "To offer temporary guidance that fades as learners gain competence",
-            "To ensure consistent performance across different tasks"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "What is the main challenge in designing AI-based assessments according to the slides?",
-        "Answers": [
-            "Ensuring high reliability without human oversight",
-            "Balancing formative and summative feedback",
-            "Avoiding algorithmic bias while maintaining validity",
-            "Reducing the cost of implementation"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Which component of working memory is responsible for integrating information from the phonological loop, visuospatial sketchpad, and long-term memory?",
-        "Answers": [
-            "Central Executive",
-            "Episodic Buffer",
-            "Phonological Loop",
-            "Visuospatial Sketchpad"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary ethical concern when using AI for educational assessment mentioned in the slides?",
-        "Answers": [
-            "Over-reliance on automated scoring",
-            "Algorithmic bias leading to unfair evaluations",
-            "Excessive focus on summative assessments",
-            "Lack of alignment with instructional objectives"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to the slides, what is a key limitation of large class sizes in implementing adaptive learning systems?",
-        "Answers": [
-            "Increased dependency on teacher-led instruction",
-            "Difficulty personalizing instruction for diverse learners",
-            "Higher risk of technical failures",
-            "Reduced opportunities for collaborative learning"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What does the term 'extraneous load' refer to in Cognitive Load Theory?",
-        "Answers": [
-            "The inherent complexity of the material being learned",
-            "Mental effort wasted on processing irrelevant information",
-            "The cognitive resources required to integrate new knowledge",
-            "Load caused by insufficient prior knowledge"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which type of gamification involves altering the actual learning content to make it more engaging?",
-        "Answers": [
-            "Structural gamification",
-            "Content gamification",
-            "Behavioral gamification",
-            "Hybrid gamification"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary goal of guided reflection in adaptive learning systems?",
-        "Answers": [
-            "To increase learner autonomy by providing minimal guidance",
-            "To help learners analyze their progress and plan future actions",
-            "To simplify complex tasks into smaller steps",
-            "To ensure compliance with curriculum standards"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which mechanism in adaptive learning systems tracks students' prior knowledge and adjusts content accordingly?",
-        "Answers": [
-            "Feedback loops",
-            "Scaffolding",
-            "Learner model",
-            "Static adaptation"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In the context of AI-driven educational tools, what is a primary concern related to algorithmic bias?",
-        "Answers": [
-            "Enhanced personalization for all learners",
-            "Reinforcement of existing societal biases in learning outcomes",
-            "Increased engagement through gamification",
-            "Reduction in cognitive load for complex tasks"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "According to Boekaerts' Dual Processing Model, when might a learner shift from the Mastery Pathway to the Well-being Pathway?",
-        "Answers": [
-            "When they feel confident and motivated",
-            "When they perceive a task as too challenging or threatening",
-            "When they are exposed to new content",
-            "When they achieve mastery of a skill"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a key challenge in applying Norman's principle of 'discoverability' to instructional design?",
-        "Answers": [
-            "Ensuring that all learners have equal access to digital tools",
-            "Making sure learners can intuitively figure out possible actions within the learning environment",
-            "Providing clear feedback after every interaction",
-            "Reducing extraneous cognitive load by simplifying content"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which aspect of adaptive learning systems is most directly influenced by Vygotsky's concept of scaffolding?",
-        "Answers": [
-            "The use of leaderboards to motivate competition",
-            "The provision of temporary support tailored to a learner's current level",
-            "The integration of multimedia elements into lessons",
-            "The implementation of fixed-ratio reinforcement schedules"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In the context of AI-based proctoring systems, what ethical concern arises from the use of machine vision?",
-        "Answers": [
-            "Overemphasis on formative assessments",
-            "Violation of student privacy through constant surveillance",
-            "Increased reliance on traditional testing methods",
-            "Difficulty in scaling to large classrooms"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is a critical limitation of structural gamification compared to content gamification?",
-        "Answers": [
-            "It cannot be applied in digital environments",
-            "It does not alter the core learning material, potentially limiting deep engagement",
-            "It focuses exclusively on extrinsic rewards like badges",
-            "It requires advanced AI algorithms to function effectively"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "How does the concept of 'learner model' contribute to adaptive learning systems?",
-        "Answers": [
-            "By tracking technical infrastructure requirements",
-            "By monitoring teacher performance metrics",
-            "By assessing students' prior knowledge and adjusting content accordingly",
-            "By ensuring cultural constraints are respected"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "In the context of AI tools and SRL, what is a key concern regarding the use of AI for goal setting?",
-        "Answers": [
-            "AI tools may set goals that are too challenging for learners.",
-            "Learners may not develop goal-setting skills themselves.",
-            "AI tools prioritize emotional well-being over academic achievement.",
-            "AI tools discourage the use of metacognitive strategies."
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In applying Don Norman's Fundamental Principles of Interaction Design to instructional design, which option best captures the concept of 'Affordances'?",
-        "Answers": [
-            "The clear visual cues that indicate how a user should interact with a control",
-            "The inherent properties of an object that suggest possible actions",
-            "The systematic limitations imposed to prevent user errors",
-            "The immediate feedback provided after a user's action"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "What is the primary reason for the limited capacity of working memory as discussed in the slides?",
-        "Answers": [
-            "The rapid decay of information stored in sensory memory",
-            "The lack of effective rehearsal strategies for transient information",
-            "The finite number of items that can be actively maintained simultaneously",
-            "The high cognitive demand placed on the central executive"
-        ],
-        "Correct": 2
-    },
-    {
-        "Question": "Despite advances in technology, why have Intelligent Tutoring Systems (ITS) struggled to achieve widespread adoption according to the slides?",
-        "Answers": [
-            "They are primarily limited by the absence of personalized learning pathways",
-            "They rely too heavily on artificial intelligence without integrating a solid psychological framework",
-            "They overemphasize social interactions at the expense of individual cognitive processes",
-            "They focus predominantly on emotional intelligence rather than cognitive skills"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "The Cognitive Theory of Multimedia Learning posits that verbal and visual information are processed through:",
-        "Answers": [
-            "A single unified channel that integrates all forms of information",
-            "Separate channels that allow simultaneous but distinct processing streams",
-            "A predominantly visual channel with minimal verbal processing",
-            "A conversion process where verbal data is transformed into visual imagery"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In the context of Self-Regulated Learning models, how do metacognitive strategies differ from cognitive strategies?",
-        "Answers": [
-            "Metacognitive strategies involve external feedback mechanisms, whereas cognitive strategies are entirely internal.",
-            "Metacognitive strategies focus on planning, monitoring, and evaluating the learning process, while cognitive strategies deal directly with processing the material.",
-            "Cognitive strategies are used exclusively in high-pressure situations, while metacognitive strategies are used during routine learning.",
-            "There is no clear distinction; both strategies serve the same function in learning."
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "In the discussion on emotions and learning, which best describes the 'shielding' mechanism as presented in the slides?",
-        "Answers": [
-            "It refers to isolating oneself from social interactions to maintain concentration.",
-            "It describes the conservation of cognitive resources by reducing the processing of distracting, irrelevant stimuli.",
-            "It is the deliberate suppression of negative emotions to enhance academic performance.",
-            "It represents a motivational surge triggered by unexpected positive feedback."
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Which historical figure is most closely associated with the concept of 'tabula rasa' and the emphasis on experiential learning?",
-        "Answers": [
-            "Plato",
-            "John Locke",
-            "Johann Friedrich Herbart",
-            "John Comenius"
-        ],
-        "Correct": 1
-    },
-    {
-        "Question": "Among the emerging topics discussed in the slides, which ethical concern is highlighted as particularly significant in the integration of AI in education?",
-        "Answers": [
-            "A decrease in face-to-face student-teacher interactions",
-            "The risk of algorithmic bias combined with issues of data privacy and security",
-            "An overemphasis on theoretical learning at the expense of practical skills",
-            "A diminishing reliance on traditional assessment and feedback methods"
-        ],
-        "Correct": 1
-    }
+{
+    "Question": "What is the primary focus of 'Epistemology' as a field of study?",
+    "Answers": [
+        "The study of political systems and governance.",
+        "The investigation of what truly exists in reality.",
+        "The examination of how knowledge is acquired and known.",
+        "The analysis of social structures and their functions."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to Karl Popper's 'Principle of Falsification', what characteristic defines a scientific hypothesis?",
+    "Answers": [
+        "Its ability to be definitively proven true through observation.",
+        "Its capacity to predict future events with perfect accuracy.",
+        "Its potential to be tested and proven false through evidence.",
+        "Its alignment with established scientific theories and laws."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the 'Nomothetic approach' in social research primarily concerned with achieving?",
+    "Answers": [
+        "Understanding individual experiences in great depth.",
+        "Generating broad, generalizable explanations across populations.",
+        "Focusing on unique historical events and their specific contexts.",
+        "Analyzing subjective interpretations of personal narratives."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "Which concept from Pierre Bourdieu describes the internalized dispositions that shape individuals' perceptions and actions?",
+    "Answers": [
+        "Social Capital",
+        "Epistemological Understanding",
+        "Habitus",
+        "Objective Conditions"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to Bourdieu, what is the relationship between 'objective conditions' and 'subjective experiences'?",
+    "Answers": [
+        "Subjective experiences are entirely determined by objective conditions.",
+        "Objective conditions are irrelevant to understanding subjective experiences.",
+        "They are independent of each other and do not interact in any way.",
+        "Objective conditions shape experiences, but individual responses matter equally."
+    ],
+    "Correct": 3
+},
+{
+    "Question": "What does Bourdieu emphasize that a sociologist needs to balance in their research approach?",
+    "Answers": [
+        "Subjectivity and Objectivity",
+        "Proximity and Distance",
+        "Empathy and Detachment",
+        "Qualitative and Quantitative data"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "Donna Haraway's concept of 'Situated Knowledge' primarily argues that all knowledge is:",
+    "Answers": [
+        "Objective and universally valid across all contexts.",
+        "Subjective and purely based on personal opinions.",
+        "Contingent and shaped by specific social, historical, and material contexts.",
+        "Absolute and independent of human interpretation and perspective."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does Haraway mean when she describes 'gravity' as 'contingent'?",
+    "Answers": [
+        "Gravity is a universally fixed and unchanging physical law.",
+        "Our understanding of gravity is shaped by theories and apparatuses.",
+        "Gravity is only relevant in specific social and historical contexts.",
+        "The effects of gravity are purely a matter of subjective perception."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Haraway, what are 'Semiotic Technologies'?",
+    "Answers": [
+        "Physical instruments used in scientific experiments.",
+        "Complex mathematical equations in theoretical physics.",
+        "The language and word choices used to describe phenomena.",
+        "Advanced computer algorithms for data analysis in science."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the central idea behind 'Material-Semiotic Technologies' according to Haraway?",
+    "Answers": [
+        "Knowledge creation is solely based on empirical observation.",
+        "Material tools are separate from the language used to describe them.",
+        "Knowledge is created through the interaction of material tools and language systems.",
+        "Semiotic systems are independent of material conditions and tools."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In the context of 'Situated Knowledge', what is meant by a 'view from nowhere'?",
+    "Answers": [
+        "A perspective that is completely objective and neutral.",
+        "Knowledge produced without any social or historical context.",
+        "The ideal standpoint for conducting scientific research.",
+        "An impossible and non-existent neutral or objective stance."
+    ],
+    "Correct": 3
+},
+{
+    "Question": "What is the primary distinction between 'Quantitative' and 'Qualitative' approaches in social research?",
+    "Answers": [
+        "Qualitative is objective; quantitative is subjective.",
+        "Quantitative generalizes across cases; qualitative generalizes within a case.",
+        "Quantitative focuses on depth; qualitative focuses on breadth.",
+        "Qualitative uses numbers; quantitative uses words and narratives."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "From an individualist perspective, such as Margaret Thatcher's, how is 'society' primarily viewed?",
+    "Answers": [
+        "As a collective entity greater than its individual parts.",
+        "As an aggregate or collection of independent individuals.",
+        "As a structured system of social institutions and norms.",
+        "As a dynamic network of social relationships and interactions."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What does understanding 'the social' as a 'fractal phenomenon' imply?",
+    "Answers": [
+        "It becomes simpler and easier to analyze at smaller scales.",
+        "Its complexity remains consistent regardless of the scale of analysis.",
+        "It is only complex when analyzed at the societal level.",
+        "It exhibits predictable patterns that simplify with scale reduction."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "In Erving Goffman's view of social situations as 'scripted', what does 'not deterministic' imply?",
+    "Answers": [
+        "Individuals have no agency and strictly follow social scripts.",
+        "Social scripts are rigid and cannot be deviated from.",
+        "There is some flexibility for individuals within social scripts.",
+        "Social scripts are entirely predictable and leave no room for variation."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the core concept of 'Structuralism' in explaining 'The Social'?",
+    "Answers": [
+        "Individuals' free will and rational choices shape society.",
+        "Underlying, universal mental structures shape culture and society.",
+        "Social order emerges from individual interactions and negotiations.",
+        "Historical events and specific contexts determine social structures."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Emile Durkheim, what are 'social facts'?",
+    "Answers": [
+        "Subjective interpretations of social phenomena.",
+        "Individual motivations and psychological states.",
+        "External forces that influence individuals and are collective.",
+        "Statistical data representing social trends and patterns."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In Karl Marx's 'Historical Materialism', what is considered the primary driver of social change?",
+    "Answers": [
+        "Changes in cultural values and beliefs.",
+        "Technological advancements and innovations.",
+        "Class struggles arising from economic structures.",
+        "Individual actions and leadership of historical figures."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does Lévi-Strauss's concept of 'binary oppositions' suggest about human societies?",
+    "Answers": [
+        "Societies are structured by random and chaotic elements.",
+        "All societies share fundamental opposing categories for meaning.",
+        "Binary oppositions are unique to Western societies only.",
+        "These oppositions are entirely culturally specific and vary widely."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "How does Max Weber's approach differ from structuralist approaches in understanding 'the social'?",
+    "Answers": [
+        "Weber focuses on universal structures; structuralists on individual action.",
+        "Weber emphasizes individual meaning-making; structuralists on hidden structures.",
+        "Weber rejects empirical data; structuralists rely solely on observation.",
+        "Weber believes in objective truth; structuralists in subjective interpretation."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is Weber's concept of 'Verstehen' in sociology primarily concerned with?",
+    "Answers": [
+        "Establishing universal laws of social behavior.",
+        "Employing statistical methods for large-scale analysis.",
+        "Empathetically understanding individuals' subjective meanings.",
+        "Objectively observing social structures and their functions."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "How does Bourdieu's concept of 'Habitus' bridge the gap between structure and agency?",
+    "Answers": [
+        "It argues that individuals are entirely determined by social structures.",
+        "It suggests that agency is completely independent of structural influences.",
+        "It proposes that habitus shapes individuals but is also shaped by them.",
+        "It eliminates the distinction between structure and individual agency entirely."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In Bourdieu's theory, what does 'Social Field' refer to?",
+    "Answers": [
+        "The natural environment and geographical context of society.",
+        "Arenas of competition where different forms of capital matter.",
+        "Individual's personal networks of friends and family.",
+        "Abstract theoretical frameworks for social analysis."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is 'Cultural Hegemony' as explained by Gramsci and further developed in Cultural Studies?",
+    "Answers": [
+        "The dominance of economic structures over culture.",
+        "The struggle for political power through military force.",
+        "How dominant narratives shape social order and define 'normal'.",
+        "The equal distribution of cultural resources across society."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the main argument of 'Poststructuralism' regarding meaning, identity, and power?",
+    "Answers": [
+        "They are fixed, stable, and predetermined by social structures.",
+        "They are fluid, unstable, and shaped by discourse and power.",
+        "They are entirely individual and independent of social influences.",
+        "They are objective realities that can be discovered through science."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Foucault, what is 'Discourse'?",
+    "Answers": [
+        "Formal debates and dialogues in political institutions.",
+        "The totality of what is said and done in society on a topic.",
+        "Individual opinions and beliefs expressed in public forums.",
+        "Written texts and documents that record historical events."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is the key difference between 'Sovereign Power' and 'Biopower' according to Foucault?",
+    "Answers": [
+        "Sovereign power is productive; biopower is repressive.",
+        "Sovereign power shapes life; biopower takes life.",
+        "Sovereign power is centralized; biopower is dispersed.",
+        "Sovereign power takes life; biopower shapes and manages life."
+    ],
+    "Correct": 3
+},
+{
+    "Question": "What are 'Looping Effects' in Ian Hacking's 'Dynamic Nominalism'?",
+    "Answers": [
+        "Linear progressions in social classifications.",
+        "The cyclical nature of social structures and institutions.",
+        "How classifications shape people, who then change classifications.",
+        "The tendency for social categories to become increasingly rigid."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the central argument of Science and Technology Studies (STS) regarding the nature/culture divide?",
+    "Answers": [
+        "The nature/culture divide is a fundamental and objective reality.",
+        "Humans are fundamentally different from non-living matter.",
+        "The separation of nature from culture is a social and political construction.",
+        "Science objectively reveals the inherent differences between nature and culture."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is meant by 'Historical Contingency' in the context of scientific knowledge?",
+    "Answers": [
+        "Scientific truths are timeless and unchanging.",
+        "Historical events have no impact on scientific progress.",
+        "What is considered scientific truth changes over time.",
+        "Science progresses linearly towards absolute and final truths."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to Foucault, what is the key question to ask about knowledge, instead of 'Is it objectively true?'",
+    "Answers": [
+        "Who created this knowledge and for what purpose?",
+        "What are the social consequences of accepting this knowledge?",
+        "What discourses shape what society considers true or serious?",
+        "Is this knowledge consistent with existing scientific theories?"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "Donna Haraway challenges the 'gods eye view' of Western science. What does this critique imply?",
+    "Answers": [
+        "Western science is superior to other forms of knowledge.",
+        "There is a neutral, objective perspective outside power structures.",
+        "All perspectives are equally valid and objective in science.",
+        "There is no neutral perspective; knowledge is always situated within power."
+    ],
+    "Correct": 3
+},
+{
+    "Question": "What is 'Perspectivism' in Amazonian Cosmology, as described by Viveiros de Castro, challenging about Western views?",
+    "Answers": [
+        "It reinforces the Western nature/culture divide.",
+        "It assumes multiple biological natures and single culture.",
+        "It challenges the Western nature/culture divide by proposing single culture.",
+        "It aligns perfectly with Western scientific understandings of nature."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does STS argue about technology and artifacts?",
+    "Answers": [
+        "Technology is inherently neutral and value-free.",
+        "Artifacts can embody politics and are not ethically neutral.",
+        "Technology is solely determined by scientific principles.",
+        "Artifacts are only political when used for military purposes."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What does Bruno Latour mean by 'Technology as Society made Durable'?",
+    "Answers": [
+        "Technology is temporary and constantly changing.",
+        "Technology is separate from social structures and values.",
+        "Technology is a way of making social structures and values last over time.",
+        "Technology primarily reflects individual creativity and innovation."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is 'Relational Ontology' in Sociology?",
+    "Answers": [
+        "The view that entities are fixed and have essential cores.",
+        "The study of isolated entities and their individual properties.",
+        "The perspective that entities are assembled and formed through relations.",
+        "The belief that social reality is based on objective and universal laws."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "How does 'Relational Thinking' expand the concept of 'Agency' beyond Weber's focus?",
+    "Answers": [
+        "By limiting agency solely to human actors with intentions.",
+        "By distributing agency across networks of humans and non-human actors.",
+        "By emphasizing individual agency over structural influences.",
+        "By focusing only on macro-level social structures and systems."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is 'Subpolitics' as introduced by Ulrich Beck?",
+    "Answers": [
+        "Politics occurring only within formal government institutions.",
+        "The decreasing importance of political action in modern society.",
+        "Political action and decision-making outside traditional state areas.",
+        "A return to traditional forms of political engagement and participation."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to Foucault's notion of 'Governments' in STS, how is power understood?",
+    "Answers": [
+        "Power is solely repressive and limits individual freedom.",
+        "Power is only exercised by formal government institutions.",
+        "Power is productive and shapes knowledge, actions, and 'truth'.",
+        "Power is primarily economic and based on control of resources."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In 'Deliberative Assemblies' (Habermas), what is central to the concept of politics?",
+    "Answers": [
+        "Political power as primarily based on military strength.",
+        "Politics as a domain of rational deliberation and 'best argument'.",
+        "Political action as driven by emotional appeals and propaganda.",
+        "Politics as solely determined by economic interests and class struggle."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What characterizes 'Sovereignty' (Schmitt) in the context of political debates?",
+    "Answers": [
+        "Emphasis on consensus and compromise in political decisions.",
+        "Framing political debates antagonistically to win public support.",
+        "Prioritizing rational argumentation and evidence-based policy.",
+        "Focus on international cooperation and global governance."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What does STS suggest about the 'Public' in relation to science and technology?",
+    "Answers": [
+        "The 'Public' is a fixed and clearly defined social group.",
+        "The 'Public' remains passive in response to technological change.",
+        "The 'Public' emerges in response to scientific and technological issues.",
+        "The 'Public' is irrelevant to the governance of science and technology."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is 'Economisation' from a sociological perspective?",
+    "Answers": [
+        "The economy as a naturally existing and objective reality.",
+        "Economic processes are solely determined by market forces.",
+        "The economy as an achievement, actively constructed through practices.",
+        "Economic phenomena are best understood through individual rationality."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the 'Formalist' position in economic anthropology mainly focused on?",
+    "Answers": [
+        "The cultural and historical context of economic behavior.",
+        "The embeddedness of economy in social institutions.",
+        "Universal rules of rationality and utility maximization.",
+        "The role of power and inequality in economic systems."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does the 'Substantivist' position in economic anthropology emphasize?",
+    "Answers": [
+        "Universal rules of economic rationality",
+        "Individual utility maximization",
+        "The embeddedness of the economy in social and cultural institutions",
+        "The efficiency of free markets"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "Which of the following is NOT a form of economic exchange identified by Polanyi?",
+    "Answers": [
+        "Reciprocity",
+        "Redistribution",
+        "Commodification",
+        "Trading (market exchange)"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the core question sociologists ask when studying markets?",
+    "Answers": [
+        "How can markets be made more efficient?",
+        "What is the optimal price for a given good?",
+        "How do markets come into being, and what are their social, technical, and political conditions?",
+        "How can market failures be prevented?"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does it mean to say that markets are 'socially embedded'?",
+    "Answers": [
+        "Markets operate independently of social and cultural values.",
+        "Market functions are solely determined by economic laws.",
+        "Markets are influenced by cultural values and institutions.",
+        "Market activities are purely based on individual rational choices."
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the sociological perspective on 'marketisation'?",
+    "Answers": [
+        "Taking markets as naturally given and focusing on efficiency.",
+        "Examining how markets emerge and the conditions that make them work.",
+        "Assuming markets are purely economic and separate from society.",
+        "Believing markets are always the most efficient form of resource allocation."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What are 'algorithmic marketisation' and 'transparency' concerned with in contemporary markets?",
+    "Answers": [
+        "Ensuring markets operate solely based on rational algorithms.",
+        "Making market processes transparent to address biases and governance.",
+        "Increasing market efficiency by removing human intervention.",
+        "Focusing on the purely technical aspects of market operations."
+    ],
+    "Correct": 1
+},
+{
+    "Question": "Which concept best describes the idea that understanding society requires engaging with diverse perspectives rather than a single narrative?",
+    "Answers": [
+        "Understanding requires engaging with multiple viewpoints",
+        "Scientific truth is never absolute in social sciences",
+        "Social world resists law-like frameworks and generalizations",
+        "Subjective experiences are not relevant to social analysis"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In the context of explaining the natural world, what does it mean for a scientific theory to be 'falsifiable' according to Popper?",
+    "Answers": [
+        "The theory is considered absolutely true and cannot be disproven",
+        "The theory is based on subjective opinions and cannot be tested",
+        "The theory must be capable of being proven wrong through testing",
+        "The theory is only relevant if it aligns with existing social norms"
+    ],
+    "Correct": 3
+},
+{
+    "Question": "What is the 'Idiographic approach' primarily focused on in the study of the social world?",
+    "Answers": [
+        "Understanding unique and individual experiences and histories",
+        "Identifying universal laws that govern all social phenomena",
+        "Generalizing patterns across large populations and social groups",
+        "Predicting future social trends with statistical accuracy and models"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Pierre Bourdieu, what is a 'sociological approach' essential for understanding social phenomena?",
+    "Answers": [
+        "Intuitive understanding and personal empathy are sufficient",
+        "Understanding requires moving beyond empathy and intuition",
+        "Empathy is the primary tool for sociological understanding",
+        "Sociological approach is not relevant for social understanding"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "Which of the following best describes Bourdieu's view on individual responses to objective conditions?",
+    "Answers": [
+        "Individual responses are predetermined by objective conditions alone",
+        "Objective conditions are irrelevant to individual subjective experiences",
+        "Individual responses are as important as objective conditions themselves",
+        "Objective conditions completely negate individual agency and responses"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to Bourdieu, what is the focus of understanding individuals in social analysis?",
+    "Answers": [
+        "Finding predefined categories to classify individuals neatly",
+        "Ignoring individual differences and focusing on group averages",
+        "Understanding the interplay between situation and disposition",
+        "Solely focusing on individuals' internal psychological states"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does Bourdieu's concept of 'Habitus' primarily explain about human action?",
+    "Answers": [
+        "Random and unpredictable individual behaviors in society",
+        "The influence of conscious rational decisions on present actions",
+        "How past experiences dynamically influence present actions",
+        "Actions solely determined by immediate situational factors"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to Bourdieu, social situations are best explained by:",
+    "Answers": [
+        "Single dominant factors that clearly determine social outcomes",
+        "Rarely by one factor; multiple factors need to be considered",
+        "Ignoring both social and dispositional factors and focusing on chance",
+        "Focusing only on individual psychological factors and motivations"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is the role of a sociologist in explaining xenophobia according to Bourdieu's perspective?",
+    "Answers": [
+        "To ignore deeper social contradictions and focus on individual biases",
+        "To make buried frustrations explicit by asking the right questions",
+        "To reinforce existing social hierarchies and power structures",
+        "To provide simple and straightforward answers to complex issues"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "In Bourdieu's methodology, what is crucial for a sociologist to balance during fieldwork?",
+    "Answers": [
+        "Personal biases and professional objectivity at all times",
+        "Proximity to subjects and analytical distance in interpretation",
+        "Emotional involvement and detached observation equally",
+        "Complete immersion and total detachment from social context"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What does Haraway's concept of 'contingency' suggest about scientific truths like gravity?",
+    "Answers": [
+        "Gravity is an absolute and unchanging truth, definitively proven",
+        "Gravity's existence is uncertain and purely theoretical concept",
+        "Our understanding of gravity could be different or redefined later",
+        "Gravity is only a social construct with no basis in physical reality"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to Haraway, how are scientific facts 'actively constructed', rather than simply discovered?",
+    "Answers": [
+        "Facts are invented arbitrarily without any basis in observation",
+        "Facts are direct, unbiased observations of the natural world as is",
+        "Facts are shaped through practices, instruments, and perspectives",
+        "Facts are purely subjective interpretations of personal experiences"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the key point Haraway makes about the 'choice of semiotic technology' in knowledge production?",
+    "Answers": [
+        "The choice of language is neutral and has no impact on understanding",
+        "Different word choices do not change our understanding of phenomena",
+        "The choice of language is not neutral; it reflects power and history",
+        "Scientific language should be completely objective and value-free"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does Haraway's 'material-semiotic technologies' concept emphasize in knowledge creation?",
+    "Answers": [
+        "Knowledge is purely a product of abstract theoretical reasoning",
+        "Knowledge is solely created through direct sensory observation only",
+        "Knowledge emerges from interaction of tools and language systems",
+        "Material tools are irrelevant to the process of knowledge creation"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In 'Situated Knowledge', what does Haraway argue about the researcher's standpoint?",
+    "Answers": [
+        "Researchers should strive for a completely neutral and objective stance",
+        "A 'view from nowhere' is possible and essential for valid research",
+        "Researchers' viewpoints are constructions informed by their backgrounds",
+        "Researchers' personal biases should be entirely eliminated in research"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "When producing a 'faithful account' in social research, what is a crucial aspect to consider?",
+    "Answers": [
+        "Focusing solely on one's own interpretation and understanding",
+        "Ignoring alternative perspectives to maintain a clear narrative",
+        "Considering alternative perspectives and their influence on understanding",
+        "Prioritizing quantitative data over qualitative narratives always"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "How is 'Society' understood in a broad sociological sense, beyond just individuals?",
+    "Answers": [
+        "Society is merely the sum of all individual actions and choices",
+        "Society includes institutions, laws, state, economy, and culture",
+        "Society is an abstract concept with no concrete manifestations",
+        "Society is only relevant in specific historical and geographical contexts"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is the 'Individualist view of Society', as exemplified by Margaret Thatcher's quote?",
+    "Answers": [
+        "Society is a cohesive whole, greater than the sum of its parts",
+        "Society is simply an aggregate of individuals and their families",
+        "Society is a complex system of interconnected social institutions",
+        "Society is defined by collective goals and shared social values"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What does 'Accountability in Social Research' primarily entail?",
+    "Answers": [
+        "Ignoring ethical concerns to achieve groundbreaking results",
+        "Using rigorous methods, recognizing social impact, and ethics",
+        "Prioritizing political agendas over methodological rigor",
+        "Focusing solely on personal opinions and subjective interpretations"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "How does a 'more productive view' define 'the social' in relation to 'society'?",
+    "Answers": [
+        "'The social' is a fixed part of society focused on human interactions",
+        "'The social' is broader and constantly evolving, encompassing society",
+        "'The social' and 'society' are interchangeable concepts with same meaning",
+        "'Society' is broader and more encompassing than 'the social' itself"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Erving Goffman, how are social situations generally structured?",
+    "Answers": [
+        "Social situations are entirely random and unpredictable events",
+        "Social situations are largely unscripted and spontaneous interactions",
+        "Social situations are scripted; people follow pre-existing patterns",
+        "Social situations are determined by rational individual choices only"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is a key characteristic of social scripts according to Goffman's perspective?",
+    "Answers": [
+        "Social scripts are completely rigid and deterministic in nature",
+        "Social scripts are entirely based on rational and conscious decisions",
+        "Social scripts are not deterministic, allowing for some flexibility",
+        "Social scripts are simple and straightforward with clear guidelines"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In Structuralism, what is seen as shaping human culture and society?",
+    "Answers": [
+        "Individual agency and conscious decision-making processes",
+        "Underlying, universal mental structures, often deeply hidden",
+        "Superficial cultural practices and easily observable behaviors",
+        "Historical events and specific socio-political circumstances only"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Durkheim, what is the nature of 'norms, values, and institutions' as social facts?",
+    "Answers": [
+        "They are solely products of individual choices and agreements",
+        "They exist independently of individuals and are collective",
+        "They are subjective opinions with no objective social influence",
+        "They are constantly changing and lack stable structural influence"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "In Marx's 'Historical Materialism', what is the role of 'economic structures' in shaping society?",
+    "Answers": [
+        "Economic structures are irrelevant to the shape of social order",
+        "Economic structures are the primary forces shaping social order",
+        "Economic structures are shaped by individual beliefs and values",
+        "Economic structures are static and do not drive social change over time"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What does Lévi-Strauss argue about 'binary oppositions' across human societies?",
+    "Answers": [
+        "Binary oppositions are unique to specific cultures and do not generalize",
+        "Binary oppositions are imposed by colonial powers on other societies",
+        "All human societies use same binary oppositions to structure meaning",
+        "Binary oppositions are outdated and irrelevant in modern societies"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "How does Weber view individuals in shaping 'the social', contrasting with structuralist views?",
+    "Answers": [
+        "Individuals are passive recipients of social structures and norms",
+        "Individuals are 'cultural beings' actively shaping 'the social' with meaning",
+        "Individuals are irrelevant to the understanding of 'the social' order",
+        "Individuals are solely driven by economic incentives and rational calculations"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is the key difference between 'social action' and 'mere behavior' according to Max Weber?",
+    "Answers": [
+        "'Mere behavior' is intentional; 'social action' is unintentional",
+        "'Social action' involves intentionality and awareness of others",
+        "'Mere behavior' is shaped by social forces; 'social action' is not",
+        "'Social action' is reflexive and automatic; 'mere behavior' is conscious"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "In Weberian sociology, what is the focus of sociology as an 'interpretive discipline'?",
+    "Answers": [
+        "Seeking universal laws of social behavior like natural sciences",
+        "Focusing on objective observation of external social structures",
+        "Understanding how individuals attach meaning to their actions",
+        "Employing statistical methods to predict large-scale social trends"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In Weber's view of individuals ('Kulturmenschen'), what is a defining characteristic of their actions?",
+    "Answers": [
+        "Individuals act purely rationally and always maximize utility",
+        "Individuals act solely based on reflexes and instincts, unconsciously",
+        "Individuals struggle with meaning, navigate freedom and constraints",
+        "Individuals' actions are entirely predictable and follow set patterns"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "How does Weber's approach to understanding social action differ from Bourdieu's?",
+    "Answers": [
+        "Weber emphasizes structure; Bourdieu focuses on individual agency",
+        "Weber focuses on agency; Bourdieu emphasizes social structure",
+        "Both Weber and Bourdieu equally emphasize structure and agency",
+        "Neither Weber nor Bourdieu consider both structure and agency"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is the main difference between Weber's and Bourdieu's views on 'understanding' social behavior?",
+    "Answers": [
+        "Weber focuses on implicit understanding; Bourdieu on explicit",
+        "Weber emphasizes explicit understanding; Bourdieu on implicit",
+        "Both Weber and Bourdieu focus solely on explicit understanding",
+        "Neither Weber nor Bourdieu consider explicit or implicit understanding"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "How do Weber's 'ideal types' contrast with Bourdieu's focus on 'social fields' in analysis?",
+    "Answers": [
+        "Weber uses social fields; Bourdieu uses abstract ideal types",
+        "Weber uses abstract ideal types; Bourdieu focuses on social fields",
+        "Both Weber and Bourdieu rely equally on ideal types and social fields",
+        "Neither Weber nor Bourdieu utilize ideal types or social fields in analysis"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What is Bourdieu's concept of 'Doxa' primarily referring to in social structures?",
+    "Answers": [
+        "Explicitly stated rules and regulations in social institutions",
+        "Taken-for-granted beliefs that make structures seem natural",
+        "Consciously debated and rationally agreed upon social norms",
+        "Individual opinions and subjective interpretations of social reality"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Cultural Studies and Hegemony, what shapes 'Identity'?",
+    "Answers": [
+        "Identity is solely an individual trait, determined by genetics",
+        "Identity is purely shaped by individual self-perception only",
+        "Identity is shaped by self-attribution and societal categorization",
+        "Identity is completely fixed at birth and unchangeable over time"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does 'Hegemony' explain about dominant cultural narratives in shaping social order?",
+    "Answers": [
+        "Hegemony explains how marginalized narratives challenge social order",
+        "Hegemony explains how dominant narratives define 'normal' and 'valuable'",
+        "Hegemony suggests cultural narratives have no impact on social order",
+        "Hegemony is irrelevant to understanding how social order is maintained"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "In Poststructuralism, what is 'Discourse' understood to be?",
+    "Answers": [
+        "A set of fixed and unchanging social structures",
+        "The totality of what is said and done in society on a topic",
+        "Individual beliefs and opinions expressed in private settings",
+        "Formal political speeches and government policy documents only"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Foucault, what is the relationship between 'power' and 'knowledge' in discourses?",
+    "Answers": [
+        "Power and knowledge are entirely separate and independent domains",
+        "Knowledge is neutral and objective, unaffected by power dynamics",
+        "What counts as knowledge is tied to power; power shapes 'truth'",
+        "Power is solely based on physical force and has no relation to knowledge"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the focus of 'Discourse Analysis' in social research?",
+    "Answers": [
+        "Understanding individual beliefs and subjective meanings only",
+        "Analyzing timeless and deterministic social structures directly",
+        "Examining social conditions that make something count as true",
+        "Ignoring social context and focusing on universal principles only"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "In the context of 'Political Power', how does 'Biopower' differ from 'Sovereign Power'?",
+    "Answers": [
+        "Biopower focuses on taking life; sovereign power on shaping life",
+        "Biopower is less pervasive and influential than sovereign power",
+        "Biopower focuses on shaping life; sovereign power on taking life",
+        "Biopower is only relevant in pre-modern societies, not modernity"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does 'Dynamic Nominalism' (Hacking) suggest about categories of people?",
+    "Answers": [
+        "Categories objectively describe pre-existing types of people",
+        "Categories are fixed and do not change over time or context",
+        "Categories actively create new ways of being a person in society",
+        "Categories are irrelevant to understanding individual identities"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to STS, how should we understand the 'nature/culture' divide?",
+    "Answers": [
+        "The nature/culture divide is a fundamental and objective reality",
+        "The nature/culture divide is a social and political construction",
+        "Nature and culture are completely separate and unrelated domains",
+        "Science objectively reveals the inherent truth of nature/culture divide"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "What does 'Social Contingency' of scientific knowledge primarily emphasize?",
+    "Answers": [
+        "Scientific knowledge is independent of social and cultural values",
+        "Scientific knowledge is shaped by social structures and values",
+        "Scientific knowledge is purely based on objective empirical data",
+        "Scientific knowledge is universal and valid across all societies"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "According to Foucault, what question is more critical than asking 'Is knowledge objectively true?'?",
+    "Answers": [
+        "'Is this knowledge consistent with my personal beliefs and values?'",
+        "'What are the economic benefits of accepting this knowledge as true?'",
+        "'What discourses shape what society considers true or serious?'",
+        "'Is this knowledge supported by historical traditions and customs?'"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "How does 'Perspectivism' in Amazonian Cosmology challenge Western science's nature/culture divide?",
+    "Answers": [
+        "By reinforcing the Western division between nature and culture",
+        "By assuming multiple biological natures but a single culture",
+        "By assuming a single culture despite multiple biological natures",
+        "By completely rejecting the concept of culture and focusing on nature"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What is the central argument of STS regarding technology's 'neutrality'?",
+    "Answers": [
+        "Technology is inherently neutral and value-free by design",
+        "Technology is always used neutrally, regardless of context",
+        "Technology is not neutral; artifacts can embody political values",
+        "Technology's neutrality is guaranteed by scientific objectivity"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "What does Latour's phrase 'Technology as Society made Durable' imply about technology's role?",
+    "Answers": [
+        "Technology is temporary and has no lasting social impact",
+        "Technology reflects and reinforces existing social structures",
+        "Technology is constantly changing and undermines social stability",
+        "Technology is purely a tool for individual expression and creativity"
+    ],
+    "Correct": 1
+},
+{
+    "Question": "In 'Relational Ontology', how are 'entities' understood in terms of their existence?",
+    "Answers": [
+        "Entities are fixed and have inherent, unchanging properties",
+        "Entities are isolated units, independent of their relationships",
+        "Entities are assembled and formed through their relationships",
+        "Entities are purely abstract concepts with no real-world existence"
+    ],
+    "Correct": 2
+},
+{
+    "Question": "According to the text, which of the following is presented as a *myth* about understanding 'the social'?",
+    "Answers": [
+        "Society can be fully explained through singular, universal laws",
+        "Subjective experiences are essential for social understanding",
+        "Understanding 'the social' requires multiple viewpoints",
+        "Social phenomena are complex and multi-faceted"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In natural sciences, 'Laws of Nature' are described as which type of relationships?",
+    "Answers": [
+        "Consistent, evidence-based relationships observed in the world",
+        "Subjective interpretations of natural phenomena by scientists",
+        "Socially constructed agreements about how nature should behave",
+        "Hypothetical frameworks that are not testable or falsifiable"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Karl Popper, when does scientific knowledge progress and evolve?",
+    "Answers": [
+        "Scientific knowledge progresses through cycles of proposing hypotheses",
+        "Scientific knowledge is absolute and unchanging over long periods",
+        "Scientific knowledge advances linearly through accumulation of facts",
+        "Scientific knowledge evolves randomly without a clear direction"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the primary aim of 'Social Science' in contrast to 'Natural Science', according to Wilhelm Dilthey?",
+    "Answers": [
+        "Social Science emphasizes understanding subjective experiences",
+        "Social Science seeks to establish universal laws of human behavior",
+        "Social Science focuses on objective measurement of social facts",
+        "Social Science aims to predict future social events with precision"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is a significant challenge faced by 'Big Data approaches' in understanding the social world?",
+    "Answers": [
+        "Big Data approaches must grapple with complexity of human behavior",
+        "Big Data approaches easily capture the nuances of social interactions",
+        "Big Data approaches are inherently subjective and lack objectivity",
+        "Big Data approaches perfectly predict individual human actions"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Bourdieu, what is the nature of the relationship between understanding and explaining social phenomena?",
+    "Answers": [
+        "Understanding and explaining social phenomena cannot be separated",
+        "Understanding is sufficient; explaining social phenomena is unnecessary",
+        "Explaining is primary; understanding subjective experience is secondary",
+        "Understanding and explaining are entirely distinct and unrelated processes"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the role of 'listening comprehendingly' for a sociologist, according to Bourdieu's method?",
+    "Answers": [
+        "Listening involves identifying objective structures in respondents' stories",
+        "Listening is simply hearing words without deeper interpretation",
+        "Listening focuses solely on individual narratives, ignoring structures",
+        "Listening is about imposing pre-defined categories on respondents"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is crucial for researchers to develop in relation to respondents, according to Bourdieu?",
+    "Answers": [
+        "Researchers must develop a standpoint in relation to respondents' standpoint",
+        "Researchers should maintain complete detachment from respondents' viewpoints",
+        "Researchers must impose their own viewpoint to ensure objectivity",
+        "Researchers should adopt a completely neutral and value-free standpoint"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Haraway, what does recognizing the 'situatedness' of knowledge entail?",
+    "Answers": [
+        "Recognizing knowledge arises from specific social, historical context",
+        "Ignoring the social and historical context to find universal truths",
+        "Assuming knowledge is objective and exists outside of human influence",
+        "Believing all knowledge is equally valid regardless of its origin"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In Haraway's view, what is the implication of 'contingency' for the concept of scientific truth?",
+    "Answers": [
+        "Scientific truth is provisional and could be redefined or overturned",
+        "Scientific truth is absolute and unchanging, once established",
+        "Scientific truth is purely subjective and based on personal belief",
+        "Scientific truth is irrelevant to social and political considerations"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What does Haraway argue about the 'neutrality' of semiotic technology in shaping understanding?",
+    "Answers": [
+        "Semiotic technology is not neutral; it reflects power and conventions",
+        "Semiotic technology is inherently neutral and value-free by design",
+        "Semiotic technology's influence is minimal and easily overcome",
+        "Semiotic technology should be standardized to ensure neutrality"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the core idea of 'Producing a Faithful Account' in social science research?",
+    "Answers": [
+        "Producing the most faithful account possible considering alternatives",
+        "Producing a single definitive account that represents objective reality",
+        "Producing accounts that solely reflect the researcher's viewpoint",
+        "Producing accounts that ignore alternative perspectives entirely"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "How does the provided text define 'Society' in terms of rules and order?",
+    "Answers": [
+        "Society is a set of formal and informal rules governing social life",
+        "Society is characterized by a complete absence of rules and order",
+        "Society is governed solely by formal laws and legal institutions",
+        "Society is primarily shaped by individual preferences and desires"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In the 'Individualist view of Society', what is the primary unit of analysis and importance?",
+    "Answers": [
+        "Individuals are the primary unit; society is aggregate of individuals",
+        "Social groups and communities are more important than individuals",
+        "Social institutions and structures are the key focus of analysis",
+        "Collective consciousness and shared values define social reality"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the 'Epistemic' dimension of accountability in social research concerned with?",
+    "Answers": [
+        "Epistemic accountability concerns using rigorous and valid methods",
+        "Epistemic accountability is about ethical conduct in research only",
+        "Epistemic accountability focuses on political impact of research",
+        "Epistemic accountability is irrelevant for social science research"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "How is 'the social' described in a more 'productive view' beyond conventional understanding?",
+    "Answers": [
+        "'The social' is a dynamic network of actors and structures shaping society",
+        "'The social' is a static entity, unchanging over time and context",
+        "'The social' is limited to human interactions within specific groups",
+        "'The social' is an abstract concept with no concrete manifestations"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Goffman, what does it mean that social situations are 'not deterministic'?",
+    "Answers": [
+        "People have some flexibility in acting within social scripts",
+        "Social situations are entirely determined by external social forces",
+        " Social situations are completely unpredictable and chaotic events",
+        "Social scripts are rigid and leave no room for individual variation"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the focus of 'Ontologies of the social' in studying 'the Social'?",
+    "Answers": [
+        "Ontologies of the social study what exists in social world and structure",
+        "Ontologies of the social focus solely on individual subjective experiences",
+        "Ontologies of the social aim to predict future social events precisely",
+        "Ontologies of the social ignore questions of existence and structure"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In Structuralism, what are considered 'Fundamental elements of society', like language and myths?",
+    "Answers": [
+        "Fundamental elements are governed by deep, universal structures",
+        "Fundamental elements are random and lack underlying patterns",
+        "Fundamental elements are solely determined by individual choices",
+        "Fundamental elements are superficial and culturally insignificant"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is Emile Durkheim's perspective on 'Social Facts' and their influence on individuals?",
+    "Answers": [
+        "Social facts are external forces that influence individuals",
+        "Social facts are subjective opinions with no objective influence",
+        "Social facts are irrelevant to understanding social order",
+        "Social facts are solely determined by individual psychological states"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Marx's 'Historical Materialism', how does 'society' primarily develop and change?",
+    "Answers": [
+        "Society develops through changes in modes of production and exchange",
+        "Society evolves linearly and progressively towards greater equality",
+        "Society changes randomly without discernible patterns or direction",
+        "Society is primarily shaped by changes in individual moral values"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is Lévi-Strauss's key argument about 'binary oppositions' and cultural meaning?",
+    "Answers": [
+        "Binary oppositions structure meaning, but interpretation differs across cultures",
+        "Binary oppositions are universally interpreted in the same way across cultures",
+        "Binary oppositions are irrelevant to the construction of cultural meaning",
+        "Binary oppositions are purely arbitrary and lack any structural significance"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "How does Weber's focus on 'individual meaning making' contrast with structuralist emphasis on structures?",
+    "Answers": [
+        "Weber emphasizes individual agency and meaning; structuralists on structures",
+        "Weber focuses on structures; structuralists emphasize individual agency",
+        "Both Weber and structuralists equally emphasize structures and agency",
+        "Neither Weber nor structuralists consider individual agency or structures"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What does Weber's concept of 'Social Action' specifically involve, beyond mere behavior?",
+    "Answers": [
+        "Social action involves intentionality and awareness of others",
+        "Social action is purely reflexive and automatic, without intent",
+        "Social action is determined solely by external social forces",
+        "Social action is random and unpredictable, lacking clear purpose"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the goal of sociology as an 'interpretive discipline' in Weber's methodological approach?",
+    "Answers": [
+        "Sociology aims to understand how individuals attach meaning to actions",
+        "Sociology seeks to discover universal laws governing human behavior",
+        "Sociology focuses on objective measurement of social phenomena only",
+        "Sociology primarily uses statistical methods for large-scale predictions"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Bourdieu, what is the relationship between 'structure and agency' in social action?",
+    "Answers": [
+        "Individuals are shaped by structures but also actively navigate and reproduce them",
+        "Individuals are entirely determined by social structures, lacking agency",
+        "Individual agency is completely independent of social structural influences",
+        "Structure and agency are mutually exclusive concepts with no interaction"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In Bourdieu's theory, what does 'Capital' in 'Social Fields' primarily determine for individuals?",
+    "Answers": [
+        "Capital determines one's position and opportunities within a social field",
+        "Capital is irrelevant to individuals' positions in social fields of competition",
+        "Capital only affects economic aspects, not social or cultural positions",
+        "Capital is equally distributed across all individuals within social fields"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the role of 'Cultural Studies' in understanding the relationship between culture and economic structures?",
+    "Answers": [
+        "Cultural Studies argue culture is not just reflection of economic structures",
+        "Cultural Studies prioritize economic structures as sole determinants of culture",
+        "Cultural Studies ignore economic factors and focus only on cultural meanings",
+        "Cultural Studies believe culture is completely independent of economic forces"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the central claim of 'Poststructuralism' regarding the stability of meaning and power?",
+    "Answers": [
+        "Meaning and power are not fixed, stable, or predetermined; they are fluid",
+        "Meaning and power are fundamentally stable and unchanging over time",
+        "Meaning and power are solely determined by objective economic forces",
+        "Meaning and power are purely subjective and vary randomly between individuals"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Foucault, how does 'Discourse' shape what counts as truth and knowledge in society?",
+    "Answers": [
+        "Discourse defines what counts as truth, knowledge, and legitimate ways of being",
+        "Discourse is irrelevant to determining what is considered true or false in society",
+        "Truth and knowledge are purely objective and independent of discourse",
+        "Truth and knowledge are solely determined by individual rational thought"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the primary interest of 'Discourse Analysis' in social and epistemic conditions?",
+    "Answers": [
+        "Discourse Analysis is interested in conditions that make something count as true",
+        "Discourse Analysis focuses solely on individual interpretations of truth and meaning",
+        "Discourse Analysis seeks to establish universal and timeless truths about society",
+        "Discourse Analysis ignores social context and focuses on abstract principles only"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In the context of 'Political Power', how does 'Biopower' in modernity differ from 'Sovereign Power' in its mode of operation, according to Foucault?",
+    "Answers": [
+        "Biopower focuses on shaping life itself, not just repressing it",
+        "Biopower is primarily concerned with direct physical force and punishment",
+        "Biopower is less pervasive and influential than sovereign power in modernity",
+        "Biopower operates solely through centralized government institutions"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In 'Dynamic Nominalism', what is the crucial aspect of 'Looping Effects' in classifications?",
+    "Answers": [
+        "Looping effects describe how classifications shape people, who change classifications",
+        "Looping effects suggest classifications are static and unchanging over time",
+        "Looping effects are irrelevant to understanding the impact of classifications",
+        "Looping effects only apply to medical diagnoses, not social categories"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to STS, what is the nature of the separation between 'nature' and 'culture' in Western thought?",
+    "Answers": [
+        "Separation of nature and culture is a social and political construction",
+        "Separation of nature and culture is a fundamental and objective reality",
+        "Nature and culture are completely independent and unrelated domains",
+        "Science objectively confirms the inherent separation of nature and culture"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What does 'Social Contingency' of scientific knowledge primarily imply about its universality?",
+    "Answers": [
+        "Scientific knowledge is shaped by social values, questioning universality",
+        "Scientific knowledge is universally valid and independent of social values",
+        "Scientific knowledge is purely subjective and lacks any universal validity",
+        "Scientific knowledge is only relevant in specific social and cultural contexts"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "According to Foucault, what should be the key question when analyzing knowledge claims, replacing 'objective truth'?",
+    "Answers": [
+        "Key question is: What discourses shape what society considers true or serious?",
+        "Key question should be: Is this knowledge consistent with established traditions?",
+        "Key question must be: Is this knowledge supported by empirical evidence alone?",
+        "Key question should primarily focus on individual interpretations of truth"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "How does 'Perspectivism' in Amazonian Cosmology challenge the Western scientific view of 'nature'?",
+    "Answers": [
+        "Perspectivism challenges Western nature/culture divide by assuming single culture",
+        "Perspectivism reinforces Western nature/culture divide, validating scientific view",
+        "Perspectivism aligns perfectly with Western science’s objective view of nature",
+        "Perspectivism rejects any concept of 'nature' as understood in Western science"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What is the central argument of STS regarding the 'neutrality' of technology and artifacts?",
+    "Answers": [
+        "Technology and artifacts are not neutral; they embody politics and values",
+        "Technology and artifacts are inherently neutral tools, ethically indifferent",
+        "Technology's political implications are minimal and easily managed",
+        "Technology should always be treated as neutral to ensure objectivity"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "What does Latour's concept of 'Technology as Society made Durable' suggest about technology's enduring impact?",
+    "Answers": [
+        "Technology endures and makes social structures and values last over time",
+        "Technology is ephemeral and has no lasting impact on social structures",
+        "Technology's impact is limited to specific contexts and time periods",
+        "Technology primarily reflects individual creativity, not social structures"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "In 'Relational Ontology', how are 'entities' understood in relation to their properties and essence?",
+    "Answers": [
+        "Entities are not fixed; their properties are formed through relations",
+        "Entities possess fixed and inherent properties, independent of relations",
+        "Entities' properties are solely determined by internal, essential qualities",
+        "Entities are purely abstract concepts with no real properties or essence"
+    ],
+    "Correct": 0
+},
+{
+    "Question": "How does 'Relational Thinking' broaden the scope of 'Agency' beyond human action in sociology?",
+    "Answers": [
+        "Relational thinking expands agency to networks of people, technology, and politics",
+        "Relational thinking limits agency solely to intentional human actions and choices",
+        "Relational thinking rejects the concept of agency and focuses on structures only",
+        "Relational thinking reduces agency to purely economic and material forces"
+    ],
+    "Correct": 0
+}
 ]
