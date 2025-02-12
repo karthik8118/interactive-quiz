@@ -44,8 +44,7 @@
   * [Social Capital](#social-capital)
   * [Social field](#social-field)
 * Understanding society:
-  * Understanding society ⇒ distinctions between people ⇒ how within social fields, habituated
-individuals struggle for position using capitalia as currency
+  * Understanding society ⇒ distinctions between people ⇒ how within [social fields](#social-field), [habituated](#habitus) individuals struggle for position using [capitalia](#social-capital) as currency
 
 ### Session 2
 
@@ -173,7 +172,7 @@ the visible cultural patterns of everyday life
   * Not interested in whether an individual considers something true or meaningful ([Weber](#max-weber)) (anti-humanist in the sense that [discourses](#discourse) are relations of [propositions](#proposition) and not networks of people)
   * Analysing '[structures](#structuralism)' but these structures are not timeless and [deterministic](#determinism) but emerge within social practice and evolve over time ⇒ shifts in discourse
 * Governmentality and Biopower:
-  * contrasts with sovereign power (“take life and let live”) by focusing on managing and shaping life (“make live and let die”)
+  * contrasts with [sovereign power](#sovereign-power) (“take life and let live”) by focusing on managing and shaping life (“make live and let die”)
   * emerged from the 16th century onward, shifting from [repressive](#repressive-power) to [productive power](#productive-power)
   * [disciplinary power](#disciplinary-power) (16th/17th centuries) and [regulatory power](#regulatory-power) (18th/19th centuries)
 * Power/Knowledge:
@@ -181,11 +180,41 @@ the visible cultural patterns of everyday life
   * how to analyse:
     * Do not look for political power in a centre, but through the networks
     * Do not look for conscious intent, but for effective practices
-    * Power as [relational](#relational), the individual is the effect of power and the site of its articulation
+    * Power as [relational](#relational-power), the individual is the effect of power and the site of its articulation
     * Power operates 'bottom-up' through mechanisms rather than global rule
     * Not ideology matters, but the effective instruments through which power/knowledge is produced and stored
   * ⇒ shaping discouse is power
+* Discourses form subjects:
+  * Discourses "[interpellate](#interpellate)" people ⇒ discourse makes subjects
+  * People either:
+    * conform with dominant discourses (the consumer, the diligent worker, the caring mother)
+    * resist dominant discourses (gay pride (resists heteronormativity), [4B Movement](#4b-movement) (resist patriarchal violence))
+  * Outside politics = trying to find a way to be a person or live a life outside of these dominant discourses, is very difficult
 
+#### Ian Hacking
+
+* Study the [matrix](#matrix) within a society at any given time that shapes the engines of discovery that produce knowledge and classifications that impact the ways to be a person (autism, ADHD, obesity, refugee status, …)
+* Looping effects:
+  * Ways to be a person ⇒ Knowledge production ⇒ Classification & Interventions ⇒ Ways to be a person ⇒ ...
+  * Example ADHD
+  * Engines of Discovery:
+    * Count, Quantify, Create Norms, Correlate, Medicalise, Biologise, Geneticise
+    * Normalise, Bureaucratise, Reclaim your identity
+  * How to analyse the [matrix](#matrix):
+    * Classifications, People, Institutions, Knowledge(s), Experts
+
+#### Eduardo Viveiros de Castro
+
+* [Cosmology](#cosmology):
+  * Naturalism:
+    * Based on the idea of a single nature underlying all beings
+    * Assumes a continuity between humans and animals through evolution
+    * Distinguishes humans through the interplay of biology and culture
+  * Perspectivism:
+    * Asserts that knowledge is shaped by individual perspectives
+    * Assumes a metaphysical continuity between all beings, as they all take a perspective
+    * Suggests that differences arise from varying viewpoints rather than fixed essences
+    * Everything capable of [deixis](#deixis) is considered "human"
 
 ## Definitions
 
@@ -194,6 +223,7 @@ the visible cultural patterns of everyday life
 * production of knowledge and technologies ⇔ how we live together
 * [social sciences](#social-sciences) + [humanities](#humanities)
 * [empicical](#empirical) + [conceptual](#conceptual)
+* History and philosophy of science & technology, sociology, anthropology, media studies…
 
 ---
 
@@ -201,6 +231,7 @@ the visible cultural patterns of everyday life
 
 * study of societies and the relationships among members
 * study of human society, behavior, and institutions
+* social sciences consider all knowledge claims [contingent](#contingency)
 
 #### Humanities
 
@@ -331,11 +362,20 @@ the visible cultural patterns of everyday life
 #### Contingency
 
 * x exists, but could exist differently
+* (the fit of theory, method, and world is possible, but not necessarily so + it is never the only possible fit)
 * example:
   * your rent exists, but it could exist differently
   * gravity exists, but it could exist differently
 * [facts](#fact) are contingent because they are constructed
 * does not mean that facts = opinions
+* Historical contingency:
+  * truth claims are contingent upon historical developments
+  * the idea that events are shaped by a wide range of historical and contemporary societal factors
+  * science develops over time ⇒ what is considered ‘true’ today, will likely seem outdated from a future vantage point
+* Social contingency:
+  * truth claims are contingent upon social differences
+  * the idea that social phenomena are shaped by a wide range of historical and contemporary societal factors
+  * society shapes scientific research (which questions we consider relevant, which methods we use, which theories we prioritise etc.)
 
 #### Knowing subjects
 
@@ -535,7 +575,22 @@ stories do we tell?
 
 * a statement or assertion that expresses a judgment or opinion
 
+#### Interpellate
+
+* to address or question someone in a way that assumes a particular identity or role for them
+* to address someone in a way that gives them a specific role or identity (which may or may not be accurate)
+* shapes how people are recognized and expected to behave
+
+#### 4B Movement
+
+* radical feminist movement in South Korea that emerged in response
+* do not date men, do not have sex with men, do not get married to men, do not have children with men
+
 ---
+
+#### Sovereign power
+
+* power that is exercised through the right to take life and let live
 
 #### Repressive power
 
@@ -548,7 +603,33 @@ stories do we tell?
 #### Disciplinary power
 
 * power that is exercised through surveillance, control, and normalization
+* addressing the individual body (school, military, labour)
 
 #### Regulatory power
 
 * power that is exercised through the shaping and management of populations
+* addressing the population (demography, hygiene, medicine)
+
+#### Relational power
+
+* power that is exercised through relationships, networks, and interactions
+* power isn't something you just possess; it's a constantly changing network of relationships.
+
+---
+
+#### Matrix
+
+* a complex set of interrelated elements that shape the engines of discovery that produce knowledge and classifications that impact the ways to be a person
+
+---
+
+#### Cosmology
+
+* How a society understands and explains the world.
+* Shapes cultural narratives and social norms.
+* Influences ethical and metaphysical outlooks.
+
+#### Deixis
+
+* taking a position vis-à-vis others
+* the use of words or phrases to refer to a particular time (e.g. then), place (e.g. here), or person (e.g. you) relative to the context of the utterance
