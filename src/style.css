@@ -8,18 +8,6 @@
   --background-color: #1B1C1D;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    --primary-color: #044DC7;
-    --highlight-color: #3073e0;
-    --secondary-color: #f0f0f0;
-    --correct-color: #49ff79;
-    --wrong-color: #ea4335;
-    --text-color: #000000;
-    --background-color: #ffffff;
-  }
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -173,27 +161,6 @@ input[type="radio"]:disabled {
   border: 2px solid #7391c4;
   box-sizing: border-box;
   padding: 3px;
-  position: relative;
-}
-
-.dot:hover .tooltip {
-  display: block;
-}
-
-.tooltip {
-  display: none;
-  position: absolute;
-  bottom: -50px;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: var(--secondary-color);
-  color: var(--text-color);
-  padding: 10px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  z-index: 10;
-  width: 200px;
-  text-align: center;
 }
 
 #printBtn {

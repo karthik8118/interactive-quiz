@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Fetch the questions from the JSON file
-    fetch('./questions.json')
+    fetch('./questions_society.json')
         .then(res => res.json())
         .then(data => {
 
