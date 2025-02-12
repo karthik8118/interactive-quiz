@@ -22,6 +22,7 @@ body {
   padding: 20px 25px;
   background-color: var(--secondary-color);
   border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
@@ -36,30 +37,42 @@ h2 .question-number {
 }
 
 p {
-  line-height: 1.4;
+  line-height: 1.6;
+  color: var(--text-color);
 }
 
 label {
   cursor: pointer;
   display: flex;
   align-items: center;
-  color: #ddd;
-  margin-bottom: 10px;
+  color: var(--text-color);
+  background-color: transparent; /* Remove background color */
+  margin-bottom: 5px; /* Reduce margin */
+  padding: 5px; /* Reduce padding */
+  border: none; /* Remove border */
+  transition: background-color 0.2s;
+}
+
+label:hover {
+  background-color: var(--highlight-color);
+  color: #fff;
 }
 
 button {
   margin-top: 10px;
   cursor: pointer;
-  background-color: var(--primary-color);
+  background: linear-gradient(135deg, var(--primary-color), var(--highlight-color));
   border: none;
   color: #fff;
-  padding: 8px 18px;
-  border-radius: 4px;
-  transition: background-color 0.2s;
+  padding: 10px 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s, transform 0.2s;
 }
 
 button:hover {
-  background-color: var(--highlight-color);
+  background: linear-gradient(135deg, var(--highlight-color), var(--primary-color));
+  transform: scale(1.05);
 }
 
 button:disabled {
@@ -121,7 +134,7 @@ input[type="radio"]:disabled {
 #topnav h1 {
   margin: 0;
   color: #fff;
-  font-size: 4vw;
+  font-size: 2rem; /* Decreased font size */
 }
 
 #scoreBox {
@@ -161,6 +174,27 @@ input[type="radio"]:disabled {
   border: 2px solid #7391c4;
   box-sizing: border-box;
   padding: 3px;
+  position: relative;
+}
+
+.dot:hover .tooltip {
+  display: block;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  width: 200px;
+  text-align: center;
 }
 
 #printBtn {
@@ -288,7 +322,7 @@ input[type="radio"]:disabled {
 
 /* Title styling */
 #quiz-title {
-  font-size: 2rem;
+  font-size: 1.5rem; /* Decreased font size */
   text-align: center;
   color: var(--highlight-color);
   margin-bottom: 20px;
@@ -300,4 +334,16 @@ input[type="radio"]:disabled {
   text-align: center;
   color: var(--text-color);
   margin-bottom: 20px;
+}
+/* Watermark styling */
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.8rem;
+  opacity: 0.7;
 }
