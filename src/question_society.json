@@ -1,0 +1,1392 @@
+[
+    {
+        "Question": "What is the primary focus of 'Epistemology' as a field of study?",
+        "Answers": [
+            "The study of political systems and governance.",
+            "The investigation of what truly exists in reality.",
+            "The examination of how knowledge is acquired and known.",
+            "The analysis of social structures and their functions."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to Karl Popper's 'Principle of Falsification', what characteristic defines a scientific hypothesis?",
+        "Answers": [
+            "Its ability to be definitively proven true through observation.",
+            "Its capacity to predict future events with perfect accuracy.",
+            "Its potential to be tested and proven false through evidence.",
+            "Its alignment with established scientific theories and laws."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the 'Nomothetic approach' in social research primarily concerned with achieving?",
+        "Answers": [
+            "Understanding individual experiences in great depth.",
+            "Generating broad, generalizable explanations across populations.",
+            "Focusing on unique historical events and their specific contexts.",
+            "Analyzing subjective interpretations of personal narratives."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which concept from Pierre Bourdieu describes the internalized dispositions that shape individuals' perceptions and actions?",
+        "Answers": [
+            "Social Capital",
+            "Epistemological Understanding",
+            "Habitus",
+            "Objective Conditions"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to Bourdieu, what is the relationship between 'objective conditions' and 'subjective experiences'?",
+        "Answers": [
+            "Subjective experiences are entirely determined by objective conditions.",
+            "Objective conditions are irrelevant to understanding subjective experiences.",
+            "They are independent of each other and do not interact in any way.",
+            "Objective conditions shape experiences, but individual responses matter equally."
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What does Bourdieu emphasize that a sociologist needs to balance in their research approach?",
+        "Answers": [
+            "Subjectivity and Objectivity",
+            "Proximity and Distance",
+            "Empathy and Detachment",
+            "Qualitative and Quantitative data"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Donna Haraway's concept of 'Situated Knowledge' primarily argues that all knowledge is:",
+        "Answers": [
+            "Objective and universally valid across all contexts.",
+            "Subjective and purely based on personal opinions.",
+            "Contingent and shaped by specific social, historical, and material contexts.",
+            "Absolute and independent of human interpretation and perspective."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does Haraway mean when she describes 'gravity' as 'contingent'?",
+        "Answers": [
+            "Gravity is a universally fixed and unchanging physical law.",
+            "Our understanding of gravity is shaped by theories and apparatuses.",
+            "Gravity is only relevant in specific social and historical contexts.",
+            "The effects of gravity are purely a matter of subjective perception."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Haraway, what are 'Semiotic Technologies'?",
+        "Answers": [
+            "Physical instruments used in scientific experiments.",
+            "Complex mathematical equations in theoretical physics.",
+            "The language and word choices used to describe phenomena.",
+            "Advanced computer algorithms for data analysis in science."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the central idea behind 'Material-Semiotic Technologies' according to Haraway?",
+        "Answers": [
+            "Knowledge creation is solely based on empirical observation.",
+            "Material tools are separate from the language used to describe them.",
+            "Knowledge is created through the interaction of material tools and language systems.",
+            "Semiotic systems are independent of material conditions and tools."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In the context of 'Situated Knowledge', what is meant by a 'view from nowhere'?",
+        "Answers": [
+            "A perspective that is completely objective and neutral.",
+            "Knowledge produced without any social or historical context.",
+            "The ideal standpoint for conducting scientific research.",
+            "An impossible and non-existent neutral or objective stance."
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What is the primary distinction between 'Quantitative' and 'Qualitative' approaches in social research?",
+        "Answers": [
+            "Qualitative is objective; quantitative is subjective.",
+            "Quantitative generalizes across cases; qualitative generalizes within a case.",
+            "Quantitative focuses on depth; qualitative focuses on breadth.",
+            "Qualitative uses numbers; quantitative uses words and narratives."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "From an individualist perspective, such as Margaret Thatcher's, how is 'society' primarily viewed?",
+        "Answers": [
+            "As a collective entity greater than its individual parts.",
+            "As an aggregate or collection of independent individuals.",
+            "As a structured system of social institutions and norms.",
+            "As a dynamic network of social relationships and interactions."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does understanding 'the social' as a 'fractal phenomenon' imply?",
+        "Answers": [
+            "It becomes simpler and easier to analyze at smaller scales.",
+            "Its complexity remains consistent regardless of the scale of analysis.",
+            "It is only complex when analyzed at the societal level.",
+            "It exhibits predictable patterns that simplify with scale reduction."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "In Erving Goffman's view of social situations as 'scripted', what does 'not deterministic' imply?",
+        "Answers": [
+            "Individuals have no agency and strictly follow social scripts.",
+            "Social scripts are rigid and cannot be deviated from.",
+            "There is some flexibility for individuals within social scripts.",
+            "Social scripts are entirely predictable and leave no room for variation."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the core concept of 'Structuralism' in explaining 'The Social'?",
+        "Answers": [
+            "Individuals' free will and rational choices shape society.",
+            "Underlying, universal mental structures shape culture and society.",
+            "Social order emerges from individual interactions and negotiations.",
+            "Historical events and specific contexts determine social structures."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Emile Durkheim, what are 'social facts'?",
+        "Answers": [
+            "Subjective interpretations of social phenomena.",
+            "Individual motivations and psychological states.",
+            "External forces that influence individuals and are collective.",
+            "Statistical data representing social trends and patterns."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In Karl Marx's 'Historical Materialism', what is considered the primary driver of social change?",
+        "Answers": [
+            "Changes in cultural values and beliefs.",
+            "Technological advancements and innovations.",
+            "Class struggles arising from economic structures.",
+            "Individual actions and leadership of historical figures."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does Lévi-Strauss's concept of 'binary oppositions' suggest about human societies?",
+        "Answers": [
+            "Societies are structured by random and chaotic elements.",
+            "All societies share fundamental opposing categories for meaning.",
+            "Binary oppositions are unique to Western societies only.",
+            "These oppositions are entirely culturally specific and vary widely."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "How does Max Weber's approach differ from structuralist approaches in understanding 'the social'?",
+        "Answers": [
+            "Weber focuses on universal structures; structuralists on individual action.",
+            "Weber emphasizes individual meaning-making; structuralists on hidden structures.",
+            "Weber rejects empirical data; structuralists rely solely on observation.",
+            "Weber believes in objective truth; structuralists in subjective interpretation."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is Weber's concept of 'Verstehen' in sociology primarily concerned with?",
+        "Answers": [
+            "Establishing universal laws of social behavior.",
+            "Employing statistical methods for large-scale analysis.",
+            "Empathetically understanding individuals' subjective meanings.",
+            "Objectively observing social structures and their functions."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How does Bourdieu's concept of 'Habitus' bridge the gap between structure and agency?",
+        "Answers": [
+            "It argues that individuals are entirely determined by social structures.",
+            "It suggests that agency is completely independent of structural influences.",
+            "It proposes that habitus shapes individuals but is also shaped by them.",
+            "It eliminates the distinction between structure and individual agency entirely."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In Bourdieu's theory, what does 'Social Field' refer to?",
+        "Answers": [
+            "The natural environment and geographical context of society.",
+            "Arenas of competition where different forms of capital matter.",
+            "Individual's personal networks of friends and family.",
+            "Abstract theoretical frameworks for social analysis."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is 'Cultural Hegemony' as explained by Gramsci and further developed in Cultural Studies?",
+        "Answers": [
+            "The dominance of economic structures over culture.",
+            "The struggle for political power through military force.",
+            "How dominant narratives shape social order and define 'normal'.",
+            "The equal distribution of cultural resources across society."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the main argument of 'Poststructuralism' regarding meaning, identity, and power?",
+        "Answers": [
+            "They are fixed, stable, and predetermined by social structures.",
+            "They are fluid, unstable, and shaped by discourse and power.",
+            "They are entirely individual and independent of social influences.",
+            "They are objective realities that can be discovered through science."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Foucault, what is 'Discourse'?",
+        "Answers": [
+            "Formal debates and dialogues in political institutions.",
+            "The totality of what is said and done in society on a topic.",
+            "Individual opinions and beliefs expressed in public forums.",
+            "Written texts and documents that record historical events."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the key difference between 'Sovereign Power' and 'Biopower' according to Foucault?",
+        "Answers": [
+            "Sovereign power is productive; biopower is repressive.",
+            "Sovereign power shapes life; biopower takes life.",
+            "Sovereign power is centralized; biopower is dispersed.",
+            "Sovereign power takes life; biopower shapes and manages life."
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What are 'Looping Effects' in Ian Hacking's 'Dynamic Nominalism'?",
+        "Answers": [
+            "Linear progressions in social classifications.",
+            "The cyclical nature of social structures and institutions.",
+            "How classifications shape people, who then change classifications.",
+            "The tendency for social categories to become increasingly rigid."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the central argument of Science and Technology Studies (STS) regarding the nature/culture divide?",
+        "Answers": [
+            "The nature/culture divide is a fundamental and objective reality.",
+            "Humans are fundamentally different from non-living matter.",
+            "The separation of nature from culture is a social and political construction.",
+            "Science objectively reveals the inherent differences between nature and culture."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is meant by 'Historical Contingency' in the context of scientific knowledge?",
+        "Answers": [
+            "Scientific truths are timeless and unchanging.",
+            "Historical events have no impact on scientific progress.",
+            "What is considered scientific truth changes over time.",
+            "Science progresses linearly towards absolute and final truths."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to Foucault, what is the key question to ask about knowledge, instead of 'Is it objectively true?'",
+        "Answers": [
+            "Who created this knowledge and for what purpose?",
+            "What are the social consequences of accepting this knowledge?",
+            "What discourses shape what society considers true or serious?",
+            "Is this knowledge consistent with existing scientific theories?"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "Donna Haraway challenges the 'gods eye view' of Western science. What does this critique imply?",
+        "Answers": [
+            "Western science is superior to other forms of knowledge.",
+            "There is a neutral, objective perspective outside power structures.",
+            "All perspectives are equally valid and objective in science.",
+            "There is no neutral perspective; knowledge is always situated within power."
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What is 'Perspectivism' in Amazonian Cosmology, as described by Viveiros de Castro, challenging about Western views?",
+        "Answers": [
+            "It reinforces the Western nature/culture divide.",
+            "It assumes multiple biological natures and single culture.",
+            "It challenges the Western nature/culture divide by proposing single culture.",
+            "It aligns perfectly with Western scientific understandings of nature."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does STS argue about technology and artifacts?",
+        "Answers": [
+            "Technology is inherently neutral and value-free.",
+            "Artifacts can embody politics and are not ethically neutral.",
+            "Technology is solely determined by scientific principles.",
+            "Artifacts are only political when used for military purposes."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does Bruno Latour mean by 'Technology as Society made Durable'?",
+        "Answers": [
+            "Technology is temporary and constantly changing.",
+            "Technology is separate from social structures and values.",
+            "Technology is a way of making social structures and values last over time.",
+            "Technology primarily reflects individual creativity and innovation."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is 'Relational Ontology' in Sociology?",
+        "Answers": [
+            "The view that entities are fixed and have essential cores.",
+            "The study of isolated entities and their individual properties.",
+            "The perspective that entities are assembled and formed through relations.",
+            "The belief that social reality is based on objective and universal laws."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How does 'Relational Thinking' expand the concept of 'Agency' beyond Weber's focus?",
+        "Answers": [
+            "By limiting agency solely to human actors with intentions.",
+            "By distributing agency across networks of humans and non-human actors.",
+            "By emphasizing individual agency over structural influences.",
+            "By focusing only on macro-level social structures and systems."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is 'Subpolitics' as introduced by Ulrich Beck?",
+        "Answers": [
+            "Politics occurring only within formal government institutions.",
+            "The decreasing importance of political action in modern society.",
+            "Political action and decision-making outside traditional state areas.",
+            "A return to traditional forms of political engagement and participation."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to Foucault's notion of 'Governments' in STS, how is power understood?",
+        "Answers": [
+            "Power is solely repressive and limits individual freedom.",
+            "Power is only exercised by formal government institutions.",
+            "Power is productive and shapes knowledge, actions, and 'truth'.",
+            "Power is primarily economic and based on control of resources."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In 'Deliberative Assemblies' (Habermas), what is central to the concept of politics?",
+        "Answers": [
+            "Political power as primarily based on military strength.",
+            "Politics as a domain of rational deliberation and 'best argument'.",
+            "Political action as driven by emotional appeals and propaganda.",
+            "Politics as solely determined by economic interests and class struggle."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What characterizes 'Sovereignty' (Schmitt) in the context of political debates?",
+        "Answers": [
+            "Emphasis on consensus and compromise in political decisions.",
+            "Framing political debates antagonistically to win public support.",
+            "Prioritizing rational argumentation and evidence-based policy.",
+            "Focus on international cooperation and global governance."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does STS suggest about the 'Public' in relation to science and technology?",
+        "Answers": [
+            "The 'Public' is a fixed and clearly defined social group.",
+            "The 'Public' remains passive in response to technological change.",
+            "The 'Public' emerges in response to scientific and technological issues.",
+            "The 'Public' is irrelevant to the governance of science and technology."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is 'Economisation' from a sociological perspective?",
+        "Answers": [
+            "The economy as a naturally existing and objective reality.",
+            "Economic processes are solely determined by market forces.",
+            "The economy as an achievement, actively constructed through practices.",
+            "Economic phenomena are best understood through individual rationality."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the 'Formalist' position in economic anthropology mainly focused on?",
+        "Answers": [
+            "The cultural and historical context of economic behavior.",
+            "The embeddedness of economy in social institutions.",
+            "Universal rules of rationality and utility maximization.",
+            "The role of power and inequality in economic systems."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does the 'Substantivist' position in economic anthropology emphasize?",
+        "Answers": [
+            "Universal rules of economic rationality",
+            "Individual utility maximization",
+            "The embeddedness of the economy in social and cultural institutions",
+            "The efficiency of free markets"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "Which of the following is NOT a form of economic exchange identified by Polanyi?",
+        "Answers": [
+            "Reciprocity",
+            "Redistribution",
+            "Commodification",
+            "Trading (market exchange)"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the core question sociologists ask when studying markets?",
+        "Answers": [
+            "How can markets be made more efficient?",
+            "What is the optimal price for a given good?",
+            "How do markets come into being, and what are their social, technical, and political conditions?",
+            "How can market failures be prevented?"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does it mean to say that markets are 'socially embedded'?",
+        "Answers": [
+            "Markets operate independently of social and cultural values.",
+            "Market functions are solely determined by economic laws.",
+            "Markets are influenced by cultural values and institutions.",
+            "Market activities are purely based on individual rational choices."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the sociological perspective on 'marketisation'?",
+        "Answers": [
+            "Taking markets as naturally given and focusing on efficiency.",
+            "Examining how markets emerge and the conditions that make them work.",
+            "Assuming markets are purely economic and separate from society.",
+            "Believing markets are always the most efficient form of resource allocation."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What are 'algorithmic marketisation' and 'transparency' concerned with in contemporary markets?",
+        "Answers": [
+            "Ensuring markets operate solely based on rational algorithms.",
+            "Making market processes transparent to address biases and governance.",
+            "Increasing market efficiency by removing human intervention.",
+            "Focusing on the purely technical aspects of market operations."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which concept best describes the idea that understanding society requires engaging with diverse perspectives rather than a single narrative?",
+        "Answers": [
+            "Understanding requires engaging with multiple viewpoints",
+            "Scientific truth is never absolute in social sciences",
+            "Social world resists law-like frameworks and generalizations",
+            "Subjective experiences are not relevant to social analysis"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In the context of explaining the natural world, what does it mean for a scientific theory to be 'falsifiable' according to Popper?",
+        "Answers": [
+            "The theory is considered absolutely true and cannot be disproven",
+            "The theory is based on subjective opinions and cannot be tested",
+            "The theory must be capable of being proven wrong through testing",
+            "The theory is only relevant if it aligns with existing social norms"
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What is the 'Idiographic approach' primarily focused on in the study of the social world?",
+        "Answers": [
+            "Understanding unique and individual experiences and histories",
+            "Identifying universal laws that govern all social phenomena",
+            "Generalizing patterns across large populations and social groups",
+            "Predicting future social trends with statistical accuracy and models"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Pierre Bourdieu, what is a 'sociological approach' essential for understanding social phenomena?",
+        "Answers": [
+            "Intuitive understanding and personal empathy are sufficient",
+            "Understanding requires moving beyond empathy and intuition",
+            "Empathy is the primary tool for sociological understanding",
+            "Sociological approach is not relevant for social understanding"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which of the following best describes Bourdieu's view on individual responses to objective conditions?",
+        "Answers": [
+            "Individual responses are predetermined by objective conditions alone",
+            "Objective conditions are irrelevant to individual subjective experiences",
+            "Individual responses are as important as objective conditions themselves",
+            "Objective conditions completely negate individual agency and responses"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to Bourdieu, what is the focus of understanding individuals in social analysis?",
+        "Answers": [
+            "Finding predefined categories to classify individuals neatly",
+            "Ignoring individual differences and focusing on group averages",
+            "Understanding the interplay between situation and disposition",
+            "Solely focusing on individuals' internal psychological states"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does Bourdieu's concept of 'Habitus' primarily explain about human action?",
+        "Answers": [
+            "Random and unpredictable individual behaviors in society",
+            "The influence of conscious rational decisions on present actions",
+            "How past experiences dynamically influence present actions",
+            "Actions solely determined by immediate situational factors"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to Bourdieu, social situations are best explained by:",
+        "Answers": [
+            "Single dominant factors that clearly determine social outcomes",
+            "Rarely by one factor; multiple factors need to be considered",
+            "Ignoring both social and dispositional factors and focusing on chance",
+            "Focusing only on individual psychological factors and motivations"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the role of a sociologist in explaining xenophobia according to Bourdieu's perspective?",
+        "Answers": [
+            "To ignore deeper social contradictions and focus on individual biases",
+            "To make buried frustrations explicit by asking the right questions",
+            "To reinforce existing social hierarchies and power structures",
+            "To provide simple and straightforward answers to complex issues"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "In Bourdieu's methodology, what is crucial for a sociologist to balance during fieldwork?",
+        "Answers": [
+            "Personal biases and professional objectivity at all times",
+            "Proximity to subjects and analytical distance in interpretation",
+            "Emotional involvement and detached observation equally",
+            "Complete immersion and total detachment from social context"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does Haraway's concept of 'contingency' suggest about scientific truths like gravity?",
+        "Answers": [
+            "Gravity is an absolute and unchanging truth, definitively proven",
+            "Gravity's existence is uncertain and purely theoretical concept",
+            "Our understanding of gravity could be different or redefined later",
+            "Gravity is only a social construct with no basis in physical reality"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to Haraway, how are scientific facts 'actively constructed', rather than simply discovered?",
+        "Answers": [
+            "Facts are invented arbitrarily without any basis in observation",
+            "Facts are direct, unbiased observations of the natural world as is",
+            "Facts are shaped through practices, instruments, and perspectives",
+            "Facts are purely subjective interpretations of personal experiences"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the key point Haraway makes about the 'choice of semiotic technology' in knowledge production?",
+        "Answers": [
+            "The choice of language is neutral and has no impact on understanding",
+            "Different word choices do not change our understanding of phenomena",
+            "The choice of language is not neutral; it reflects power and history",
+            "Scientific language should be completely objective and value-free"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does Haraway's 'material-semiotic technologies' concept emphasize in knowledge creation?",
+        "Answers": [
+            "Knowledge is purely a product of abstract theoretical reasoning",
+            "Knowledge is solely created through direct sensory observation only",
+            "Knowledge emerges from interaction of tools and language systems",
+            "Material tools are irrelevant to the process of knowledge creation"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In 'Situated Knowledge', what does Haraway argue about the researcher's standpoint?",
+        "Answers": [
+            "Researchers should strive for a completely neutral and objective stance",
+            "A 'view from nowhere' is possible and essential for valid research",
+            "Researchers' viewpoints are constructions informed by their backgrounds",
+            "Researchers' personal biases should be entirely eliminated in research"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "When producing a 'faithful account' in social research, what is a crucial aspect to consider?",
+        "Answers": [
+            "Focusing solely on one's own interpretation and understanding",
+            "Ignoring alternative perspectives to maintain a clear narrative",
+            "Considering alternative perspectives and their influence on understanding",
+            "Prioritizing quantitative data over qualitative narratives always"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How is 'Society' understood in a broad sociological sense, beyond just individuals?",
+        "Answers": [
+            "Society is merely the sum of all individual actions and choices",
+            "Society includes institutions, laws, state, economy, and culture",
+            "Society is an abstract concept with no concrete manifestations",
+            "Society is only relevant in specific historical and geographical contexts"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the 'Individualist view of Society', as exemplified by Margaret Thatcher's quote?",
+        "Answers": [
+            "Society is a cohesive whole, greater than the sum of its parts",
+            "Society is simply an aggregate of individuals and their families",
+            "Society is a complex system of interconnected social institutions",
+            "Society is defined by collective goals and shared social values"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does 'Accountability in Social Research' primarily entail?",
+        "Answers": [
+            "Ignoring ethical concerns to achieve groundbreaking results",
+            "Using rigorous methods, recognizing social impact, and ethics",
+            "Prioritizing political agendas over methodological rigor",
+            "Focusing solely on personal opinions and subjective interpretations"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "How does a 'more productive view' define 'the social' in relation to 'society'?",
+        "Answers": [
+            "'The social' is a fixed part of society focused on human interactions",
+            "'The social' is broader and constantly evolving, encompassing society",
+            "'The social' and 'society' are interchangeable concepts with same meaning",
+            "'Society' is broader and more encompassing than 'the social' itself"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Erving Goffman, how are social situations generally structured?",
+        "Answers": [
+            "Social situations are entirely random and unpredictable events",
+            "Social situations are largely unscripted and spontaneous interactions",
+            "Social situations are scripted; people follow pre-existing patterns",
+            "Social situations are determined by rational individual choices only"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is a key characteristic of social scripts according to Goffman's perspective?",
+        "Answers": [
+            "Social scripts are completely rigid and deterministic in nature",
+            "Social scripts are entirely based on rational and conscious decisions",
+            "Social scripts are not deterministic, allowing for some flexibility",
+            "Social scripts are simple and straightforward with clear guidelines"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In Structuralism, what is seen as shaping human culture and society?",
+        "Answers": [
+            "Individual agency and conscious decision-making processes",
+            "Underlying, universal mental structures, often deeply hidden",
+            "Superficial cultural practices and easily observable behaviors",
+            "Historical events and specific socio-political circumstances only"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Durkheim, what is the nature of 'norms, values, and institutions' as social facts?",
+        "Answers": [
+            "They are solely products of individual choices and agreements",
+            "They exist independently of individuals and are collective",
+            "They are subjective opinions with no objective social influence",
+            "They are constantly changing and lack stable structural influence"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "In Marx's 'Historical Materialism', what is the role of 'economic structures' in shaping society?",
+        "Answers": [
+            "Economic structures are irrelevant to the shape of social order",
+            "Economic structures are the primary forces shaping social order",
+            "Economic structures are shaped by individual beliefs and values",
+            "Economic structures are static and do not drive social change over time"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does Lévi-Strauss argue about 'binary oppositions' across human societies?",
+        "Answers": [
+            "Binary oppositions are unique to specific cultures and do not generalize",
+            "Binary oppositions are imposed by colonial powers on other societies",
+            "All human societies use same binary oppositions to structure meaning",
+            "Binary oppositions are outdated and irrelevant in modern societies"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How does Weber view individuals in shaping 'the social', contrasting with structuralist views?",
+        "Answers": [
+            "Individuals are passive recipients of social structures and norms",
+            "Individuals are 'cultural beings' actively shaping 'the social' with meaning",
+            "Individuals are irrelevant to the understanding of 'the social' order",
+            "Individuals are solely driven by economic incentives and rational calculations"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the key difference between 'social action' and 'mere behavior' according to Max Weber?",
+        "Answers": [
+            "'Mere behavior' is intentional; 'social action' is unintentional",
+            "'Social action' involves intentionality and awareness of others",
+            "'Mere behavior' is shaped by social forces; 'social action' is not",
+            "'Social action' is reflexive and automatic; 'mere behavior' is conscious"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "In Weberian sociology, what is the focus of sociology as an 'interpretive discipline'?",
+        "Answers": [
+            "Seeking universal laws of social behavior like natural sciences",
+            "Focusing on objective observation of external social structures",
+            "Understanding how individuals attach meaning to their actions",
+            "Employing statistical methods to predict large-scale social trends"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In Weber's view of individuals ('Kulturmenschen'), what is a defining characteristic of their actions?",
+        "Answers": [
+            "Individuals act purely rationally and always maximize utility",
+            "Individuals act solely based on reflexes and instincts, unconsciously",
+            "Individuals struggle with meaning, navigate freedom and constraints",
+            "Individuals' actions are entirely predictable and follow set patterns"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How does Weber's approach to understanding social action differ from Bourdieu's?",
+        "Answers": [
+            "Weber emphasizes structure; Bourdieu focuses on individual agency",
+            "Weber focuses on agency; Bourdieu emphasizes social structure",
+            "Both Weber and Bourdieu equally emphasize structure and agency",
+            "Neither Weber nor Bourdieu consider both structure and agency"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the main difference between Weber's and Bourdieu's views on 'understanding' social behavior?",
+        "Answers": [
+            "Weber focuses on implicit understanding; Bourdieu on explicit",
+            "Weber emphasizes explicit understanding; Bourdieu on implicit",
+            "Both Weber and Bourdieu focus solely on explicit understanding",
+            "Neither Weber nor Bourdieu consider explicit or implicit understanding"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "How do Weber's 'ideal types' contrast with Bourdieu's focus on 'social fields' in analysis?",
+        "Answers": [
+            "Weber uses social fields; Bourdieu uses abstract ideal types",
+            "Weber uses abstract ideal types; Bourdieu focuses on social fields",
+            "Both Weber and Bourdieu rely equally on ideal types and social fields",
+            "Neither Weber nor Bourdieu utilize ideal types or social fields in analysis"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is Bourdieu's concept of 'Doxa' primarily referring to in social structures?",
+        "Answers": [
+            "Explicitly stated rules and regulations in social institutions",
+            "Taken-for-granted beliefs that make structures seem natural",
+            "Consciously debated and rationally agreed upon social norms",
+            "Individual opinions and subjective interpretations of social reality"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Cultural Studies and Hegemony, what shapes 'Identity'?",
+        "Answers": [
+            "Identity is solely an individual trait, determined by genetics",
+            "Identity is purely shaped by individual self-perception only",
+            "Identity is shaped by self-attribution and societal categorization",
+            "Identity is completely fixed at birth and unchangeable over time"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does 'Hegemony' explain about dominant cultural narratives in shaping social order?",
+        "Answers": [
+            "Hegemony explains how marginalized narratives challenge social order",
+            "Hegemony explains how dominant narratives define 'normal' and 'valuable'",
+            "Hegemony suggests cultural narratives have no impact on social order",
+            "Hegemony is irrelevant to understanding how social order is maintained"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "In Poststructuralism, what is 'Discourse' understood to be?",
+        "Answers": [
+            "A set of fixed and unchanging social structures",
+            "The totality of what is said and done in society on a topic",
+            "Individual beliefs and opinions expressed in private settings",
+            "Formal political speeches and government policy documents only"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Foucault, what is the relationship between 'power' and 'knowledge' in discourses?",
+        "Answers": [
+            "Power and knowledge are entirely separate and independent domains",
+            "Knowledge is neutral and objective, unaffected by power dynamics",
+            "What counts as knowledge is tied to power; power shapes 'truth'",
+            "Power is solely based on physical force and has no relation to knowledge"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the focus of 'Discourse Analysis' in social research?",
+        "Answers": [
+            "Understanding individual beliefs and subjective meanings only",
+            "Analyzing timeless and deterministic social structures directly",
+            "Examining social conditions that make something count as true",
+            "Ignoring social context and focusing on universal principles only"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "In the context of 'Political Power', how does 'Biopower' differ from 'Sovereign Power'?",
+        "Answers": [
+            "Biopower focuses on taking life; sovereign power on shaping life",
+            "Biopower is less pervasive and influential than sovereign power",
+            "Biopower focuses on shaping life; sovereign power on taking life",
+            "Biopower is only relevant in pre-modern societies, not modernity"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does 'Dynamic Nominalism' (Hacking) suggest about categories of people?",
+        "Answers": [
+            "Categories objectively describe pre-existing types of people",
+            "Categories are fixed and do not change over time or context",
+            "Categories actively create new ways of being a person in society",
+            "Categories are irrelevant to understanding individual identities"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to STS, how should we understand the 'nature/culture' divide?",
+        "Answers": [
+            "The nature/culture divide is a fundamental and objective reality",
+            "The nature/culture divide is a social and political construction",
+            "Nature and culture are completely separate and unrelated domains",
+            "Science objectively reveals the inherent truth of nature/culture divide"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does 'Social Contingency' of scientific knowledge primarily emphasize?",
+        "Answers": [
+            "Scientific knowledge is independent of social and cultural values",
+            "Scientific knowledge is shaped by social structures and values",
+            "Scientific knowledge is purely based on objective empirical data",
+            "Scientific knowledge is universal and valid across all societies"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "According to Foucault, what question is more critical than asking 'Is knowledge objectively true?'?",
+        "Answers": [
+            "'Is this knowledge consistent with my personal beliefs and values?'",
+            "'What are the economic benefits of accepting this knowledge as true?'",
+            "'What discourses shape what society considers true or serious?'",
+            "'Is this knowledge supported by historical traditions and customs?'"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How does 'Perspectivism' in Amazonian Cosmology challenge Western science's nature/culture divide?",
+        "Answers": [
+            "By reinforcing the Western division between nature and culture",
+            "By assuming multiple biological natures but a single culture",
+            "By assuming a single culture despite multiple biological natures",
+            "By completely rejecting the concept of culture and focusing on nature"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the central argument of STS regarding technology's 'neutrality'?",
+        "Answers": [
+            "Technology is inherently neutral and value-free by design",
+            "Technology is always used neutrally, regardless of context",
+            "Technology is not neutral; artifacts can embody political values",
+            "Technology's neutrality is guaranteed by scientific objectivity"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does Latour's phrase 'Technology as Society made Durable' imply about technology's role?",
+        "Answers": [
+            "Technology is temporary and has no lasting social impact",
+            "Technology reflects and reinforces existing social structures",
+            "Technology is constantly changing and undermines social stability",
+            "Technology is purely a tool for individual expression and creativity"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "In 'Relational Ontology', how are 'entities' understood in terms of their existence?",
+        "Answers": [
+            "Entities are fixed and have inherent, unchanging properties",
+            "Entities are isolated units, independent of their relationships",
+            "Entities are assembled and formed through their relationships",
+            "Entities are purely abstract concepts with no real-world existence"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "According to the text, which of the following is presented as a *myth* about understanding 'the social'?",
+        "Answers": [
+            "Society can be fully explained through singular, universal laws",
+            "Subjective experiences are essential for social understanding",
+            "Understanding 'the social' requires multiple viewpoints",
+            "Social phenomena are complex and multi-faceted"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In natural sciences, 'Laws of Nature' are described as which type of relationships?",
+        "Answers": [
+            "Consistent, evidence-based relationships observed in the world",
+            "Subjective interpretations of natural phenomena by scientists",
+            "Socially constructed agreements about how nature should behave",
+            "Hypothetical frameworks that are not testable or falsifiable"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Karl Popper, when does scientific knowledge progress and evolve?",
+        "Answers": [
+            "Scientific knowledge progresses through cycles of proposing hypotheses",
+            "Scientific knowledge is absolute and unchanging over long periods",
+            "Scientific knowledge advances linearly through accumulation of facts",
+            "Scientific knowledge evolves randomly without a clear direction"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the primary aim of 'Social Science' in contrast to 'Natural Science', according to Wilhelm Dilthey?",
+        "Answers": [
+            "Social Science emphasizes understanding subjective experiences",
+            "Social Science seeks to establish universal laws of human behavior",
+            "Social Science focuses on objective measurement of social facts",
+            "Social Science aims to predict future social events with precision"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is a significant challenge faced by 'Big Data approaches' in understanding the social world?",
+        "Answers": [
+            "Big Data approaches must grapple with complexity of human behavior",
+            "Big Data approaches easily capture the nuances of social interactions",
+            "Big Data approaches are inherently subjective and lack objectivity",
+            "Big Data approaches perfectly predict individual human actions"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Bourdieu, what is the nature of the relationship between understanding and explaining social phenomena?",
+        "Answers": [
+            "Understanding and explaining social phenomena cannot be separated",
+            "Understanding is sufficient; explaining social phenomena is unnecessary",
+            "Explaining is primary; understanding subjective experience is secondary",
+            "Understanding and explaining are entirely distinct and unrelated processes"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the role of 'listening comprehendingly' for a sociologist, according to Bourdieu's method?",
+        "Answers": [
+            "Listening involves identifying objective structures in respondents' stories",
+            "Listening is simply hearing words without deeper interpretation",
+            "Listening focuses solely on individual narratives, ignoring structures",
+            "Listening is about imposing pre-defined categories on respondents"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is crucial for researchers to develop in relation to respondents, according to Bourdieu?",
+        "Answers": [
+            "Researchers must develop a standpoint in relation to respondents' standpoint",
+            "Researchers should maintain complete detachment from respondents' viewpoints",
+            "Researchers must impose their own viewpoint to ensure objectivity",
+            "Researchers should adopt a completely neutral and value-free standpoint"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Haraway, what does recognizing the 'situatedness' of knowledge entail?",
+        "Answers": [
+            "Recognizing knowledge arises from specific social, historical context",
+            "Ignoring the social and historical context to find universal truths",
+            "Assuming knowledge is objective and exists outside of human influence",
+            "Believing all knowledge is equally valid regardless of its origin"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In Haraway's view, what is the implication of 'contingency' for the concept of scientific truth?",
+        "Answers": [
+            "Scientific truth is provisional and could be redefined or overturned",
+            "Scientific truth is absolute and unchanging, once established",
+            "Scientific truth is purely subjective and based on personal belief",
+            "Scientific truth is irrelevant to social and political considerations"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does Haraway argue about the 'neutrality' of semiotic technology in shaping understanding?",
+        "Answers": [
+            "Semiotic technology is not neutral; it reflects power and conventions",
+            "Semiotic technology is inherently neutral and value-free by design",
+            "Semiotic technology's influence is minimal and easily overcome",
+            "Semiotic technology should be standardized to ensure neutrality"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the core idea of 'Producing a Faithful Account' in social science research?",
+        "Answers": [
+            "Producing the most faithful account possible considering alternatives",
+            "Producing a single definitive account that represents objective reality",
+            "Producing accounts that solely reflect the researcher's viewpoint",
+            "Producing accounts that ignore alternative perspectives entirely"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How does the provided text define 'Society' in terms of rules and order?",
+        "Answers": [
+            "Society is a set of formal and informal rules governing social life",
+            "Society is characterized by a complete absence of rules and order",
+            "Society is governed solely by formal laws and legal institutions",
+            "Society is primarily shaped by individual preferences and desires"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In the 'Individualist view of Society', what is the primary unit of analysis and importance?",
+        "Answers": [
+            "Individuals are the primary unit; society is aggregate of individuals",
+            "Social groups and communities are more important than individuals",
+            "Social institutions and structures are the key focus of analysis",
+            "Collective consciousness and shared values define social reality"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the 'Epistemic' dimension of accountability in social research concerned with?",
+        "Answers": [
+            "Epistemic accountability concerns using rigorous and valid methods",
+            "Epistemic accountability is about ethical conduct in research only",
+            "Epistemic accountability focuses on political impact of research",
+            "Epistemic accountability is irrelevant for social science research"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How is 'the social' described in a more 'productive view' beyond conventional understanding?",
+        "Answers": [
+            "'The social' is a dynamic network of actors and structures shaping society",
+            "'The social' is a static entity, unchanging over time and context",
+            "'The social' is limited to human interactions within specific groups",
+            "'The social' is an abstract concept with no concrete manifestations"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Goffman, what does it mean that social situations are 'not deterministic'?",
+        "Answers": [
+            "People have some flexibility in acting within social scripts",
+            "Social situations are entirely determined by external social forces",
+            " Social situations are completely unpredictable and chaotic events",
+            "Social scripts are rigid and leave no room for individual variation"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the focus of 'Ontologies of the social' in studying 'the Social'?",
+        "Answers": [
+            "Ontologies of the social study what exists in social world and structure",
+            "Ontologies of the social focus solely on individual subjective experiences",
+            "Ontologies of the social aim to predict future social events precisely",
+            "Ontologies of the social ignore questions of existence and structure"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In Structuralism, what are considered 'Fundamental elements of society', like language and myths?",
+        "Answers": [
+            "Fundamental elements are governed by deep, universal structures",
+            "Fundamental elements are random and lack underlying patterns",
+            "Fundamental elements are solely determined by individual choices",
+            "Fundamental elements are superficial and culturally insignificant"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is Emile Durkheim's perspective on 'Social Facts' and their influence on individuals?",
+        "Answers": [
+            "Social facts are external forces that influence individuals",
+            "Social facts are subjective opinions with no objective influence",
+            "Social facts are irrelevant to understanding social order",
+            "Social facts are solely determined by individual psychological states"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Marx's 'Historical Materialism', how does 'society' primarily develop and change?",
+        "Answers": [
+            "Society develops through changes in modes of production and exchange",
+            "Society evolves linearly and progressively towards greater equality",
+            "Society changes randomly without discernible patterns or direction",
+            "Society is primarily shaped by changes in individual moral values"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is Lévi-Strauss's key argument about 'binary oppositions' and cultural meaning?",
+        "Answers": [
+            "Binary oppositions structure meaning, but interpretation differs across cultures",
+            "Binary oppositions are universally interpreted in the same way across cultures",
+            "Binary oppositions are irrelevant to the construction of cultural meaning",
+            "Binary oppositions are purely arbitrary and lack any structural significance"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How does Weber's focus on 'individual meaning making' contrast with structuralist emphasis on structures?",
+        "Answers": [
+            "Weber emphasizes individual agency and meaning; structuralists on structures",
+            "Weber focuses on structures; structuralists emphasize individual agency",
+            "Both Weber and structuralists equally emphasize structures and agency",
+            "Neither Weber nor structuralists consider individual agency or structures"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does Weber's concept of 'Social Action' specifically involve, beyond mere behavior?",
+        "Answers": [
+            "Social action involves intentionality and awareness of others",
+            "Social action is purely reflexive and automatic, without intent",
+            "Social action is determined solely by external social forces",
+            "Social action is random and unpredictable, lacking clear purpose"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the goal of sociology as an 'interpretive discipline' in Weber's methodological approach?",
+        "Answers": [
+            "Sociology aims to understand how individuals attach meaning to actions",
+            "Sociology seeks to discover universal laws governing human behavior",
+            "Sociology focuses on objective measurement of social phenomena only",
+            "Sociology primarily uses statistical methods for large-scale predictions"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Bourdieu, what is the relationship between 'structure and agency' in social action?",
+        "Answers": [
+            "Individuals are shaped by structures but also actively navigate and reproduce them",
+            "Individuals are entirely determined by social structures, lacking agency",
+            "Individual agency is completely independent of social structural influences",
+            "Structure and agency are mutually exclusive concepts with no interaction"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In Bourdieu's theory, what does 'Capital' in 'Social Fields' primarily determine for individuals?",
+        "Answers": [
+            "Capital determines one's position and opportunities within a social field",
+            "Capital is irrelevant to individuals' positions in social fields of competition",
+            "Capital only affects economic aspects, not social or cultural positions",
+            "Capital is equally distributed across all individuals within social fields"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the role of 'Cultural Studies' in understanding the relationship between culture and economic structures?",
+        "Answers": [
+            "Cultural Studies argue culture is not just reflection of economic structures",
+            "Cultural Studies prioritize economic structures as sole determinants of culture",
+            "Cultural Studies ignore economic factors and focus only on cultural meanings",
+            "Cultural Studies believe culture is completely independent of economic forces"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the central claim of 'Poststructuralism' regarding the stability of meaning and power?",
+        "Answers": [
+            "Meaning and power are not fixed, stable, or predetermined; they are fluid",
+            "Meaning and power are fundamentally stable and unchanging over time",
+            "Meaning and power are solely determined by objective economic forces",
+            "Meaning and power are purely subjective and vary randomly between individuals"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Foucault, how does 'Discourse' shape what counts as truth and knowledge in society?",
+        "Answers": [
+            "Discourse defines what counts as truth, knowledge, and legitimate ways of being",
+            "Discourse is irrelevant to determining what is considered true or false in society",
+            "Truth and knowledge are purely objective and independent of discourse",
+            "Truth and knowledge are solely determined by individual rational thought"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the primary interest of 'Discourse Analysis' in social and epistemic conditions?",
+        "Answers": [
+            "Discourse Analysis is interested in conditions that make something count as true",
+            "Discourse Analysis focuses solely on individual interpretations of truth and meaning",
+            "Discourse Analysis seeks to establish universal and timeless truths about society",
+            "Discourse Analysis ignores social context and focuses on abstract principles only"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In the context of 'Political Power', how does 'Biopower' in modernity differ from 'Sovereign Power' in its mode of operation, according to Foucault?",
+        "Answers": [
+            "Biopower focuses on shaping life itself, not just repressing it",
+            "Biopower is primarily concerned with direct physical force and punishment",
+            "Biopower is less pervasive and influential than sovereign power in modernity",
+            "Biopower operates solely through centralized government institutions"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In 'Dynamic Nominalism', what is the crucial aspect of 'Looping Effects' in classifications?",
+        "Answers": [
+            "Looping effects describe how classifications shape people, who change classifications",
+            "Looping effects suggest classifications are static and unchanging over time",
+            "Looping effects are irrelevant to understanding the impact of classifications",
+            "Looping effects only apply to medical diagnoses, not social categories"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to STS, what is the nature of the separation between 'nature' and 'culture' in Western thought?",
+        "Answers": [
+            "Separation of nature and culture is a social and political construction",
+            "Separation of nature and culture is a fundamental and objective reality",
+            "Nature and culture are completely independent and unrelated domains",
+            "Science objectively confirms the inherent separation of nature and culture"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does 'Social Contingency' of scientific knowledge primarily imply about its universality?",
+        "Answers": [
+            "Scientific knowledge is shaped by social values, questioning universality",
+            "Scientific knowledge is universally valid and independent of social values",
+            "Scientific knowledge is purely subjective and lacks any universal validity",
+            "Scientific knowledge is only relevant in specific social and cultural contexts"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "According to Foucault, what should be the key question when analyzing knowledge claims, replacing 'objective truth'?",
+        "Answers": [
+            "Key question is: What discourses shape what society considers true or serious?",
+            "Key question should be: Is this knowledge consistent with established traditions?",
+            "Key question must be: Is this knowledge supported by empirical evidence alone?",
+            "Key question should primarily focus on individual interpretations of truth"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How does 'Perspectivism' in Amazonian Cosmology challenge the Western scientific view of 'nature'?",
+        "Answers": [
+            "Perspectivism challenges Western nature/culture divide by assuming single culture",
+            "Perspectivism reinforces Western nature/culture divide, validating scientific view",
+            "Perspectivism aligns perfectly with Western science’s objective view of nature",
+            "Perspectivism rejects any concept of 'nature' as understood in Western science"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the central argument of STS regarding the 'neutrality' of technology and artifacts?",
+        "Answers": [
+            "Technology and artifacts are not neutral; they embody politics and values",
+            "Technology and artifacts are inherently neutral tools, ethically indifferent",
+            "Technology's political implications are minimal and easily managed",
+            "Technology should always be treated as neutral to ensure objectivity"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does Latour's concept of 'Technology as Society made Durable' suggest about technology's enduring impact?",
+        "Answers": [
+            "Technology endures and makes social structures and values last over time",
+            "Technology is ephemeral and has no lasting impact on social structures",
+            "Technology's impact is limited to specific contexts and time periods",
+            "Technology primarily reflects individual creativity, not social structures"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In 'Relational Ontology', how are 'entities' understood in relation to their properties and essence?",
+        "Answers": [
+            "Entities are not fixed; their properties are formed through relations",
+            "Entities possess fixed and inherent properties, independent of relations",
+            "Entities' properties are solely determined by internal, essential qualities",
+            "Entities are purely abstract concepts with no real properties or essence"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How does 'Relational Thinking' broaden the scope of 'Agency' beyond human action in sociology?",
+        "Answers": [
+            "Relational thinking expands agency to networks of people, technology, and politics",
+            "Relational thinking limits agency solely to intentional human actions and choices",
+            "Relational thinking rejects the concept of agency and focuses on structures only",
+            "Relational thinking reduces agency to purely economic and material forces"
+        ],
+        "Correct": 0
+    }
+    ]

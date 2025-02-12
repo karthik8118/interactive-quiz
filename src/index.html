@@ -10,7 +10,7 @@
 <body>
   <nav id="topnav">
     <div class="top-row">
-      <h1>Psychology Quiz</h1>
+      <h1 id="quiz-title">Psychology Quiz</h1>
       <div id="textBox"></div>
       <button id="printBtn">Export/Print</button>
     </div>
@@ -18,7 +18,15 @@
   </nav>
   <!-- Hidden container for printable summary -->
   <div id="printContainer" style="display: none;"></div>
-  <div id="quiz-container"></div>
+  <div id="quiz-container">
+    <p id="completion-status">You have completed 4 out of 330 with 1 correct.</p>
+    <div class="grid-container">
+      <div class="dot">
+        <div class="tooltip">Question: What is psychology?<br>Answer: The study of mind and behavior.</div>
+      </div>
+      <!-- Add more dots as needed -->
+    </div>
+  </div>
   <script src="app.js"></script>
 </body>
 </html>
