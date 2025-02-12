@@ -4,15 +4,114 @@
 
 ### Session 1
 
+#### Understandding the social world
+
 * Understanding the [social world](#social-sciences) means doing your best [empirically](#empirical) and [conceptually](#conceptual) to produce a faithful account of [subjective](#subjectiv) experiences in relation to their [objective](#objectiv) conditions of possibility. Taking responsibility for these accounts always entails exploring alternative accounts and their consequences.
 
 ### Session 2
 
-* Accounts of individual experiences are never simply ‘authentic’ but always shaped by situational (people are sharing something with you for a reason) and dispositional (social conditions) available narrative saspects.
+#### Experiential Accounts
 
-#### Session 4
+* Accounts of individual experiences are never simply 'authentic' but always shaped by situational (people are sharing something with you for a reason) and dispositional (social conditions) available narrative saspects
+
+### Session 4
+
+#### Structure-Agency Spectrum
 
 * The perspectives towards the individual/agency end of the structure-agency spectrum are better suited to interpret specific social situation. The structural perspectives are better suited to understand what kind of social order arises from social situations
+
+### Session 6
+
+#### Artefacts, Politics, and Society
+
+##### Artefacts have politics
+
+* Infrastructures and technologies are never politically and ethically neutral. They embody assumptions and imaginaries about society through:
+  * Purposeful choice
+  * Standards
+  * [Discourses](#discourse) ([Foucault](#michel-foucault))
+  * Economics and R&D funding
+  * Politics & Ideology
+* Every technical decision — from algorithms and code to hardware and institutional structures — is inscribed with ideas about social and moral order ⇒ technology is society made durable (Latour)
+
+##### Reasemling the social
+
+* Based on ideas from [Weber](#max-weber), [Durkheim](#émile-durkheim), and others, social facts are phenomena [sui generis](#sui-generis) and must be explained by other social facts
+* Theories from [Actor-Network-Theory](#actor-network-theory), [Situated Knowledge](#situated-knowledge) and relational thinking (e.g. [Donna Haraway](#donna-haraway)) remind us that:
+  * The social is constantly reassembled.
+  * ([Agency](#agency)) is distributed across networks.
+  * Entities as distinct as a human, a line of code, or a building are interrelated.
+
+##### The social in Science and Technology Studies
+
+* ‘The social’ as the making of relations between very different actors, e.g. humans, technologies and infrastructures, animals, landscapes, ideas, …
+* Relational [Ontology](#ontology):
+  * Instead of assuming essential cores, relational thinking asks how 'entities' are [assembled](#assembled) and [stabilized](#stabilized) through interactions
+  * Example: Instead of taking a technology (e.g. ChatGPT) for granted, ask what other elements must exist and interact (form relations) for ChatGPT to exist and make sense to people
+* Flat [Ontology](#ontology):
+  * No single actor (human or non-human) is ranked higher — each contributes to the formation and stabilization of socio-technical phenomena (technology is not passive, think bridges, algorithms)
+  * Example: you, an algorithm, a company and a law, all contribute to stabilise the phenomenon that is ChatGPT
+
+##### People are different from rocks
+
+* But:
+  * Not all people share the Western categorical distinction between nature and culture
+  * Science is neither universal nor the only legitimate way of knowing and being in the world ([continingency](#contingency))
+  * ['The social'](#the-social) (aka people) is separated from nature and technology only in Western modern scientific thinking
+  * Relational thinking deconstructs the categorical separation between human and technology, revealing that social order emerges from the interplay of various actors
+* Key Consequence:
+  * We are responsible for assembling the socio-technical worlds around us. When tweaking an algorithm, writing a line of code or developing a new idea, consider:
+    * What world are you contributing to?
+    * What alternative worlds might be possible?
+    * How do ethical and political assumptions influence your choices?
+
+### Session 7
+
+#### Politics
+
+##### Politics and subpolitics
+
+* Politics:
+  * [Weber](#max-weber): “to understand by politics only the leadership or the influencing of the leadership of a state”
+  * Politics with a capital “P”:
+    * analysis of those granted powers — e.g., elected officials in liberal democracies
+    * matters of the state, its actors, institutions, and arenas
+* Subpolitics:
+  * Beck, Bovens: “Politics has been ‘dispersed’ or ‘displaced’…
+  * Recognizes significant political action beyond the state
+  * Dilemma: balancing democratic legitimacy with technical expertise in subpolitical decisions (e.g., nuclear reactors, AI governance)
+  * Jasanoff: human and reasoned balance between power and knowledge
+
+##### Five notions of politics in science and technology studies
+
+1. New associations and [cosmograms](#cosmology):
+    * Science and technology ⇒ new relationships between humans and non-humans ⇒ reshaping our understanding of the world
+    * New technologies or truth claims emerge ⇒ integrated into the existing common world ⇒ modify the collective ⇒ new associations and [cosmograms](#cosmology)
+    * **AI**: analyse how ChatGPT comes into the world as a new entity, i.e. understand development that lead to object and how object is fitted into collectives
+2. [Public](#publics) and its problems:
+    * Not '[ready-made publics](#ready-made-publics)' but '[issue publics](#issue-publics)'
+    * Politics: Emerging [publics](#publics) and their struggle to convert an uncertain issue into a manageable problem
+    * **AI**: analyse the public debates that unfold after the release of GPTs trying to understand what this will do to society
+3. Sovereignty:
+    * Friend-Foe distinction as basis for political thought and action
+    * Political spaces = where “self” and “other” are antagonistically negotiated
+    * **AI**: Analyse political strategies to position soft/hardware as 'our thing' (e.g. US-American Chip Act trying to break dominance of Taiwan in chip production)
+4. Deliberative Assemblies:
+    * Civil society deliberates until the best arguments win ([discourse ethics](#discourse-ethics))
+    * Politics: spaces of deliberation, oftentimes classic political representatives plus forums for civil society
+    * **AI**: analyse spaces of deliberation such as parliaments, citizens’ forums etc. that try to discuss latest developments and possible futures
+5. Governmentality:
+    * Power/knowledge is organised through [discourses](#discourse) ([Foucault](#michel-foucault))
+    * Politics: all institutions (military, pedagogy) that seem apolitical but produce power/knowledge and thus reproduce social/moral order
+    * **AI**: analyse the discourses that shape soft/hardware development as power/knowledge (e.g. from tech nerd to brogrammer, open source and transparency etc.)
+
+##### Ontological politics
+
+* = the struggle over which world comes to be and which other possible worlds are made latent or disappear
+* Producing knowledge is performative, i.e. producing knowledge shapes the world in specific ways: worlding ([epistem-ontology](#epistem-ontology))
+* Politics: the production of knowledge and technology as a form of making the world in certain ways
+* **AI**: Organising GPTs as open source or proprietary software can be understood as knowledge-based forms of worlding
+* Producing knowledge, e.g. your current and future job, is always also making worlds for which you carry responsibility ([ethico-epistem-ontology](#ethico-epistem-ontology))
 
 ## People
 
@@ -196,10 +295,13 @@ the visible cultural patterns of everyday life
 * Study the [matrix](#matrix) within a society at any given time that shapes the engines of discovery that produce knowledge and classifications that impact the ways to be a person (autism, ADHD, obesity, refugee status, …)
 * Looping effects:
   * Ways to be a person ⇒ Knowledge production ⇒ Classification & Interventions ⇒ Ways to be a person ⇒ ...
+    * Knowledge Production (Engines of Discovery):
+      * Count, Quantify, Create Norms, Correlate, Medicalise, Biologise, Geneticise
+    * Classification & Interventions:
+      * Normalise, Bureaucratise
+    * Ways to be a person:
+      * Reclaim your identity (effects how people understand themselves)
   * Example ADHD
-  * Engines of Discovery:
-    * Count, Quantify, Create Norms, Correlate, Medicalise, Biologise, Geneticise
-    * Normalise, Bureaucratise, Reclaim your identity
   * How to analyse the [matrix](#matrix):
     * Classifications, People, Institutions, Knowledge(s), Experts
 
@@ -211,14 +313,19 @@ the visible cultural patterns of everyday life
     * Assumes a continuity between humans and animals through evolution
     * Distinguishes humans through the interplay of biology and culture
   * Perspectivism:
-    * Asserts that knowledge is shaped by individual perspectives
     * Assumes a metaphysical continuity between all beings, as they all take a perspective
     * Suggests that differences arise from varying viewpoints rather than fixed essences
     * Everything capable of [deixis](#deixis) is considered "human"
+  * What we learn:
+    * Other peoples distinguish differently between nature and culture
+    * It is extremely difficult to really understand ([Bourdieu](#pierre-bourdieu)) someone else’s way of being in the world or being a person ([epistemology](#epistemology)/[ontology](#ontology))
+    * Epistemicides: the destruction of other ways of knowing:
+      * Kidnapping and enslavement of Africans
+      * Women burned as witches in Europe
 
 ## Definitions
 
-#### Science and Technology Studies (STS)
+#### Science and Technology Studies
 
 * production of knowledge and technologies ⇔ how we live together
 * [social sciences](#social-sciences) + [humanities](#humanities)
@@ -529,6 +636,11 @@ stories do we tell?
 * mental shortcuts or rules of thumb that help people make decisions quickly and efficiently without needing to analyze all available information
 * any approach to problem solving that employs a pragmatic method that is not fully optimized, perfected, or rationalized, but is nevertheless "good enough" as an approximation or attribute substitution
 
+#### Actor-Network-Theory
+
+* a theoretical framework that considers the social world as a network of human and non-human actors that are interrelated and shape each other through interactions
+* actor–network theory is a theoretical and methodological approach to social theory where everything in the social and natural worlds exists in constantly shifting networks of relationships ⇒ nothing exists outside those relationships
+
 ---
 
 #### Identity
@@ -625,11 +737,52 @@ stories do we tell?
 
 #### Cosmology
 
-* How a society understands and explains the world.
-* Shapes cultural narratives and social norms.
-* Influences ethical and metaphysical outlooks.
+* How a society understands and explains the world
+* Shapes cultural narratives and social norms
+* Influences ethical and metaphysical outlooks
 
 #### Deixis
 
 * taking a position vis-à-vis others
 * the use of words or phrases to refer to a particular time (e.g. then), place (e.g. here), or person (e.g. you) relative to the context of the utterance
+
+---
+
+#### Agency
+
+* the capacity for action
+
+#### Stabilized
+
+* the process by which diverse actors—human, technological, and institutional—are continuously [assembled](#assembled) and maintained through interactions to form a consistent, enduring socio-technical order
+
+#### Assembled
+
+* the process by which diverse actors and elements are brought together and organized into a coherent socio-technical network through continuous interactions
+
+---
+
+#### Publics
+
+* groups of people who share a common interest or concern and who are willing to engage in collective action to address that interest or concern
+
+#### Ready-made publics
+
+* [publics](#publics) are demographics that exist independent of particular issues and that articulate a fixed set of interests
+
+#### Issue publics
+
+* [publics](#publics) emerge out of scientific uncertainty (when new issues cannot be contained by existing political institutions)
+* [publics](#publics) help to shape the problem (framing) thus becoming stakeholders, concerned groups, experts
+
+#### Discourse ethics
+
+* a theory of morality that emphasizes the importance of open, inclusive, and rational dialogue in the formation of ethical norms and principles
+
+#### Epistem-ontology
+
+* the idea that producing knowledge shapes the world in specific ways
+
+#### Ethico-epistem-ontology
+
+* the idea that producing knowledge shapes the world in specific ways and that this process is inherently ethical
