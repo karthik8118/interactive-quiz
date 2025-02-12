@@ -36,14 +36,14 @@
 
         .container {
             display: flex;
-            max-width: 1200px;
+            max-width: 1220px;
             /* margin: 20px auto; */
             padding: 0 1rem;
         }
 
         nav {
             flex: 1;
-            margin-right: 20px;
+            margin-right: 0px;
             /* Calculate nav height based on the viewport height minus header height.
             Adjust 80px to match your header's total height */
             position: sticky;
@@ -97,6 +97,10 @@
         main h5,
         main h6 {
             color: #007BFF;
+        }
+
+        main h2 {
+            font-size: xx-large;
         }
 
         main a {
@@ -153,6 +157,33 @@
         .flash {
             animation: flash-highlight 0.3s ease-in-out 2;
         }
+
+        #screenWarning {
+            position: fixed;
+            top: 80px;
+            left: 0;
+            right: 0;
+            background-color: #FFEB3B;
+            padding: 0.5rem;
+            text-align: center;
+            z-index: 2000;
+            display: none;
+        }
+
+        /* New styling for the close button */
+        #hideWarningBtn {
+            background: transparent;
+            border: none;
+            font-size: 1rem;
+            cursor: pointer;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+
+        #hideWarningBtn:hover {
+            background-color: rgba(0, 0, 0, 0.1);
+        }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
@@ -161,6 +192,10 @@
     <header>
         <h1>Knowledge Base</h1>
     </header>
+    <div id="screenWarning">
+        This page works best on desktop.
+        <button id="hideWarningBtn" style="margin-left:1rem;">&#10006;</button>
+    </div>
     <div class="container">
         <nav>
             <input type="text" id="searchBar" placeholder="Search definitions..." oninput="filterDefinitions()">
@@ -210,16 +245,18 @@
                     if (text.startsWith('Session')) {
                         continue;
                     }
-                    if (depth > 4) {
+                    if (depth > 4 || depth == 1) {
                         continue;
                     }
                     const li = document.createElement('li');
                     const a = document.createElement('a');
                     a.href = `#${id}`;
-                    a.textContent = text;
                     // If heading is an h2, add a class for styling
                     if (depth === 2) {
                         a.classList.add('h2-link');
+                        a.innerHTML = text;
+                    } else {
+                        a.innerHTML = '&nbsp;&nbsp;&nbsp;' + text;
                     }
                     li.appendChild(a);
                     definitionsList.appendChild(li);
@@ -277,11 +314,30 @@
 
         // Also flash heading on initial page load if a hash exists
         window.addEventListener('DOMContentLoaded', () => {
+            const hideBtn = document.getElementById('hideWarningBtn');
+            hideBtn.addEventListener('click', () => {
+                const warning = document.getElementById('screenWarning');
+                warning.style.display = 'none';
+                warning.dataset.dismissed = "true";
+            });
+            checkScreenSize();
             const hash = window.location.hash;
             if (hash) {
                 flashHeading(hash.substring(1));
             }
         });
+
+        function checkScreenSize() {
+            const warning = document.getElementById('screenWarning');
+            // Do not show warning if dismissed
+            if (warning.dataset.dismissed === "true") return;
+            if (window.innerWidth < 1075) {
+                warning.style.display = 'block';
+            } else {
+                warning.style.display = 'none';
+            }
+        }
+        window.addEventListener('resize', checkScreenSize);
     </script>
 </body>
 

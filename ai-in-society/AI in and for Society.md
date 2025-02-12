@@ -325,7 +325,7 @@ the visible cultural patterns of everyday life
 
 ## Definitions
 
-#### Science and Technology Studies (STS)
+#### Science and Technology Studies
 
 * production of knowledge and technologies ⇔ how we live together
 * [social sciences](#social-sciences) + [humanities](#humanities)
