@@ -125,7 +125,7 @@
   * Exchange systems and how they order how people live together has been for a long time ...
   * ... at some point activities, behaviours, objects, and institutions come to be understood as 'economic' (why? how?)
 
-#### Formalist vs Substantivist economics
+##### Formalist vs Substantivist economics
 
 * If we describe exchange systems and practices in economic terms, what is covered and what is excluded?
 * Formalist position:
@@ -137,13 +137,13 @@
   * Embeddedness in socio-cultural contexts
   * Circulation of goods mediated by institutions rather than economic behaviour
 
-#### Markets to marketisation
+##### Markets to marketisation
 
 * Markets enable standardized socio-technical exchanges involving diverse goods and valuation methods.
 * They reflect power struggles in price-setting, balancing fairness and conflict.
 * Market encounters range from local bazaars to global supply chains, shaped by algorithms and trust.
 
-#### Conclusion
+##### Conclusion
 
 * Markets shape society and can be [empirically](#empirical) analyzed as socio-technical arrangements similar to [subpolitics](#politics-and-subpolitics).  
 * An ideal approach merges economics with analysis of [marketisation](#markets-to-marketisation) practices and the production of economic knowledge.  
