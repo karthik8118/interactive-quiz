@@ -113,6 +113,43 @@
 * **AI**: Organising GPTs as open source or proprietary software can be understood as knowledge-based forms of worlding
 * Producing knowledge, e.g. your current and future job, is always also making worlds for which you carry responsibility ([ethico-epistem-ontology](#ethico-epistem-ontology))
 
+### Session 8
+
+#### Economy
+
+##### From economy to economisation
+
+* Established view in public and scientific [discourse](#discourse): the economy exists and is known by [economics](#economics)
+
+* Economisation:
+  * Exchange systems and how they order how people live together has been for a long time ...
+  * ... at some point activities, behaviours, objects, and institutions come to be understood as 'economic' (why? how?)
+
+##### Formalist vs Substantivist economics
+
+* If we describe exchange systems and practices in economic terms, what is covered and what is excluded?
+* Formalist position:
+  * define the economy by its object, i.e. the study of utility maximisation under conditions of scarcity
+  * Rational economic behaviour
+  * Individuals follow universal 'formal' rules in economic behaviour
+* Substantivist position:
+  * Economic is everything that a society does to reproduce itself and meet its material needs
+  * Embeddedness in socio-cultural contexts
+  * Circulation of goods mediated by institutions rather than economic behaviour
+
+##### Markets to marketisation
+
+* Markets enable standardized socio-technical exchanges involving diverse goods and valuation methods.
+* They reflect power struggles in price-setting, balancing fairness and conflict.
+* Market encounters range from local bazaars to global supply chains, shaped by algorithms and trust.
+
+##### Conclusion
+
+* Markets shape society and can be [empirically](#empirical) analyzed as socio-technical arrangements similar to [subpolitics](#politics-and-subpolitics).  
+* An ideal approach merges economics with analysis of [marketisation](#markets-to-marketisation) practices and the production of economic knowledge.  
+* As marketisation accelerates, algorithmic tools—carrying [epistemic](#epistemology), political, and ethical implications—must be carefully designed.  
+* Aim to make market processes transparentso [publics](#publics) can form.
+
 ## People
 
 ### Session 1
@@ -786,3 +823,9 @@ stories do we tell?
 #### Ethico-epistem-ontology
 
 * the idea that producing knowledge shapes the world in specific ways and that this process is inherently ethical
+
+---
+
+#### Economics
+
+* a social science that studies the production, distribution, and consumption of goods and services
