@@ -265,23 +265,25 @@
             .catch(error => console.error('Error loading markdown file:', error));
 
         function showPeek(sectionId, element) {
-            const peekDiv = document.getElementById(`peek-${sectionId}`);
-            if (peekDiv) {
-                const targetElement = document.getElementById(sectionId);
-                if (targetElement) {
-                    const nextElem = targetElement.nextElementSibling;
-                    if (nextElem && nextElem.tagName.toLowerCase() === 'ul') {
-                        peekDiv.innerHTML = "";
-                        peekDiv.appendChild(nextElem.cloneNode(true));
-                    } else {
-                        peekDiv.innerHTML = ''; // Fallback if no <ul> found
+            let peekDivs = Array.from(document.getElementsByClassName('peek'));
+            peekDivs.forEach(peekDiv => {
+                if (peekDiv.id === `peek-${sectionId}`) {
+                    const targetElement = document.getElementById(sectionId);
+                    if (targetElement) {
+                        const nextElem = targetElement.nextElementSibling;
+                        if (nextElem && nextElem.tagName.toLowerCase() === 'ul') {
+                            peekDiv.innerHTML = "";
+                            peekDiv.appendChild(nextElem.cloneNode(true));
+                        } else {
+                            peekDiv.innerHTML = ''; // Fallback if no <ul> found
+                        }
+                        peekDiv.style.display = 'block';
+                        const rect = element.getBoundingClientRect();
+                        peekDiv.style.top = `${rect.bottom + window.scrollY}px`;
+                        peekDiv.style.left = `${rect.left + window.scrollX}px`;
                     }
-                    peekDiv.style.display = 'block';
-                    const rect = element.getBoundingClientRect();
-                    peekDiv.style.top = `${rect.bottom + window.scrollY}px`;
-                    peekDiv.style.left = `${rect.left + window.scrollX}px`;
                 }
-            }
+            });
         }
 
         function hidePeek() {
