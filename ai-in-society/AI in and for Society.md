@@ -1,5 +1,34 @@
 # AI in and for Society
 
+## Contents
+
+**People**
+
+|         |             |
+|---------|-------------|
+| [Sir Karl Popper](#sir-karl-popper) | Critical Rationalism |
+| [Wilhelm Dilthey](#wilhelm-dilthey) | Understanding vs Explaining |
+| [Pierre Bourdieu](#pierre-bourdieu) | Social Conditions + Individual Experiences |
+| [Donna Haraway](#donna-haraway) | Historical Contingency |
+| [Erving Goffman](#erving-goffman) | Social Scripts |
+| [Émile Durkheim](#émile-durkheim) | Sui Generis |
+| [Marilyn Strathern](#marilyn-strathern) | Fractals |
+| [Karl Marx](#karl-marx) | Class Struggle |
+| [Claude Lévi-Strauss](#claude-lévi-strauss) | Universal Structures |
+| [Max Weber](#max-weber) | Meaning Making |
+| [Stuart Hall](#stuart-hall) | Cultural Hegemony |
+| [Michel Foucault](#michel-foucault) | Discourse |
+| [Ian Hacking](#ian-hacking) | Looping Effects |
+| [Eduardo Viveiros de Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](#eduardo-viveiros-de-castro) | Cosmology |
+
+**Statements**
+
+|         |             |
+|---------|-------------|
+| [Artefacts, Politics, and Society&nbsp;](#artefacts-politics-and-society) | Artefacts have politics |
+| [Politics and Subpolitics](#politics) | What is politics? |
+| [Economy](#economy) | From economy to economisation |
+
 ## Statements
 
 ### Session 1
