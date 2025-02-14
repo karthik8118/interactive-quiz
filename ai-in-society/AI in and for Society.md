@@ -14,7 +14,7 @@
 | [Émile Durkheim](#émile-durkheim) | Sui Generis |
 | [Marilyn Strathern](#marilyn-strathern) | Fractals |
 | [Karl Marx](#karl-marx) | Class Struggle |
-| [Claude Lévi-Strauss](#claude-lévi-strauss) | Universal Structures |
+| [Claude Lévi-Strauss](#claude-lévi-strauss) | Universal mental Structures |
 | [Max Weber](#max-weber) | Meaning Making |
 | [Stuart Hall](#stuart-hall) | Cultural Hegemony |
 | [Michel Foucault](#michel-foucault) | Discourse |
