@@ -1,0 +1,1294 @@
+[
+    {
+        "Question": "What are three key factors that have contributed to recent breakthroughs in AI?",
+        "Answers": [
+            "Access to large amounts of labeled data, sufficient computing power, and advanced algorithms.",
+            "Increased interest in AI, better programming languages, and government regulations.",
+            "The rise of social media, enhanced cybersecurity, and AI ethics research.",
+            "Improved user interfaces, cloud storage, and faster internet speeds."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Which type of neural network is the foundation of ChatGPT?",
+        "Answers": [
+            "Convolutional Neural Network (CNN)",
+            "Recurrent Neural Network (RNN)",
+            "Transformer model",
+            "Bayesian Network"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is a major challenge when working with complex AI models?",
+        "Answers": [
+            "Lack of interest in AI research",
+            "High computational costs and explainability issues",
+            "Too many available datasets to choose from",
+            "Inability to perform supervised learning"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "How does a predictive model in machine learning differ from a hypothesis in traditional scientific research?",
+        "Answers": [
+            "Predictive models provide precise answers, while traditional research is only observational.",
+            "Predictive models compute expected values based on data, while hypotheses are tested using experiments.",
+            "Hypotheses are based on statistics, whereas predictive models do not use data.",
+            "Machine learning models do not require testing, while scientific hypotheses must be tested."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which of the following is an example of a classification problem?",
+        "Answers": [
+            "Predicting house prices based on historical sales",
+            "Determining whether an email is spam or not",
+            "Finding the optimal route for a delivery truck",
+            "Estimating the future stock market trend"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What type of learning technique is used by AlphaGo to play the game of Go?",
+        "Answers": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Reinforcement Learning with Human Feedback",
+            "Bayesian Learning"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "Which data types can be used as input for a function that computes a mean, assuming no modifications to the function other than the input?",
+        "Answers": [
+            "Integers, Booleans, Floats, Decimals",
+            "Strings, Integers, Lists, Dictionaries",
+            "Only Floats and Integers",
+            "Only Complex Numbers"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Which milestone in AI occurred in 2017 and significantly advanced natural language processing?",
+        "Answers": [
+            "AlexNet",
+            "AlphaGo",
+            "Transformer Model",
+            "ChatGPT"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is a machine learning model?",
+        "Answers": [
+            "A system that takes input data, processes it, and makes predictions.",
+            "A physical computer that can run AI programs.",
+            "A type of software used only for image processing.",
+            "A fixed set of rules used to manually classify data."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is a feature in machine learning?",
+        "Answers": [
+            "The output of a machine learning model.",
+            "The input data used to train an algorithm.",
+            "A label assigned to a classification problem.",
+            "A predefined rule in an AI system."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the purpose of a training set in machine learning?",
+        "Answers": [
+            "To test the accuracy of a trained model.",
+            "To provide labeled data for the model to learn from.",
+            "To generate random predictions without learning anything.",
+            "To store the final output of an AI model."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does a target function in machine learning represent?",
+        "Answers": [
+            "The mathematical description of what the model is trying to achieve.",
+            "A function used to generate new training data.",
+            "A rule defining the learning rate of an AI model.",
+            "A secondary function used for testing AI models."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How is a training example formally represented in machine learning?",
+        "Answers": [
+            "As a single numeric value representing the dataset.",
+            "As a tuple (x, y) where x is the input feature vector and y is the output label.",
+            "As a single matrix containing only output labels.",
+            "As a predefined static rule set."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "How many examples are generally sufficient for training a deep learning model?",
+        "Answers": [
+            "A few hundred examples.",
+            "10,000+ to millions, depending on model complexity.",
+            "Only one example per class.",
+            "Training data is not needed for deep learning."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which algorithm is suitable for a classification problem?",
+        "Answers": [
+            "Linear Regression",
+            "Polynomial Regression",
+            "Support Vector Machines (SVM)",
+            "K-Means Clustering"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How can a learning algorithm quickly adapt to new observations?",
+        "Answers": [
+            "By retraining the entire dataset frequently.",
+            "By using incremental learning techniques such as Stochastic Gradient Descent (SGD), Support Vector Machines (SVM), and Naive Bayes.",
+            "By discarding old data and learning only from recent observations.",
+            "By relying solely on human intervention for updates."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What determines the sufficient size of training data in machine learning?",
+        "Answers": [
+            "A fixed number of samples regardless of the complexity of the problem.",
+            "The more categories and complexity, the more training data is required to learn all possible patterns.",
+            "A dataset is sufficient if it contains at least 1000 samples.",
+            "The size of training data does not impact model performance."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What makes a machine learning model simpler?",
+        "Answers": [
+            "A higher number of parameters and complex architecture.",
+            "Having fewer weights and requiring fewer bits for representation.",
+            "Using deep learning models instead of traditional models.",
+            "Maximizing the number of layers in the neural network."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the difference between a weight and a variable in machine learning?",
+        "Answers": [
+            "Variables represent values that can change, while weights are fixed during training.",
+            "Weights influence the importance of inputs and are learned during training, while variables can be input data or outputs from a function.",
+            "Weights and variables are interchangeable in all models.",
+            "Variables are only used in neural networks, while weights are used in statistical models."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does correlation describe in statistics?",
+        "Answers": [
+            "How well one variable's value can be inferred based on another variable.",
+            "The causal relationship between two variables.",
+            "The exact numerical difference between two variables.",
+            "The process of normalizing data in machine learning."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does the Maximum Likelihood Function (MLF) indicate?",
+        "Answers": [
+            "The likelihood of reaching the maximum probability given the observed data.",
+            "The probability of an event occurring.",
+            "The likelihood of an event independent of prior observations.",
+            "The variance of the dataset."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does the Likelihood Function (LF) indicate?",
+        "Answers": [
+            "Given the observed data, it determines the probability distribution parameters.",
+            "It calculates the probability of a single event.",
+            "It always gives values between 0 and 1.",
+            "It is used to determine the variance in a dataset."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does the Probability Density Function (PDF) indicate?",
+        "Answers": [
+            "The probability of an event occurring at a single point.",
+            "Given the distribution, it represents the likelihood of different outcomes.",
+            "The cumulative probability up to a given value.",
+            "The expected value of a dataset."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Is likelihood the same as probability?",
+        "Answers": [
+            "Yes, they are interchangeable terms.",
+            "No, likelihood is the probability of observed data given a model, while probability measures the chance of an event occurring.",
+            "No, likelihood is always greater than probability.",
+            "Yes, in all statistical contexts."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What are the basic probability tools needed for machine learning?",
+        "Answers": [
+            "Linear Regression and Decision Trees.",
+            "Gradient Descent and Neural Networks.",
+            "Maximum Likelihood Estimation, Expectation Maximization, and Bayesian Inference.",
+            "Support Vector Machines and K-Means Clustering."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the main difference between the frequentist and Bayesian approaches to probability?",
+        "Answers": [
+            "Frequentists rely only on prior knowledge, while Bayesians use repeated experiments.",
+            "Frequentists base probability on repeated experiments, while Bayesians update beliefs based on prior knowledge and new data.",
+            "Bayesians do not use probability distributions.",
+            "Frequentist methods are only applicable in AI, while Bayesian methods are used in physics."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the probability of a particular event that is impossible?",
+        "Answers": [
+            "1",
+            "0.5",
+            "0",
+            "It depends on the dataset."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "When should Expectation Maximization (EM) be used?",
+        "Answers": [
+            "For finding maximum likelihood estimators in probabilistic models with incomplete or hidden data.",
+            "For training deep learning models faster.",
+            "Only when data is fully observed.",
+            "Only for simple linear models."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is a Gaussian Mixture Model (GMM)?",
+        "Answers": [
+            "A type of regression model.",
+            "A clustering technique based on expectation maximization.",
+            "A supervised learning method.",
+            "A rule-based decision-making algorithm."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the key difference between the Probability Density Function (PDF) and the Cumulative Distribution Function (CDF)?",
+        "Answers": [
+            "PDF represents the probability at a point, while CDF gives cumulative probability up to a value.",
+            "CDF can be greater than 1, but PDF is always between 0 and 1.",
+            "PDF is the integral of the CDF.",
+            "CDF is used only in deep learning models."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What type of problems can be modeled using the Pareto distribution?",
+        "Answers": [
+            "Problems where small events dominate the outcomes.",
+            "Problems where rare but significant events occur, such as wealth distribution.",
+            "Only problems related to Gaussian distributions.",
+            "Problems where all events have equal probability."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "If you have a set of m elements and want to choose k elements, how many combinations exist?",
+        "Answers": [
+            "It depends on the probability distribution.",
+            "It is calculated using the binomial coefficient (m choose k).",
+            "It is always equal to m/k.",
+            "It is equal to m factorial."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the expected sum when rolling n fair dice?",
+        "Answers": [
+            "n * (1+2+3+4+5+6)/6 = n * 3.5",
+            "n * (1+2+3+4+5+6)/5",
+            "n * (1+2+3+4+5+6)/7",
+            "n * 6"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "When conducting hypothesis testing, what does a very small p-value indicate?",
+        "Answers": [
+            "We should retain the null hypothesis (H0).",
+            "We should reject the null hypothesis (H0) as the data is unlikely under H0.",
+            "The alternative hypothesis (H1) is always true.",
+            "The result is inconclusive."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which sampling method is best suited when the population has distinct subgroups with significant variance?",
+        "Answers": [
+            "Convenience sampling",
+            "Systematic sampling",
+            "Stratified sampling",
+            "Random sampling"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What are the key properties of a good estimator?",
+        "Answers": [
+            "It should always provide the exact true parameter.",
+            "It should approximate the true parameter on average and improve with more data.",
+            "It should have high variance to capture all possible data variations.",
+            "It should only be based on prior knowledge, ignoring observed data."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the purpose of bringing a distribution into a normal form, such as N(0,1)?",
+        "Answers": [
+            "To ensure the data has a standard deviation of 0.",
+            "To normalize data for better visualization.",
+            "To standardize the mean to 0 and standard deviation to 1 for easier comparison.",
+            "To eliminate variance in the data."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does the null hypothesis (H0) represent in statistical testing?",
+        "Answers": [
+            "The assumption that there is a significant effect or relationship.",
+            "The probability of making a Type I error.",
+            "The assumption that no significant effect or relationship exists.",
+            "The probability threshold for rejecting the null hypothesis."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does a p-value represent in hypothesis testing?",
+        "Answers": [
+            "The probability that the null hypothesis is true.",
+            "The probability of obtaining the observed data if the null hypothesis is true.",
+            "The probability of making a Type II error.",
+            "The probability of rejecting the null hypothesis incorrectly."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does the confidence interval describe?",
+        "Answers": [
+            "The probability that a hypothesis is true.",
+            "The range within which the true parameter is likely to lie with a certain probability.",
+            "The variance of a dataset.",
+            "The threshold for rejecting the null hypothesis."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which sampling method ensures every element has an equal probability of being selected?",
+        "Answers": [
+            "Stratified sampling",
+            "Systematic sampling",
+            "Convenience sampling",
+            "Random sampling"
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What does the expected squared difference from the mean represent?",
+        "Answers": [
+            "Standard deviation",
+            "Variance",
+            "Correlation",
+            "Bias"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "How is standard deviation calculated?",
+        "Answers": [
+            "By taking the square of the variance",
+            "By summing all values and dividing by the total count",
+            "By taking the square root of the variance",
+            "By multiplying all values by their mean"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does a correlation of 0 imply?",
+        "Answers": [
+            "The variables are completely independent.",
+            "There is no linear relationship, but dependency may still exist.",
+            "The variables are not related in any way.",
+            "One variable is a constant multiple of the other."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Why is the median sometimes preferred over the mean?",
+        "Answers": [
+            "Because it is always a more accurate representation of data.",
+            "Because it is less affected by extreme values and skewed distributions.",
+            "Because it is easier to compute than the mean.",
+            "Because it always gives the same value as the mode."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which parameter maximizes the likelihood in Maximum Likelihood Estimation (MLE)?",
+        "Answers": [
+            "The parameter that minimizes variance",
+            "The parameter that maximizes the sum of probabilities of observed data",
+            "The parameter that results in the smallest bias",
+            "The parameter that ensures uniform probability distribution"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Under what conditions can a normal distribution assumption be made?",
+        "Answers": [
+            "When the dataset is very small.",
+            "When the data consists of a single category.",
+            "When many independent factors contribute to the variable being analyzed.",
+            "When the data follows a uniform distribution."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is p-value hacking?",
+        "Answers": [
+            "Deliberately adjusting the p-value threshold to increase significance.",
+            "Artificially modifying the dataset or analysis to achieve a statistically significant p-value.",
+            "Using a lower p-value to improve hypothesis testing accuracy.",
+            "Adjusting the significance level to 0.01 instead of 0.05."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the Maximum Likelihood Function used for?",
+        "Answers": [
+            "To determine the probability of each parameter value given the data.",
+            "To calculate the expected mean of a dataset.",
+            "To compare the standard deviation of different datasets.",
+            "To compute the p-value in statistical testing."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the primary goal of the Expectation-Maximization Algorithm?",
+        "Answers": [
+            "To iteratively estimate parameters of probabilistic models when exact solutions are difficult.",
+            "To maximize the likelihood function for linear regression.",
+            "To directly compute the best-fit parameters without iteration.",
+            "To optimize decision trees in supervised learning."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Why is clustering considered an unsupervised learning technique?",
+        "Answers": [
+            "Because it requires labeled data.",
+            "Because it is used only for classification tasks.",
+            "Because it finds patterns and groups in data without predefined labels.",
+            "Because it cannot be used for real-world applications."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "Which statistical tests are commonly used for hypothesis testing?",
+        "Answers": [
+            "t-test, Mann-Whitney U, ANOVA, chi-square test",
+            "Mean, median, mode, standard deviation",
+            "Linear regression, logistic regression, decision trees",
+            "PCA, k-means, SVM"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does a small p-value indicate?",
+        "Answers": [
+            "The null hypothesis is likely to be true.",
+            "The observed data is unlikely given the null hypothesis, so H0 should be rejected.",
+            "The p-value is directly related to the sample size.",
+            "The significance level is too low."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "When is an unbiased estimator preferred?",
+        "Answers": [
+            "When correctness on average is more important than stability.",
+            "When lower variance is always required.",
+            "When minimizing the standard deviation is the primary goal.",
+            "When bias helps in stabilizing estimates."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does precision measure in classification?",
+        "Answers": [
+            "The proportion of correctly identified positive instances among all positive predictions.",
+            "The proportion of correctly identified positive instances among all actual positives.",
+            "The total accuracy of the classification model.",
+            "The likelihood of predicting false negatives."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does recall measure in classification?",
+        "Answers": [
+            "The proportion of true positives correctly identified.",
+            "The overall accuracy of the model.",
+            "The proportion of false positives in the dataset.",
+            "The proportion of negative instances classified correctly."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Why should features be independent of each other in machine learning?",
+        "Answers": [
+            "To be able to analyze the distribution effectively",
+            "To increase the number of features in the dataset",
+            "To ensure the dataset is always linearly separable",
+            "To remove redundant information from the dataset"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Which of the following is an example of a categorical feature?",
+        "Answers": [
+            "Age",
+            "Salary",
+            "Color",
+            "Temperature"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "Why is feature dependency important in machine learning?",
+        "Answers": [
+            "It helps in understanding data correlation and handling missing values",
+            "It ensures that all features have the same scale",
+            "It reduces the need for feature engineering",
+            "It prevents overfitting in complex models"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How can we normalize categorical features?",
+        "Answers": [
+            "By assigning a range between 0 and 1",
+            "By applying one-hot encoding or label encoding",
+            "By replacing categories with their frequencies",
+            "All of the above"
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What is the difference between continuous and discrete features?",
+        "Answers": [
+            "Continuous features can take any real value, while discrete features have distinct categories",
+            "Continuous features are always positive, while discrete features can be negative",
+            "Discrete features require normalization, while continuous features do not",
+            "Continuous features are used in classification, while discrete features are used in regression"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the key difference between Sum-of-Squares Error, Mean Squared Error, and Root Mean Squared Error?",
+        "Answers": [
+            "Sum-of-Squares Error only sums the squared differences, while Mean Squared Error averages them",
+            "Root Mean Squared Error is the square root of the Mean Squared Error",
+            "Both A and B",
+            "None of the above"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "When can univariate linear regression weights be solved analytically?",
+        "Answers": [
+            "When the dataset is small and regularization is not included",
+            "When the dataset is large and updates are required in real-time",
+            "When stochastic gradient descent is used",
+            "When the dataset contains only categorical features"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does the learning rate in Stochastic Gradient Descent (SGD) control?",
+        "Answers": [
+            "The number of iterations required for training",
+            "The size of the step taken in weight updates",
+            "The number of features used in each step",
+            "The total number of training samples"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the behavior of small vs. large learning rates in gradient descent?",
+        "Answers": [
+            "Small steps avoid missing the global minimum but take longer to converge",
+            "Large steps make quick progress but may skip the global minimum",
+            "Both A and B",
+            "None of the above"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "Why is the local minimum for Sum-of-Squares Error also the global minimum?",
+        "Answers": [
+            "Because the function is convex",
+            "Because it is always non-negative",
+            "Because it is computed using squared differences",
+            "Because it minimizes feature correlation"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Why do we use polynomial curve fitting?",
+        "Answers": [
+            "To model complex relationships between variables",
+            "To simplify computational complexity",
+            "To avoid overfitting",
+            "To reduce the dataset size"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the goal of minimizing weights (Wi) in regression models?",
+        "Answers": [
+            "To reduce the complexity of the model",
+            "To find the best approximation with minimal squared error",
+            "To eliminate non-essential features",
+            "To maximize the variance of the dataset"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What is the Bayes error in classification?",
+        "Answers": [
+            "The lowest possible error rate achievable with perfect knowledge of the data distribution",
+            "The error caused by overfitting a model",
+            "The error introduced by using too many features",
+            "The difference between training and validation error"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Which of the following is the correct sequence of steps in supervised learning?",
+        "Answers": [
+            "Train the model, validate the model, evaluate performance",
+            "Fit the dataset, predict classes, split data, evaluate model",
+            "Train the dataset, test on unseen data, adjust hyperparameters, re-train",
+            "Preprocess data, train the model, test on new data, evaluate performance"
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What is hyperparameter tuning?",
+        "Answers": [
+            "Adjusting parameters that are not learned from data, such as learning rate or regularization strength",
+            "Optimizing the weights of the model",
+            "Using a different training dataset for each epoch",
+            "Increasing the number of features to improve performance"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What are the advantages of n-fold cross-validation over a single train-test split?",
+        "Answers": [
+            "It reduces performance variance and allows full data utilization",
+            "It requires less computational cost than a single split",
+            "It guarantees perfect model generalization",
+            "It eliminates the need for hyperparameter tuning"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is a disadvantage of n-fold cross-validation?",
+        "Answers": [
+            "Higher computational cost and training time",
+            "It only works for small datasets",
+            "It does not work with numerical features",
+            "It always leads to overfitting"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What are two other names for sensitivity?",
+        "Answers": [
+            "True positive rate, recall",
+            "False positive rate, precision",
+            "True negative rate, recall",
+            "Specificity, accuracy"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is another name for specificity?",
+        "Answers": [
+            "True positive rate",
+            "Recall",
+            "True negative rate",
+            "False positive rate"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "How can a four-dimensional dataset be visualized?",
+        "Answers": [
+            "By using four separate 2D plots",
+            "By using three axes and a color scheme",
+            "By reducing dimensions to 2D",
+            "By plotting all points in a 3D space"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does it mean if a hyperplane cannot be found in a classification task?",
+        "Answers": [
+            "The dataset is too small to classify",
+            "The classes are not linearly separable",
+            "The model has too many features",
+            "The training data is overfitting"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Which of the following are common kernel functions used in Support Vector Machines (SVM)?",
+        "Answers": [
+            "ReLU, Sigmoid, Poly",
+            "RBF, Sigmoid, Poly",
+            "Linear, Softmax, Tanh",
+            "Euclidean, Manhattan, Chebyshev"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "For a linear function with one feature, how many parameters (weights) does the function have?",
+        "Answers": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "For a four-dimensional function, how many parameters (weights) will it have?",
+        "Answers": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is the tradeoff of overfitting in machine learning models?",
+        "Answers": [
+            "Higher complexity may improve training accuracy but reduce generalization",
+            "A complex model always improves accuracy",
+            "A simpler model always outperforms a complex one",
+            "Overfitting only occurs with deep learning models"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What should be considered when preparing a dataset for training and testing?",
+        "Answers": [
+            "The test set should follow the same distribution as the training set",
+            "The training set should always be smaller than the test set",
+            "The dataset should only contain outliers",
+            "Data should not be shuffled before splitting"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the functionality of a random seed in machine learning?",
+        "Answers": [
+            "It controls the learning rate of the model",
+            "It ensures the model weights are randomized",
+            "It determines where the random sequence starts, ensuring reproducibility",
+            "It is used to remove noise from the dataset"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What are the advantages of n-fold cross-validation compared to a single train-test split?",
+        "Answers": [
+            "It reduces performance variance and uses all data for training",
+            "It always improves model accuracy",
+            "It ensures perfect generalization to unseen data",
+            "It is faster than a single train-test split"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How is robustness described in the context of machine learning models?",
+        "Answers": [
+            "How well a model generalizes to new data",
+            "How fast a model trains",
+            "How many layers a deep learning model has",
+            "How efficiently a model overfits"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Is k-Nearest Neighbors (kNN) a linear model?",
+        "Answers": [
+            "Yes",
+            "No",
+            "Only when k=1",
+            "Only for high-dimensional data"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does precision indicate in a classification model?",
+        "Answers": [
+            "The percentage of total correct predictions",
+            "The proportion of correctly identified positive cases among all predicted positives",
+            "The percentage of false positives in the dataset",
+            "The total number of instances classified as positive"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does recall indicate in a classification model?",
+        "Answers": [
+            "The proportion of correctly identified positive cases among all actual positives",
+            "The proportion of correctly identified negative cases among all predicted negatives",
+            "The ability to minimize false positives",
+            "The number of false negatives in the dataset"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is a different term for Sensitivity in classification metrics?",
+        "Answers": [
+            "True Negative Rate",
+            "False Positive Rate",
+            "True Positive Rate (Recall)",
+            "F1-Score"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What does the threshold indicate in a classification model?",
+        "Answers": [
+            "The point at which a data point is classified as positive or negative",
+            "The minimum number of features required for classification",
+            "The maximum number of misclassified points allowed",
+            "The value used to determine model overfitting"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Which metric is commonly used to evaluate classifier performance?",
+        "Answers": [
+            "Root Mean Squared Error (RMSE)",
+            "Area Under the ROC Curve (AUROC)",
+            "Mean Absolute Error (MAE)",
+            "Adjusted R-squared"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Why are linear classifiers still used despite advances in deep learning?",
+        "Answers": [
+            "They are always more accurate than deep learning models",
+            "They are easier to interpret, require less computation, and are more transparent",
+            "They are preferred for image recognition tasks",
+            "They can automatically handle non-linear relationships without modification"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "If the data is linearly separable, what values for gamma can you use so that the algorithm still converges? Why? If the data is not linearly separable, what does that mean for gamma (assuming you still want convergence)?",
+        "Answers": [
+            "Gamma should be set to zero for linearly separable data; for non-linearly separable data, gamma should be greater than zero",
+            "Gamma in [0; ∞) for linearly separable data, but greater than zero for non-linearly separable data to ensure convergence",
+            "Gamma should always be set to a small positive value for convergence",
+            "Gamma values do not affect the convergence of the algorithm"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "If you want to test accuracy (robustness), which of the three classifier models we have seen above is most likely to perform best? (SVM, Nearest Centroid Classifier, Perceptron)",
+        "Answers": [
+            "Nearest Centroid Classifier",
+            "Perceptron",
+            "SVM (because it chooses the boundary with the highest margin)",
+            "None of the above"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "If your data is non-linear in its default form, which of the three classifiers can be extended to also work on such data? (SVM, Nearest Centroid Classifier, Perceptron)",
+        "Answers": [
+            "Nearest Centroid Classifier",
+            "Perceptron",
+            "SVM using kernels (kernel trick)",
+            "None of the above"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "If you have data that is linearly separable, what is the simplest classifier you could use (of the ones discussed) to get a working decision boundary? (SVM, Nearest Centroid Classifier, Perceptron)",
+        "Answers": [
+            "Nearest Centroid Classifier",
+            "SVM",
+            "Perceptron (since it only requires gradient descent until a solution is found)",
+            "None of the above"
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "Imagine you generated a dataset from real-world data, and it is not linearly separable, what could you do on a feature-engineering level to make it (potentially) linearly separable? What problems does this approach have?",
+        "Answers": [
+            "Add features (dimensions); potential issues include curse of dimensionality and sparsity",
+            "Remove features to simplify the dataset",
+            "Use more complex models without feature engineering",
+            "Normalize the dataset to make it linearly separable"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Is it always possible to find a polynomial with MSE=0?",
+        "Answers": [
+            "No, it is not always possible",
+            "Yes, for all continuous target functions (Weierstrass approximation theorem)",
+            "Yes, but only for quadratic functions",
+            "No, polynomials are not suitable for regression tasks"
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Why don't we use polynomials more often for regression tasks?",
+        "Answers": [
+            "Because they generalize poorly and overfit easily, often resulting in oscillations",
+            "Because they are too expensive to compute",
+            "Because they always outperform other models",
+            "Because polynomials are only suitable for certain types of data"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How could an n-gram help us represent negative words/phrases better? What value for n would you choose given the above examples?",
+        "Answers": [
+            "By capturing connected phrases like 'not good' as one token; n=2 would work well",
+            "By using n=1 to capture single words only",
+            "By using n=3 to capture long negative phrases",
+            "By excluding negative words from the analysis"
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Should we rely on the log ratio for rare words? Why, and what role does smoothing play in this context?",
+        "Answers": [
+            "Yes, because the log ratio gives stable results for rare words.",
+            "No, because for rare words, the ratio becomes unstable, especially when there are few occurrences in the negative class.",
+            "Yes, because smoothing prevents instability by adjusting the probabilities of rare words.",
+            "No, because smoothing is unnecessary when rare words are encountered."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "If we had more than two classes, how would you modify the log-ratio computation for word classification?",
+        "Answers": [
+            "The log-ratio would be based only on positive and negative classes, with no changes needed.",
+            "The log-ratio would remain the same but with additional normalization steps.",
+            "The log-ratio computation would need to consider all class combinations, not just positive vs. negative.",
+            "You would need to add a new term to penalize large values for each class."
+        ],
+        "Correct": 2
+    },
+    {
+        "Question": "What is a perceptron?",
+        "Answers": [
+            "A model for binary linear classification and a simple neural network.",
+            "A type of support vector machine for multi-class classification.",
+            "An algorithm that uses non-linear decision boundaries for classification.",
+            "A clustering algorithm for unsupervised learning."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What are the advantages of linear models?",
+        "Answers": [
+            "They are difficult to understand but effective in many cases.",
+            "They are cheap to construct and run, easy to study, and well-understood theoretically.",
+            "Linear models are only used in low-dimensional data settings.",
+            "They require complex algorithms to ensure accuracy."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "Why do the parameters in the XOR problem not converge when using a basic linear model?",
+        "Answers": [
+            "The XOR problem has a non-linear decision boundary, and the model tries to fit a linear solution.",
+            "The XOR problem has insufficient data for the model to learn from.",
+            "The linear model is overfitting the XOR data, causing parameter instability.",
+            "The gradient descent algorithm is too slow to find the optimal solution."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How would you describe an XOR case in machine learning?",
+        "Answers": [
+            "A case where linear classifiers cannot separate the classes, requiring transformation into a higher-dimensional space.",
+            "A case where data is perfectly separable by a linear classifier.",
+            "A case that can be solved using simple logistic regression.",
+            "A case where data cannot be separated and requires a k-Nearest Neighbors algorithm."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the problem with the perceptron algorithm?",
+        "Answers": [
+            "It is not effective for multi-class problems.",
+            "It may not be robust in the presence of outliers or when the hyperplane is close to certain data points.",
+            "It is prone to overfitting even with small datasets.",
+            "It fails to converge for non-linear datasets."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What can be imposed for a basic linear classifier besides removing outliers?",
+        "Answers": [
+            "A minimum distance to the classification boundary, as done in Support Vector Machines.",
+            "A strict upper bound on the classification error.",
+            "A regularization term to prevent overfitting.",
+            "A transformation to a higher-dimensional space."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Which boundary should be chosen for linear separation?",
+        "Answers": [
+            "The one that minimizes the classification error rate.",
+            "The one that maximizes the margin between the negative and positive classes, as done by Support Vector Machines.",
+            "The one that balances the number of false positives and false negatives.",
+            "The one closest to the majority of data points."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What do we gain with the kernel trick?",
+        "Answers": [
+            "It allows us to operate in higher-dimensional spaces without explicitly transforming the data.",
+            "It simplifies the linear decision boundary by removing complex non-linearities.",
+            "It reduces the dimensionality of the data while maintaining performance.",
+            "It provides a mechanism for visualizing data in lower dimensions."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Why would you use a linear classifier with a kernel trick instead of a k-Nearest Neighbors (kNN) algorithm?",
+        "Answers": [
+            "The linear classifier with the kernel trick is more complex and harder to implement than kNN.",
+            "The linear classifier with kernel trick is more efficient and operates in the original data space, while kNN is more computationally expensive for large datasets.",
+            "kNN performs better in higher-dimensional spaces.",
+            "The kernel trick is used only in decision tree algorithms, not linear classifiers."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "How can the underflow problem in Naive Bayes be solved?",
+        "Answers": [
+            "By using the log transformation (logarithms) to compute probabilities.",
+            "By using the sigmoid function for probability estimation.",
+            "By normalizing the data before applying Naive Bayes.",
+            "By using a different classification algorithm that doesn’t require probability calculations."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does the perceptron algorithm do in case of an error?",
+        "Answers": [
+            "It adjusts the weights to pull the perceptron in the direction of the correct label.",
+            "It resets the weights to random values and starts the process again.",
+            "It reduces the learning rate and proceeds without further changes.",
+            "It increases the complexity of the model to improve accuracy."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the difference between stochastic and standard gradient descent?",
+        "Answers": [
+            "Stochastic gradient descent uses batches of data for updates, while standard gradient descent uses the entire dataset.",
+            "Stochastic gradient descent is slower but more accurate.",
+            "Standard gradient descent is better for large datasets, while stochastic is better for small datasets.",
+            "There is no difference; they are both identical algorithms."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How can we minimize the calculated error in gradient descent?",
+        "Answers": [
+            "By calculating the gradient and setting it to zero to find the optimal point.",
+            "By increasing the learning rate to quickly converge to a solution.",
+            "By using a more complex model to reduce the error.",
+            "By normalizing the input features before training."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What are some real-world scenarios where a k-Nearest Neighbors (kNN) classifier makes the most sense?",
+        "Answers": [
+            "Anomaly detection, like fraud detection.",
+            "Medical diagnosis.",
+            "Customer segmentation.",
+            "Stock market prediction."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What criteria should a problem meet for k-Nearest Neighbors (kNN) to be a suitable model choice?",
+        "Answers": [
+            "The dataset must have sufficient data points for the number of dimensions.",
+            "Data point similarity should indicate class similarity with localized decision boundaries.",
+            "Classes should be easily separable without any complex preprocessing.",
+            "All of the above."
+        ],
+        "Correct": 3
+    },
+    {
+        "Question": "What is a major issue with k-Nearest Neighbors (kNN) when applied to large datasets?",
+        "Answers": [
+            "Excessive memory usage due to storing all training data.",
+            "High computational cost during inference because of distance computations against all training data points.",
+            "Inability to handle high-dimensional data.",
+            "Overfitting to the training data."
+        ],
+        "Correct": 1
+    },
+    {
+        "Question": "What does a recurrence algorithm do?",
+        "Answers": [
+            "It reuses the output of previous iterations as input for subsequent runs.",
+            "It applies a random function to the input at each step.",
+            "It generates new data from existing data through a recursive process.",
+            "It runs without feedback from previous outputs."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What do attention mechanisms in deep learning models do?",
+        "Answers": [
+            "They focus the model's attention on specific parts of the input data.",
+            "They convert categorical data into numerical representations.",
+            "They add noise to the data to prevent overfitting.",
+            "They reduce the number of training parameters."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "Why are attention mechanisms important in models like GPT for tasks such as translation or text summarization?",
+        "Answers": [
+            "They allow models to focus on relevant parts of the input, regardless of their position in the sequence.",
+            "They simplify the model's computation by ignoring irrelevant input.",
+            "They store important information in memory for later use.",
+            "They prevent the model from focusing on irrelevant words."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the impact of correlations in k-Nearest Neighbors (kNN) on distance calculations?",
+        "Answers": [
+            "Correlations affect the weighting of features in the distance calculation.",
+            "Correlations have no impact on the distance calculations in kNN.",
+            "Correlations make distance calculations faster.",
+            "Correlations allow for faster convergence in decision-making."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What does the weight of a data point in k-Nearest Neighbors (kNN) typically represent?",
+        "Answers": [
+            "The similarity between the data point and its neighbors.",
+            "The distance from the origin of the feature space.",
+            "The probability of the data point being classified into a particular class.",
+            "The computational cost of classifying the data point."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How can computational load be reduced when using k-Nearest Neighbors (kNN) on large datasets?",
+        "Answers": [
+            "By clustering data points and only checking distances to points in nearby clusters.",
+            "By increasing the number of nearest neighbors considered.",
+            "By using a different classifier like decision trees.",
+            "By reducing the dataset size through random sampling."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What is the main challenge of Naive Space Partitioning in k-Nearest Neighbors (kNN)?",
+        "Answers": [
+            "The need to calculate distances to all data points, which is computationally expensive.",
+            "It assumes data points are always distributed uniformly.",
+            "It requires a lot of memory to store partitioned data.",
+            "It is difficult to implement in high-dimensional spaces."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "How can we efficiently find the k-closest neighbors in k-Nearest Neighbors (kNN)?",
+        "Answers": [
+            "By defining partitions (quadrants) over the data points and only checking nearby quadrants.",
+            "By calculating the distance to all data points and sorting them.",
+            "By reducing the feature space to a lower-dimensional representation.",
+            "By clustering the data and checking only the closest cluster."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What issue can arise when a data point is near the border of a quadrant in k-Nearest Neighbors (kNN)?",
+        "Answers": [
+            "It may require checking multiple neighboring quadrants, which increases computational cost.",
+            "It may be misclassified if the border is too strict.",
+            "It may cause overfitting because of insufficient data in neighboring quadrants.",
+            "It will always be classified correctly if the algorithm is implemented correctly."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "In k-Nearest Neighbors (kNN), how is the most likely class for a new data point determined?",
+        "Answers": [
+            "By majority vote from the nearest data points, where the distance metric is crucial.",
+            "By choosing the class of the nearest neighbor.",
+            "By averaging the class values of the nearest neighbors.",
+            "By the class with the most dimensions in common with the new point."
+        ],
+        "Correct": 0
+    },
+    {
+        "Question": "What are some issues with simple k-Nearest Neighbors (kNN) approaches on large datasets?",
+        "Answers": [
+            "High computational cost due to distance metric calculations for each training data point.",
+            "Sensitivity to the choice of features and data scaling (feature engineering).",
+            "Vulnerability to the curse of dimensionality.",
+            "All of the above."
+        ],
+        "Correct": 3
+    }
+]
+
+
